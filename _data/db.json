@@ -1,4 +1,18 @@
 {
-    
-   
+  "match": {
+    "entries": [
+      {
+        "text": "Untitled",
+        "type": "match",
+        "team1": "t",
+        "team2": "t",
+        "homeDate": "13 mai 2025 à 20:30",
+        "awayDate": "18 mai 2025 à 20:30",
+        "homeLocation": "test",
+        "awayLocation": "test",
+        "group": "2",
+        "_id": "0196f214-7ead-716b-af60-c13d23299387"
+      }
+    ]
+  }
 }
