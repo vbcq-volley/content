@@ -11,7 +11,192 @@
         "homeLocation": "test",
         "awayLocation": "test",
         "group": "2",
-        "_id": "0196f214-7ead-716b-af60-c13d23299387"
+        "_id": "0196f214-7ead-716b-af60-c13d23299387",
+        "title": "t vs t"
+      },
+      {
+        "text": "Untitled",
+        "type": "match",
+        "team1": "tesst",
+        "team2": "test",
+        "homeDate": "",
+        "awayDate": "",
+        "homeLocation": "test",
+        "awayLocation": "test",
+        "group": "2",
+        "_id": "1",
+        "title": "tesst vs test"
+      },
+      {
+        "text": "Untitled",
+        "type": "match",
+        "team1": "chaptal",
+        "team2": "thepot",
+        "homeDate": "13 août 2025 à 20:30",
+        "awayDate": "20 août 2028 à 20:30",
+        "homeLocation": "thepot",
+        "awayLocation": "thepot",
+        "group": "2",
+        "title": "chaptal vs thepot",
+        "_id": "3"
+      },
+      {
+        "text": "Untitled",
+        "type": "match",
+        "team1": "test",
+        "team2": "test",
+        "homeDate": "13 août 2020 à 23:30",
+        "awayDate": "",
+        "homeLocation": "test",
+        "awayLocation": "test",
+        "group": "2",
+        "title": "test vs test",
+        "_id": "0196f33c-2802-74c8-80df-142b18c48c93"
+      }
+    ]
+  },
+  "result": {
+    "entries": [
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false,
+        "_id": "0196f224-7135-7009-a3d9-10d10eca712c"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "homeDate": "",
+        "awayDate": "",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false,
+        "_id": "0196f229-65f3-7631-9ea0-24d9f3c19fa9"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false,
+        "_id": "0196f232-a204-73cc-93f7-0bead9a22b92"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false,
+        "_id": "0196f239-0a0c-705e-8cbc-33455f31be48"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "2",
+        "isPostponed": false,
+        "_id": "0196f23b-54a4-7278-9505-a1f1322ec109"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "2",
+        "isPostponed": false,
+        "_id": "0196f23e-b0c1-735c-98e8-231c4fc53f87"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false,
+        "_id": "0196f240-0f9c-731b-920d-22d17fbf027d"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "2",
+        "isPostponed": false,
+        "_id": "0196f242-75ff-7451-a324-15831c5b6313"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "13 mai 2025 à 20:30",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false,
+        "_id": "0196f244-de2e-764a-8b21-eb7d3cbf5e9d"
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "13 mai 2025 à 20:30",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "2",
+        "isPostponed": false
+      },
+      {
+        "text": "Untitled",
+        "type": "result",
+        "team1": "t",
+        "team2": "t",
+        "group": "2",
+        "date": "",
+        "team1Score": "3",
+        "team2Score": "1",
+        "isPostponed": false
       }
     ]
   }
