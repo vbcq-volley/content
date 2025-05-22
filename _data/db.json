@@ -12,7 +12,8 @@
         "awayLocation": "test",
         "group": "2",
         "_id": "0196f214-7ead-716b-af60-c13d23299387",
-        "title": "t vs t"
+        "title": "t vs t",
+        "updated_at": "2025-05-22T12:00:58.521Z"
       },
       {
         "text": "Untitled",
@@ -25,7 +26,8 @@
         "awayLocation": "test",
         "group": "2",
         "_id": "1",
-        "title": "tesst vs test"
+        "title": "tesst vs test",
+        "updated_at": "2025-05-22T12:00:58.536Z"
       },
       {
         "text": "Untitled",
@@ -38,7 +40,8 @@
         "awayLocation": "thepot",
         "group": "2",
         "title": "chaptal vs thepot",
-        "_id": "3"
+        "_id": "3",
+        "updated_at": "2025-05-22T12:00:58.537Z"
       },
       {
         "text": "Untitled",
@@ -51,7 +54,8 @@
         "awayLocation": "test",
         "group": "2",
         "title": "test vs test",
-        "_id": "0196f33c-2802-74c8-80df-142b18c48c93"
+        "_id": "0196f33c-2802-74c8-80df-142b18c48c93",
+        "updated_at": "2025-05-22T12:00:58.538Z"
       },
       {
         "text": "Untitled",
@@ -64,9 +68,13 @@
         "awayLocation": "test",
         "group": "1",
         "_id": "0196f72a-8864-7169-8be1-f4c3a0e813da",
-        "title": "test1 vs test2"
+        "title": "test1 vs test2",
+        "updated_at": "2025-05-22T12:00:58.538Z"
       }
-    ]
+    ],
+    "metadata": {
+      "updated_at": "2025-05-22T12:00:58.538Z"
+    }
   },
   "result": {
     "entries": [
