@@ -1,3 +1,4 @@
+---
 title: groupe 3
 layout: championnat
 group: 3
