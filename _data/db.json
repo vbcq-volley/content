@@ -10,7 +10,7 @@
         "awayDate": "5 avril 2025 à 20:30",
         "homeLocation": "CHAPTAL",
         "awayLocation": "thepot",
-        "group": "1",
+        "group": 1,
         "_id": "0196fc69-0189-755c-91ab-d69b539355d5",
         "created_at": "2025-05-23T09:11:02.282Z",
         "updated_at": "2025-05-23T09:22:40.108Z",
@@ -30,7 +30,7 @@
         "text": "Untitled",
         "teamName": "test alpha",
         "coach": "admin 1",
-        "group": "1",
+        "group": 1,
         "_id": "0196fc5a-19a9-71c3-b9d5-eb23d62c1158",
         "created_at": "2025-05-23T08:54:45.418Z",
         "updated_at": "2025-05-23T08:54:45.418Z"
@@ -39,7 +39,7 @@
         "text": "Untitled",
         "teamName": "test béta",
         "coach": "admin 2",
-        "group": "1",
+        "group": 1,
         "_id": "0196fc64-fabe-749a-ae9a-0c9c672bf290",
         "created_at": "2025-05-23T09:06:38.401Z",
         "updated_at": "2025-05-23T09:06:38.401Z"
@@ -65,7 +65,9 @@
         "isPostponed": false,
         "_id": "0196fc74-f034-70af-90f5-5d6cb3271be9",
         "created_at": "2025-05-23T09:24:04.277Z",
-        "updated_at": "2025-05-23T09:24:04.277Z"
+        "updated_at": "2025-05-23T09:24:04.277Z",
+        "session": 1,
+        "group": "1"
       }
     ],
     "metadata": {
