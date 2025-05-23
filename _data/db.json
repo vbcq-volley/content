@@ -51,10 +51,26 @@
     }
   },
   "result": {
-    "entries": [],
+    "entries": [
+      {
+        "text": "Résultat: test alpha vs test béta",
+        "type": "result",
+        "matchId": "0196fc69-0189-755c-91ab-d69b539355d5",
+        "team1": "test alpha",
+        "team2": "test béta",
+        "matchType": "home",
+        "team1Score": "3",
+        "team2Score": "0",
+        "isForfeit": false,
+        "isPostponed": false,
+        "_id": "0196fc74-f034-70af-90f5-5d6cb3271be9",
+        "created_at": "2025-05-23T09:24:04.277Z",
+        "updated_at": "2025-05-23T09:24:04.277Z"
+      }
+    ],
     "metadata": {
       "created_at": "2025-05-23T09:03:57.621Z",
-      "updated_at": "2025-05-23T09:03:57.621Z"
+      "updated_at": "2025-05-23T09:24:04.277Z"
     }
   }
 }
