@@ -1,3 +1,57 @@
 {
-
+  "match": {
+    "entries": [
+      {
+        "text": "Untitled",
+        "type": "match",
+        "team1": "test alpha",
+        "team2": "test béta",
+        "homeDate": "31 mars 2025 à 20:30",
+        "awayDate": "5 avril 2025 à 20:30",
+        "homeLocation": "CHAPTAL",
+        "awayLocation": "thepot",
+        "group": "1",
+        "_id": "0196fc69-0189-755c-91ab-d69b539355d5",
+        "created_at": "2025-05-23T09:11:02.282Z",
+        "updated_at": "2025-05-23T09:11:02.282Z"
+      }
+    ],
+    "metadata": {
+      "created_at": "2025-05-23T08:54:05.966Z",
+      "updated_at": "2025-05-23T09:11:02.282Z"
+    }
+  },
+  "team": {
+    "entries": [
+      {
+        "text": "Untitled",
+        "teamName": "test alpha",
+        "coach": "admin 1",
+        "group": "1",
+        "_id": "0196fc5a-19a9-71c3-b9d5-eb23d62c1158",
+        "created_at": "2025-05-23T08:54:45.418Z",
+        "updated_at": "2025-05-23T08:54:45.418Z"
+      },
+      {
+        "text": "Untitled",
+        "teamName": "test béta",
+        "coach": "admin 2",
+        "group": "1",
+        "_id": "0196fc64-fabe-749a-ae9a-0c9c672bf290",
+        "created_at": "2025-05-23T09:06:38.401Z",
+        "updated_at": "2025-05-23T09:06:38.401Z"
+      }
+    ],
+    "metadata": {
+      "created_at": "2025-05-23T08:54:21.306Z",
+      "updated_at": "2025-05-23T09:06:38.401Z"
+    }
+  },
+  "result": {
+    "entries": [],
+    "metadata": {
+      "created_at": "2025-05-23T09:03:57.621Z",
+      "updated_at": "2025-05-23T09:03:57.621Z"
+    }
+  }
 }
