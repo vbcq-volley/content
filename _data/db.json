@@ -22,7 +22,8 @@
     "metadata": {
       "created_at": "2025-05-23T08:54:05.966Z",
       "updated_at": "2025-05-23T09:22:40.108Z"
-    }
+    },
+    "indexById": {}
   },
   "team": {
     "entries": [
@@ -33,7 +34,8 @@
         "group": "1",
         "_id": "0196fc5a-19a9-71c3-b9d5-eb23d62c1158",
         "created_at": "2025-05-23T08:54:45.418Z",
-        "updated_at": "2025-05-23T08:54:45.418Z"
+        "updated_at": "2025-05-23T08:54:45.418Z",
+        "index": 0
       },
       {
         "text": "Untitled",
@@ -42,7 +44,8 @@
         "group": "1",
         "_id": "0196fc64-fabe-749a-ae9a-0c9c672bf290",
         "created_at": "2025-05-23T09:06:38.401Z",
-        "updated_at": "2025-05-23T09:06:38.401Z"
+        "updated_at": "2025-05-23T09:06:38.401Z",
+        "index": 1
       },
       {
         "text": "Untitled",
@@ -51,7 +54,8 @@
         "group": "2",
         "_id": "0196fc8e-6550-7498-8500-656994ad423d",
         "created_at": "2025-05-23T09:51:52.661Z",
-        "updated_at": "2025-05-23T09:51:52.661Z"
+        "updated_at": "2025-05-23T09:51:52.661Z",
+        "index": 2
       },
       {
         "text": "Untitled",
@@ -60,13 +64,15 @@
         "group": "3",
         "_id": "0196fcad-56fc-72d8-8b6f-490c7e8b4613",
         "created_at": "2025-05-23T10:25:40.608Z",
-        "updated_at": "2025-05-23T10:25:40.608Z"
+        "updated_at": "2025-05-23T10:25:40.608Z",
+        "index": 3
       }
     ],
     "metadata": {
       "created_at": "2025-05-23T08:54:21.306Z",
       "updated_at": "2025-05-23T10:25:40.608Z"
-    }
+    },
+    "indexById": {}
   },
   "result": {
     "entries": [
@@ -83,7 +89,7 @@
         "isPostponed": false,
         "_id": "0196fc74-f034-70af-90f5-5d6cb3271be9",
         "created_at": "2025-05-23T09:24:04.277Z",
-        "updated_at": "2025-05-23T14:11:43.685Z",
+        "updated_at": "2025-05-23T14:50:05.438Z",
         "group": "1",
         "session": 1,
         "index": 0,
@@ -92,7 +98,8 @@
     ],
     "metadata": {
       "created_at": "2025-05-23T09:03:57.621Z",
-      "updated_at": "2025-05-23T14:11:43.685Z"
-    }
+      "updated_at": "2025-05-23T14:50:05.438Z"
+    },
+    "indexById": {}
   }
 }
