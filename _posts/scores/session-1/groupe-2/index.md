@@ -1,6 +1,6 @@
 ---
 title: Scores Session 1 - Groupe 2
-date: 2025-05-23T13:44:46.664Z
+date: 2025-05-23T14:06:15.946Z
 layout: post
 concern_group: 2
 ---
