@@ -1,17 +1,20 @@
 ---
 title: Scores Session 1
-date: 2025-05-23T14:26:26.147Z
+date: 2025-05-23T14:44:27.474Z
 layout: post
 ---
 
 # Scores Session 1
 
 
-## [Groupe 1](/scores/session-1/groupe-1)
+## [Groupe 1 - Aller](/scores/session-1/groupe-1/aller/)
+## [Groupe 1 - Retour](/scores/session-1/groupe-1/retour/)
 
 
-## [Groupe 2](/scores/session-1/groupe-2)
+## [Groupe 2 - Aller](/scores/session-1/groupe-2/aller/)
+## [Groupe 2 - Retour](/scores/session-1/groupe-2/retour/)
 
 
-## [Groupe 3](/scores/session-1/groupe-3)
+## [Groupe 3 - Aller](/scores/session-1/groupe-3/aller/)
+## [Groupe 3 - Retour](/scores/session-1/groupe-3/retour/)
 

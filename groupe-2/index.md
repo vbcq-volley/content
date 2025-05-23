@@ -1,7 +1,16 @@
 ---
 title: groupe_2
-date: 2025-05-23T14:26:26.145Z
+date: 2025-05-23T14:44:27.459Z
 layout: championnat
 group: 2
 ---
-service en cours
+
+# Groupe 2
+
+## Sessions
+
+
+### Session 1
+- [Matchs Aller](/scores/session-1/groupe-2/aller/)
+- [Matchs Retour](/scores/session-1/groupe-2/retour/)
+
