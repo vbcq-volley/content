@@ -1,7 +1,7 @@
 ---
-title: Scores Session 1 - Groupe 3 - Matchs Retour
-date: 2025-05-26T13:53:00.564Z
-layout: retour
+title: Scores Session 3 - Groupe 3 - Matchs Aller
+date: 2025-05-26T13:53:00.619Z
+layout: aller
 concern_group: 3
 ---
 
