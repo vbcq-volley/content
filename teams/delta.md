@@ -1,8 +1,6 @@
----
 title: Équipe delta
-date: 2025-05-26T07:24:23.107Z
 layout: post
+date: 2025-05-26 07:24:23
 ---
-
 # delta
-
+petite description de l'équipe 
