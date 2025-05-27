@@ -125,11 +125,7 @@
         "isPostponed": false,
         "_id": "01970cd6-d7de-759f-b70e-06c048892b7b",
         "created_at": "2025-05-26T13:44:56.031Z",
-<<<<<<< HEAD
         "updated_at": "2025-05-27T09:43:41.260Z",
-=======
-        "updated_at": "2025-05-27T09:37:53.698Z",
->>>>>>> 9d24ed6 (Mise à jour automatique des fichiers)
         "session": 1,
         "group": "1",
         "index": 1,
@@ -153,11 +149,7 @@
         "type": "result",
         "_id": "019710d6-f69d-7392-9e74-322c9321571d",
         "created_at": "2025-05-27T08:23:32.782Z",
-<<<<<<< HEAD
         "updated_at": "2025-05-27T09:43:41.260Z",
-=======
-        "updated_at": "2025-05-27T09:37:53.699Z",
->>>>>>> 9d24ed6 (Mise à jour automatique des fichiers)
         "index": 2
       }
     ],
