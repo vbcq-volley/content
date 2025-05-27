@@ -108,7 +108,8 @@
         "group": "2",
         "_id": "019711f3-485d-769e-a97d-e97068653bac",
         "created_at": "2025-05-27T13:34:05.919Z",
-        "updated_at": "2025-05-27T13:34:05.919Z"
+        "updated_at": "2025-05-27T13:34:05.919Z",
+        "index": 4
       }
     ],
     "metadata": {
@@ -119,67 +120,6 @@
   },
   "result": {
     "entries": [
-      {
-        "text": "Résultat: test alpha vs test béta",
-        "type": "result",
-        "matchId": "0196fc69-0189-755c-91ab-d69b539355d5",
-        "team1": "test alpha",
-        "team2": "test béta",
-        "matchType": "home",
-        "team1Score": "",
-        "team2Score": "",
-        "isForfeit": false,
-        "isPostponed": false,
-        "_id": "01970cd6-d7de-759f-b70e-06c048892b7b",
-        "created_at": "2025-05-26T13:44:56.031Z",
-        "updated_at": "2025-05-27T13:35:12.057Z",
-        "session": 1,
-        "group": "1",
-        "index": 0,
-        "date": "31 mars 2025 à 20:30"
-      },
-      {
-        "team1": "test béta",
-        "team2": "test alpha",
-        "team1Score": "3",
-        "team2Score": "1",
-        "matchType": "home",
-        "isForfeit": false,
-        "forfeitTeam": null,
-        "isPostponed": false,
-        "postponedTeam": null,
-        "matchId": "01970cd1-e7a0-776f-a008-290df31bd5f3",
-        "group": "1",
-        "session": 3,
-        "date": "31 mars 2025 à 20:30",
-        "text": "Résultat: test béta vs test alpha",
-        "type": "result",
-        "_id": "019710d6-f69d-7392-9e74-322c9321571d",
-        "created_at": "2025-05-27T08:23:32.782Z",
-        "updated_at": "2025-05-27T13:35:12.073Z",
-        "index": 1
-      },
-      {
-        "team1": "test alpha",
-        "team2": "test béta",
-        "team1Score": "3",
-        "team2Score": "5",
-        "matchType": "home",
-        "isForfeit": false,
-        "forfeitTeam": null,
-        "isPostponed": false,
-        "postponedTeam": null,
-        "matchId": "0196fc69-0189-755c-91ab-d69b539355d5",
-        "group": "1",
-        "session": 1,
-        "date": "31 mars 2025 à 20:30",
-        "text": "Résultat: test alpha vs test béta",
-        "type": "result",
-        "_id": "01971151-2396-7019-9c55-99e615cf7f7c",
-        "created_at": "2025-05-27T10:36:59.689Z",
-        "updated_at": "2025-05-27T13:35:12.074Z",
-        "index": 2
-      },
       {
         "team1": "test béta",
         "team2": "test alpha",
@@ -198,13 +138,32 @@
         "type": "result",
         "_id": "019711cd-ce10-70cb-a3ad-c05ddab54896",
         "created_at": "2025-05-27T12:53:09.790Z",
-        "updated_at": "2025-05-27T13:35:12.075Z",
-        "index": 3
+        "updated_at": "2025-05-27T14:45:46.121Z",
+        "index": 0
+      },
+      {
+        "text": "Résultat: test alpha vs test béta",
+        "type": "result",
+        "matchId": "0196fc69-0189-755c-91ab-d69b539355d5",
+        "team1": "test alpha",
+        "team2": "test béta",
+        "matchType": "home",
+        "team1Score": "3",
+        "team2Score": "3",
+        "isForfeit": false,
+        "isPostponed": false,
+        "_id": "01970cd6-d7de-759f-b70e-06c048892b7b",
+        "created_at": "2025-05-27T13:39:24.957Z",
+        "updated_at": "2025-05-27T14:45:46.123Z",
+        "session": 1,
+        "group": "1",
+        "index": 1,
+        "date": "31 mars 2025 à 20:30"
       }
     ],
     "metadata": {
       "created_at": "2025-05-23T09:03:57.621Z",
-      "updated_at": "2025-05-27T13:35:12.075Z"
+      "updated_at": "2025-05-27T14:45:46.123Z"
     },
     "indexById": {}
   },
