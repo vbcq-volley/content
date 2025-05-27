@@ -1,19 +1,16 @@
 ---
-title: groupe_1
-date: 2025-05-27T06:39:43.705Z
-layout: championnat
-group: 1
+title: Équipe test béta
+date: 2025-05-27T06:39:43.726Z
+layout: post
 ---
 
-# Groupe 1
+# test béta
 
 ## Sessions
-
 
 ### Session 1
 - [Matchs Aller](/scores/session-1/groupe-1/aller/)
 - [Matchs Retour](/scores/session-1/groupe-1/retour/)
-
 
 ### Session 3
 - [Matchs Aller](/scores/session-3/groupe-1/aller/)
