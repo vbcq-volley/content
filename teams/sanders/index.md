@@ -1,10 +1,10 @@
 ---
-title: Équipe test charli
-date: 2025-06-03T14:13:06.810Z
+title: Équipe sanders
+date: 2025-06-03T14:13:06.814Z
 layout: post
 ---
 
-# test charli
+# sanders
 
 ## Sessions
 
