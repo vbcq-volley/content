@@ -138,7 +138,7 @@
         "type": "result",
         "_id": "019711cd-ce10-70cb-a3ad-c05ddab54896",
         "created_at": "2025-05-27T12:53:09.790Z",
-        "updated_at": "2025-06-04T12:04:42.169Z",
+        "updated_at": "2025-06-04T12:05:17.672Z",
         "index": 0
       },
       {
@@ -154,7 +154,7 @@
         "isPostponed": false,
         "_id": "01970cd6-d7de-759f-b70e-06c048892b7b",
         "created_at": "2025-05-27T13:39:24.957Z",
-        "updated_at": "2025-06-04T12:04:42.180Z",
+        "updated_at": "2025-06-04T12:05:17.674Z",
         "session": 1,
         "group": "1",
         "index": 1,
@@ -163,13 +163,30 @@
     ],
     "metadata": {
       "created_at": "2025-05-23T09:03:57.621Z",
-      "updated_at": "2025-06-04T12:04:42.180Z"
+      "updated_at": "2025-06-04T12:05:17.674Z"
     },
     "indexById": {}
   },
   "stade": {
     "entries": [
-    
+      {
+        "stadeName": "test",
+        "address": "35, chemin des Justices, quimpe",
+        "_id": "019710d9-0379-77bb-ad4b-4d7260593824",
+        "created_at": "2025-05-27T08:25:47.129Z",
+        "updated_at": "2025-06-04T07:36:59.220Z",
+        "index": 0
+      },
+      {
+        "text": "Sans titre",
+        "type": "stade",
+        "stadeName": "test",
+        "address": "35, chemin des Justices, quimper",
+        "_id": "019710d9-0379-77bb-ad4b-4d7260593824",
+        "created_at": "2025-06-04T07:36:43.526Z",
+        "updated_at": "2025-06-04T07:36:43.526Z",
+        "index": 1
+      },
       {
         "text": "Sans titre",
         "type": "stade",
