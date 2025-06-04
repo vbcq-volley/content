@@ -1,6 +1,6 @@
 ---
 title: Équipe test béta
-date: 2025-06-03T14:13:06.808Z
+date: 2025-06-04T07:18:15.986Z
 layout: post
 ---
 
@@ -9,10 +9,10 @@ layout: post
 ## Sessions
 
 ### Session 1
-- [Matchs Aller](/scores/session-1/groupe-1/aller/)
-- [Matchs Retour](/scores/session-1/groupe-1/retour/)
+- [résultats aller ](/scores/session-1/groupe-1/aller/)
+- [résultats retour](/scores/session-1/groupe-1/retour/)
 
 ### Session 3
-- [Matchs Aller](/scores/session-3/groupe-1/aller/)
-- [Matchs Retour](/scores/session-3/groupe-1/retour/)
+- [résultats aller ](/scores/session-3/groupe-1/aller/)
+- [résultats retour](/scores/session-3/groupe-1/retour/)
 

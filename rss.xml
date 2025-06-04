@@ -7,8 +7,8 @@
 		<link>http://example.com</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>2025-06-03T11:40:39.179Z</lastBuildDate>
-		<pubDate>2025-06-03T09:40:39.177Z</pubDate>
+		<lastBuildDate>2025-06-04T08:49:46.232Z</lastBuildDate>
+		<pubDate>2025-06-04T06:49:46.229Z</pubDate>
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
@@ -26,11 +26,19 @@
 			<guid>http://example.com/2025/05/26/test/</guid>
 		</item>
 		<item>
+			<title>test2</title>
+			<link>http://example.com/2025/06/03/test2/</link>
+			<description>test2</description>
+			<author>noreply@blogger.com (John Doe)</author>
+			<pubDate>2025-06-03T13:34:22.000Z</pubDate>
+			<guid>http://example.com/2025/06/03/test2/</guid>
+		</item>
+		<item>
 			<title>groupe_1</title>
 			<link>http://example.com/groupe-1/</link>
 			<description>groupe_1</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.472Z</pubDate>
+			<pubDate>2025-06-04T04:49:45.982Z</pubDate>
 			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
@@ -38,7 +46,7 @@
 			<link>http://example.com/groupe-2/</link>
 			<description>groupe_2</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.473Z</pubDate>
+			<pubDate>2025-06-04T04:49:45.984Z</pubDate>
 			<guid>http://example.com/groupe-2/</guid>
 		</item>
 		<item>
@@ -46,7 +54,7 @@
 			<link>http://example.com/groupe-3/</link>
 			<description>groupe_3</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.474Z</pubDate>
+			<pubDate>2025-06-04T04:49:45.984Z</pubDate>
 			<guid>http://example.com/groupe-3/</guid>
 		</item>
 		<item>
@@ -54,7 +62,7 @@
 			<link>http://example.com/scores-session-0/</link>
 			<description>Scores Session 0</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.779Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.147Z</pubDate>
 			<guid>http://example.com/scores-session-0/</guid>
 		</item>
 		<item>
@@ -62,7 +70,7 @@
 			<link>http://example.com/scores-session-1/</link>
 			<description>Scores Session 1</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.743Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.051Z</pubDate>
 			<guid>http://example.com/scores-session-1/</guid>
 		</item>
 		<item>
@@ -70,7 +78,7 @@
 			<link>http://example.com/scores-session-3/</link>
 			<description>Scores Session 3</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.760Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.080Z</pubDate>
 			<guid>http://example.com/scores-session-3/</guid>
 		</item>
 		<item>
@@ -134,7 +142,7 @@
 			<link>http://example.com/teams/delta/</link>
 			<description>&#x26;#xC9;quipe delta</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:39.120Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.227Z</pubDate>
 			<guid>http://example.com/teams/delta/</guid>
 		</item>
 		<item>
@@ -142,7 +150,7 @@
 			<link>http://example.com/teams/sanders/</link>
 			<description>&#x26;#xC9;quipe sanders</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:39.177Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.229Z</pubDate>
 			<guid>http://example.com/teams/sanders/</guid>
 		</item>
 		<item>
@@ -150,7 +158,7 @@
 			<link>http://example.com/teams/test%20alpha/</link>
 			<description>&#x26;#xC9;quipe test alpha</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.864Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.168Z</pubDate>
 			<guid>http://example.com/teams/test%20alpha/</guid>
 		</item>
 		<item>
@@ -158,7 +166,7 @@
 			<link>http://example.com/teams/test%20b%C3%A9ta/</link>
 			<description>&#x26;#xC9;quipe test b&#x26;#xE9;ta</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.936Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.171Z</pubDate>
 			<guid>http://example.com/teams/test%20b%C3%A9ta/</guid>
 		</item>
 		<item>
@@ -166,7 +174,7 @@
 			<link>http://example.com/teams/test%20charli/</link>
 			<description>&#x26;#xC9;quipe test charli</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:39.018Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.219Z</pubDate>
 			<guid>http://example.com/teams/test%20charli/</guid>
 		</item>
 		<item>
@@ -174,7 +182,7 @@
 			<link>http://example.com/scores/session-0/groupe-1/aller/</link>
 			<description>Scores Session 0 - Groupe 1 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.780Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.148Z</pubDate>
 			<guid>http://example.com/scores/session-0/groupe-1/aller/</guid>
 		</item>
 		<item>
@@ -182,7 +190,7 @@
 			<link>http://example.com/scores/session-0/groupe-1/retour/</link>
 			<description>Scores Session 0 - Groupe 1 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.780Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.148Z</pubDate>
 			<guid>http://example.com/scores/session-0/groupe-1/retour/</guid>
 		</item>
 		<item>
@@ -190,7 +198,7 @@
 			<link>http://example.com/scores/session-0/groupe-2/aller/</link>
 			<description>Scores Session 0 - Groupe 2 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.796Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.153Z</pubDate>
 			<guid>http://example.com/scores/session-0/groupe-2/aller/</guid>
 		</item>
 		<item>
@@ -198,7 +206,7 @@
 			<link>http://example.com/scores/session-0/groupe-2/retour/</link>
 			<description>Scores Session 0 - Groupe 2 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.796Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.153Z</pubDate>
 			<guid>http://example.com/scores/session-0/groupe-2/retour/</guid>
 		</item>
 		<item>
@@ -206,7 +214,7 @@
 			<link>http://example.com/scores/session-0/groupe-3/aller/</link>
 			<description>Scores Session 0 - Groupe 3 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.802Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.161Z</pubDate>
 			<guid>http://example.com/scores/session-0/groupe-3/aller/</guid>
 		</item>
 		<item>
@@ -214,7 +222,7 @@
 			<link>http://example.com/scores/session-0/groupe-3/retour/</link>
 			<description>Scores Session 0 - Groupe 3 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.802Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.161Z</pubDate>
 			<guid>http://example.com/scores/session-0/groupe-3/retour/</guid>
 		</item>
 		<item>
@@ -222,7 +230,7 @@
 			<link>http://example.com/scores/session-1/groupe-1/aller/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.744Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.052Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/aller/</guid>
 		</item>
 		<item>
@@ -230,7 +238,7 @@
 			<link>http://example.com/scores/session-1/groupe-2/aller/</link>
 			<description>Scores Session 1 - Groupe 2 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.750Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.063Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-2/aller/</guid>
 		</item>
 		<item>
@@ -238,7 +246,7 @@
 			<link>http://example.com/scores/session-1/groupe-1/retour/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.745Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.052Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/retour/</guid>
 		</item>
 		<item>
@@ -246,7 +254,7 @@
 			<link>http://example.com/scores/session-1/groupe-2/retour/</link>
 			<description>Scores Session 1 - Groupe 2 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.750Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.063Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-2/retour/</guid>
 		</item>
 		<item>
@@ -254,7 +262,7 @@
 			<link>http://example.com/scores/session-1/groupe-3/aller/</link>
 			<description>Scores Session 1 - Groupe 3 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.757Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.068Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-3/aller/</guid>
 		</item>
 		<item>
@@ -262,7 +270,7 @@
 			<link>http://example.com/scores/session-1/groupe-3/retour/</link>
 			<description>Scores Session 1 - Groupe 3 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.757Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.068Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-3/retour/</guid>
 		</item>
 		<item>
@@ -270,7 +278,7 @@
 			<link>http://example.com/scores/session-3/groupe-1/aller/</link>
 			<description>Scores Session 3 - Groupe 1 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.761Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.081Z</pubDate>
 			<guid>http://example.com/scores/session-3/groupe-1/aller/</guid>
 		</item>
 		<item>
@@ -278,7 +286,7 @@
 			<link>http://example.com/scores/session-3/groupe-1/retour/</link>
 			<description>Scores Session 3 - Groupe 1 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.761Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.081Z</pubDate>
 			<guid>http://example.com/scores/session-3/groupe-1/retour/</guid>
 		</item>
 		<item>
@@ -286,7 +294,7 @@
 			<link>http://example.com/scores/session-3/groupe-2/aller/</link>
 			<description>Scores Session 3 - Groupe 2 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.766Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.101Z</pubDate>
 			<guid>http://example.com/scores/session-3/groupe-2/aller/</guid>
 		</item>
 		<item>
@@ -294,7 +302,7 @@
 			<link>http://example.com/scores/session-3/groupe-2/retour/</link>
 			<description>Scores Session 3 - Groupe 2 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.766Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.101Z</pubDate>
 			<guid>http://example.com/scores/session-3/groupe-2/retour/</guid>
 		</item>
 		<item>
@@ -302,7 +310,7 @@
 			<link>http://example.com/scores/session-3/groupe-3/aller/</link>
 			<description>Scores Session 3 - Groupe 3 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.771Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.119Z</pubDate>
 			<guid>http://example.com/scores/session-3/groupe-3/aller/</guid>
 		</item>
 		<item>
@@ -310,7 +318,7 @@
 			<link>http://example.com/scores/session-3/groupe-3/retour/</link>
 			<description>Scores Session 3 - Groupe 3 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-03T07:40:38.771Z</pubDate>
+			<pubDate>2025-06-04T04:49:46.119Z</pubDate>
 			<guid>http://example.com/scores/session-3/groupe-3/retour/</guid>
 		</item>
 	</channel>

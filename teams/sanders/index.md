@@ -1,6 +1,6 @@
 ---
 title: Équipe sanders
-date: 2025-06-03T14:13:06.814Z
+date: 2025-06-04T07:18:16.001Z
 layout: post
 ---
 
@@ -9,6 +9,6 @@ layout: post
 ## Sessions
 
 ### Session 0
-- [Matchs Aller](/scores/session-0/groupe-2/aller/)
-- [Matchs Retour](/scores/session-0/groupe-2/retour/)
+- [résultats aller ](/scores/session-0/groupe-2/aller/)
+- [résultats retour](/scores/session-0/groupe-2/retour/)
 
