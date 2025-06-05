@@ -2,228 +2,228 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Hexo</title>
 	<link href="http://example.com" />
-	<updated>2025-06-05T11:44:03.494Z</updated>
+	<updated>2025-06-05T12:09:08.010Z</updated>
 	<author>
 		<name>John Doe</name>
 		<email>noreply@blogger.com</email>
 	</author>
 	<id>http://example.com</id>
 	<entry>
-		<title>groupe_2</title>
-		<link href="http://example.com/groupe-2/" />
-		<id>http://example.com/groupe-2/</id>
-		<updated>2025-06-05T09:44:03.059Z</updated>
-		<summary>groupe_2</summary>
-	</entry>
-	<entry>
 		<title>groupe_1</title>
 		<link href="http://example.com/groupe-1/" />
 		<id>http://example.com/groupe-1/</id>
-		<updated>2025-06-05T09:44:03.045Z</updated>
+		<updated>2025-06-05T10:09:07.777Z</updated>
 		<summary>groupe_1</summary>
+	</entry>
+	<entry>
+		<title>groupe_2</title>
+		<link href="http://example.com/groupe-2/" />
+		<id>http://example.com/groupe-2/</id>
+		<updated>2025-06-05T10:09:07.785Z</updated>
+		<summary>groupe_2</summary>
 	</entry>
 	<entry>
 		<title>groupe_3</title>
 		<link href="http://example.com/groupe-3/" />
 		<id>http://example.com/groupe-3/</id>
-		<updated>2025-06-05T09:44:03.096Z</updated>
+		<updated>2025-06-05T10:09:07.799Z</updated>
 		<summary>groupe_3</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 0</title>
 		<link href="http://example.com/scores-session-0/" />
 		<id>http://example.com/scores-session-0/</id>
-		<updated>2025-06-05T09:44:03.429Z</updated>
+		<updated>2025-06-05T10:09:07.873Z</updated>
 		<summary>Scores Session 0</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1</title>
 		<link href="http://example.com/scores-session-1/" />
 		<id>http://example.com/scores-session-1/</id>
-		<updated>2025-06-05T09:44:03.170Z</updated>
+		<updated>2025-06-05T10:09:07.842Z</updated>
 		<summary>Scores Session 1</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 3</title>
 		<link href="http://example.com/scores-session-3/" />
 		<id>http://example.com/scores-session-3/</id>
-		<updated>2025-06-05T09:44:03.324Z</updated>
+		<updated>2025-06-05T10:09:07.859Z</updated>
 		<summary>Scores Session 3</summary>
 	</entry>
 	<entry>
 		<title>Stades</title>
 		<link href="http://example.com/stades/" />
 		<id>http://example.com/stades/</id>
-		<updated>2025-06-05T09:44:03.494Z</updated>
+		<updated>2025-06-05T10:09:07.726Z</updated>
 		<summary>Stades</summary>
-	</entry>
-	<entry>
-		<title>test</title>
-		<link href="http://example.com/stades/test/" />
-		<id>http://example.com/stades/test/</id>
-		<updated>2025-06-05T09:44:03.493Z</updated>
-		<summary>test</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe delta</title>
 		<link href="http://example.com/teams/delta/" />
 		<id>http://example.com/teams/delta/</id>
-		<updated>2025-06-05T09:44:02.917Z</updated>
+		<updated>2025-06-05T10:09:07.983Z</updated>
 		<summary>&#x26;#xC9;quipe delta</summary>
+	</entry>
+	<entry>
+		<title>test</title>
+		<link href="http://example.com/stades/test/" />
+		<id>http://example.com/stades/test/</id>
+		<updated>2025-06-05T10:09:07.726Z</updated>
+		<summary>test</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe sanders</title>
 		<link href="http://example.com/teams/sanders/" />
 		<id>http://example.com/teams/sanders/</id>
-		<updated>2025-06-05T09:44:02.949Z</updated>
+		<updated>2025-06-05T10:09:08.010Z</updated>
 		<summary>&#x26;#xC9;quipe sanders</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe test alpha</title>
 		<link href="http://example.com/teams/test-alpha/" />
 		<id>http://example.com/teams/test-alpha/</id>
-		<updated>2025-06-05T09:44:02.898Z</updated>
+		<updated>2025-06-05T10:09:07.894Z</updated>
 		<summary>&#x26;#xC9;quipe test alpha</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe test b&#xE9;ta</title>
 		<link href="http://example.com/teams/test-b%C3%A9ta/" />
 		<id>http://example.com/teams/test-b%C3%A9ta/</id>
-		<updated>2025-06-05T09:44:02.898Z</updated>
+		<updated>2025-06-05T10:09:07.924Z</updated>
 		<summary>&#x26;#xC9;quipe test b&#x26;#xE9;ta</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe test charli</title>
 		<link href="http://example.com/teams/test-charli/" />
 		<id>http://example.com/teams/test-charli/</id>
-		<updated>2025-06-05T09:44:02.905Z</updated>
+		<updated>2025-06-05T10:09:07.947Z</updated>
 		<summary>&#x26;#xC9;quipe test charli</summary>
-	</entry>
-	<entry>
-		<title>Scores Session 0 - Groupe 1 - Matchs Aller</title>
-		<link href="http://example.com/scores/session-0/groupe-1/aller/" />
-		<id>http://example.com/scores/session-0/groupe-1/aller/</id>
-		<updated>2025-06-05T09:44:03.455Z</updated>
-		<summary>Scores Session 0 - Groupe 1 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 0 - Groupe 1 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-0/groupe-1/retour/" />
 		<id>http://example.com/scores/session-0/groupe-1/retour/</id>
-		<updated>2025-06-05T09:44:03.456Z</updated>
+		<updated>2025-06-05T10:09:07.880Z</updated>
 		<summary>Scores Session 0 - Groupe 1 - Matchs Retour</summary>
 	</entry>
 	<entry>
-		<title>Scores Session 0 - Groupe 2 - Matchs Aller</title>
-		<link href="http://example.com/scores/session-0/groupe-2/aller/" />
-		<id>http://example.com/scores/session-0/groupe-2/aller/</id>
-		<updated>2025-06-05T09:44:03.471Z</updated>
-		<summary>Scores Session 0 - Groupe 2 - Matchs Aller</summary>
+		<title>Scores Session 0 - Groupe 1 - Matchs Aller</title>
+		<link href="http://example.com/scores/session-0/groupe-1/aller/" />
+		<id>http://example.com/scores/session-0/groupe-1/aller/</id>
+		<updated>2025-06-05T10:09:07.880Z</updated>
+		<summary>Scores Session 0 - Groupe 1 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 0 - Groupe 2 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-0/groupe-2/retour/" />
 		<id>http://example.com/scores/session-0/groupe-2/retour/</id>
-		<updated>2025-06-05T09:44:03.472Z</updated>
+		<updated>2025-06-05T10:09:07.880Z</updated>
 		<summary>Scores Session 0 - Groupe 2 - Matchs Retour</summary>
 	</entry>
 	<entry>
-		<title>Scores Session 0 - Groupe 3 - Matchs Aller</title>
-		<link href="http://example.com/scores/session-0/groupe-3/aller/" />
-		<id>http://example.com/scores/session-0/groupe-3/aller/</id>
-		<updated>2025-06-05T09:44:03.477Z</updated>
-		<summary>Scores Session 0 - Groupe 3 - Matchs Aller</summary>
+		<title>Scores Session 0 - Groupe 2 - Matchs Aller</title>
+		<link href="http://example.com/scores/session-0/groupe-2/aller/" />
+		<id>http://example.com/scores/session-0/groupe-2/aller/</id>
+		<updated>2025-06-05T10:09:07.880Z</updated>
+		<summary>Scores Session 0 - Groupe 2 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 0 - Groupe 3 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-0/groupe-3/retour/" />
 		<id>http://example.com/scores/session-0/groupe-3/retour/</id>
-		<updated>2025-06-05T09:44:03.478Z</updated>
+		<updated>2025-06-05T10:09:07.888Z</updated>
 		<summary>Scores Session 0 - Groupe 3 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-1/groupe-1/aller/" />
 		<id>http://example.com/scores/session-1/groupe-1/aller/</id>
-		<updated>2025-06-05T09:44:03.189Z</updated>
+		<updated>2025-06-05T10:09:07.844Z</updated>
 		<summary>Scores Session 1 - Groupe 1 - Matchs Aller</summary>
-	</entry>
-	<entry>
-		<title>Scores Session 1 - Groupe 1 - Matchs Retour</title>
-		<link href="http://example.com/scores/session-1/groupe-1/retour/" />
-		<id>http://example.com/scores/session-1/groupe-1/retour/</id>
-		<updated>2025-06-05T09:44:03.199Z</updated>
-		<summary>Scores Session 1 - Groupe 1 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 2 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-1/groupe-2/aller/" />
 		<id>http://example.com/scores/session-1/groupe-2/aller/</id>
-		<updated>2025-06-05T09:44:03.240Z</updated>
+		<updated>2025-06-05T10:09:07.851Z</updated>
 		<summary>Scores Session 1 - Groupe 2 - Matchs Aller</summary>
+	</entry>
+	<entry>
+		<title>Scores Session 1 - Groupe 1 - Matchs Retour</title>
+		<link href="http://example.com/scores/session-1/groupe-1/retour/" />
+		<id>http://example.com/scores/session-1/groupe-1/retour/</id>
+		<updated>2025-06-05T10:09:07.844Z</updated>
+		<summary>Scores Session 1 - Groupe 1 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 2 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-1/groupe-2/retour/" />
 		<id>http://example.com/scores/session-1/groupe-2/retour/</id>
-		<updated>2025-06-05T09:44:03.252Z</updated>
+		<updated>2025-06-05T10:09:07.851Z</updated>
 		<summary>Scores Session 1 - Groupe 2 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 3 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-1/groupe-3/aller/" />
 		<id>http://example.com/scores/session-1/groupe-3/aller/</id>
-		<updated>2025-06-05T09:44:03.319Z</updated>
+		<updated>2025-06-05T10:09:07.857Z</updated>
 		<summary>Scores Session 1 - Groupe 3 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 3 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-1/groupe-3/retour/" />
 		<id>http://example.com/scores/session-1/groupe-3/retour/</id>
-		<updated>2025-06-05T09:44:03.321Z</updated>
+		<updated>2025-06-05T10:09:07.858Z</updated>
 		<summary>Scores Session 1 - Groupe 3 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 3 - Groupe 1 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-3/groupe-1/aller/" />
 		<id>http://example.com/scores/session-3/groupe-1/aller/</id>
-		<updated>2025-06-05T09:44:03.381Z</updated>
+		<updated>2025-06-05T10:09:07.863Z</updated>
 		<summary>Scores Session 3 - Groupe 1 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 3 - Groupe 1 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-3/groupe-1/retour/" />
 		<id>http://example.com/scores/session-3/groupe-1/retour/</id>
-		<updated>2025-06-05T09:44:03.382Z</updated>
+		<updated>2025-06-05T10:09:07.865Z</updated>
 		<summary>Scores Session 3 - Groupe 1 - Matchs Retour</summary>
-	</entry>
-	<entry>
-		<title>Scores Session 3 - Groupe 3 - Matchs Aller</title>
-		<link href="http://example.com/scores/session-3/groupe-3/aller/" />
-		<id>http://example.com/scores/session-3/groupe-3/aller/</id>
-		<updated>2025-06-05T09:44:03.429Z</updated>
-		<summary>Scores Session 3 - Groupe 3 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 3 - Groupe 2 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-3/groupe-2/aller/" />
 		<id>http://example.com/scores/session-3/groupe-2/aller/</id>
-		<updated>2025-06-05T09:44:03.398Z</updated>
+		<updated>2025-06-05T10:09:07.866Z</updated>
 		<summary>Scores Session 3 - Groupe 2 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 3 - Groupe 2 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-3/groupe-2/retour/" />
 		<id>http://example.com/scores/session-3/groupe-2/retour/</id>
-		<updated>2025-06-05T09:44:03.399Z</updated>
+		<updated>2025-06-05T10:09:07.866Z</updated>
 		<summary>Scores Session 3 - Groupe 2 - Matchs Retour</summary>
+	</entry>
+	<entry>
+		<title>Scores Session 3 - Groupe 3 - Matchs Aller</title>
+		<link href="http://example.com/scores/session-3/groupe-3/aller/" />
+		<id>http://example.com/scores/session-3/groupe-3/aller/</id>
+		<updated>2025-06-05T10:09:07.873Z</updated>
+		<summary>Scores Session 3 - Groupe 3 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 3 - Groupe 3 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-3/groupe-3/retour/" />
 		<id>http://example.com/scores/session-3/groupe-3/retour/</id>
-		<updated>2025-06-05T09:44:03.429Z</updated>
+		<updated>2025-06-05T10:09:07.873Z</updated>
 		<summary>Scores Session 3 - Groupe 3 - Matchs Retour</summary>
+	</entry>
+	<entry>
+		<title>Scores Session 0 - Groupe 3 - Matchs Aller</title>
+		<link href="http://example.com/scores/session-0/groupe-3/aller/" />
+		<id>http://example.com/scores/session-0/groupe-3/aller/</id>
+		<updated>2025-06-05T10:09:07.887Z</updated>
+		<summary>Scores Session 0 - Groupe 3 - Matchs Aller</summary>
 	</entry>
 </feed>
 <!-- XML Atom generated by Dimas Lanjaka -->
