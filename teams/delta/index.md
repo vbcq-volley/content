@@ -1,6 +1,6 @@
 ---
 title: Équipe delta
-date: 2025-06-05T10:09:39.041Z
+date: 2025-06-05T10:41:40.171Z
 layout: post
 ---
 

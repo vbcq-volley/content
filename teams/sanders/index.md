@@ -1,6 +1,6 @@
 ---
 title: Équipe sanders
-date: 2025-06-05T10:09:39.124Z
+date: 2025-06-05T10:41:40.176Z
 layout: post
 ---
 
@@ -16,11 +16,11 @@ layout: post
 
 ##### Matchs à venir
 
-- [test-charli](source/teams/test-charli) vs [sanders](source/teams/sanders) [test](/stades/test) - 15 juin 2025 à 20:30
+- [test-charli](/teams/test-charli) vs [sanders](/teams/sanders) [test](/stades/test) - 15 juin 2025 à 20:30
 
 #### Matchs Retour
 
 ##### Matchs à venir
 
-- [sanders](source/teams/sanders) vs [test-charli](source/teams/test-charli) [test](/stades/test) - 18 juin 2030 à 20:30
+- [sanders](/teams/sanders) vs [test-charli](/teams/test-charli) [test](/stades/test) - 18 juin 2030 à 20:30
 
