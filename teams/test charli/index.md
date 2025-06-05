@@ -1,6 +1,6 @@
 ---
 title: Équipe test charli
-date: 2025-06-04T11:44:21.284Z
+date: 2025-06-05T08:18:00.389Z
 layout: post
 ---
 

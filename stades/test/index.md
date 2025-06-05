@@ -1,6 +1,6 @@
 ---
 title: test
-date: 2025-06-04T11:44:21.097Z
+date: 2025-06-05T08:18:00.136Z
 layout: stade
 ---
 
@@ -8,7 +8,7 @@ layout: stade
 
 ## Informations
 - **Adresse**: 35, chemin des Justices, quimper
-{{map}}
+- **Map**: map
 ## Matchs à venir
 
 ### test charli vs sanders
