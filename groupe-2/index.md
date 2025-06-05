@@ -1,6 +1,6 @@
 ---
 title: groupe_2
-date: 2025-06-05T09:26:39.307Z
+date: 2025-06-05T09:43:02.476Z
 layout: championnat
 group: 2
 ---
@@ -15,5 +15,5 @@ group: 2
 - [Matchs Retour](/scores/session-0/groupe-2/retour/)
 
 ## équipes
-- [test charli](/teams/test charli)
+- [test-charli](/teams/test-charli)
 - [sanders](/teams/sanders)

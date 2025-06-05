@@ -1,6 +1,6 @@
 ---
 title: groupe_1
-date: 2025-06-05T09:26:39.296Z
+date: 2025-06-05T09:43:02.468Z
 layout: championnat
 group: 1
 ---
@@ -20,5 +20,5 @@ group: 1
 - [Matchs Retour](/scores/session-3/groupe-1/retour/)
 
 ## équipes
-- [test alpha](/teams/test alpha)
-- [test béta](/teams/test béta)
+- [test-alpha](/teams/test-alpha)
+- [test-béta](/teams/test-béta)
