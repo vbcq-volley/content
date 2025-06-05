@@ -1,6 +1,6 @@
 ---
 title: test
-date: 2025-06-05T09:22:42.852Z
+date: 2025-06-05T09:25:02.352Z
 layout: stade
 ---
 
