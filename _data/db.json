@@ -13,10 +13,11 @@
         "group": "1",
         "_id": "0196fc69-0189-755c-91ab-d69b539355d5",
         "created_at": "2025-05-23T09:11:02.282Z",
-        "updated_at": "2025-05-23T09:22:40.108Z",
+        "updated_at": "2025-06-06T11:37:38.533Z",
         "index": 0,
         "title": "test alpha vs test béta",
-        "session": 1
+        "session": 1,
+        "matchStatus": "in_progress"
       },
       {
         "text": "Untitled",
@@ -55,7 +56,7 @@
     ],
     "metadata": {
       "created_at": "2025-05-23T08:54:05.966Z",
-      "updated_at": "2025-05-27T13:35:00.632Z"
+      "updated_at": "2025-06-06T11:37:38.533Z"
     },
     "indexById": {}
   },
@@ -138,7 +139,7 @@
         "type": "result",
         "_id": "019711cd-ce10-70cb-a3ad-c05ddab54896",
         "created_at": "2025-05-27T12:53:09.790Z",
-        "updated_at": "2025-06-06T11:37:29.289Z",
+        "updated_at": "2025-06-06T11:37:38.525Z",
         "index": 0
       },
       {
@@ -154,7 +155,7 @@
         "isPostponed": false,
         "_id": "01970cd6-d7de-759f-b70e-06c048892b7b",
         "created_at": "2025-05-27T13:39:24.957Z",
-        "updated_at": "2025-06-06T11:37:29.291Z",
+        "updated_at": "2025-06-06T11:37:38.528Z",
         "session": 1,
         "group": "1",
         "index": 1,
@@ -163,7 +164,7 @@
     ],
     "metadata": {
       "created_at": "2025-05-23T09:03:57.621Z",
-      "updated_at": "2025-06-06T11:37:29.291Z"
+      "updated_at": "2025-06-06T11:37:38.528Z"
     },
     "indexById": {}
   },
