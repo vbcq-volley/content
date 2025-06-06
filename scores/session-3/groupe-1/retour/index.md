@@ -1,6 +1,6 @@
 ---
 title: Scores Session 3 - Groupe 1 - Matchs Retour
-date: 2025-06-05T10:41:40.338Z
+date: 2025-06-06T08:25:44.708Z
 layout: page
 concern_group: 1
 ---
