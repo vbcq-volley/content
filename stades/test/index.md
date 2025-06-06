@@ -1,13 +1,13 @@
 ---
 title: test
-date: 2025-06-06T08:58:26.183Z
+date: 2025-06-06T09:45:21.524Z
 layout: stade
 ---
 
 
 
 ## Informations
-- **Adresse**: 35, chemin des Justices, quimpe
+- **Adresse**: 35, chemin des Justices, quimper
 - **Map**: map
 ## Matchs à venir
 

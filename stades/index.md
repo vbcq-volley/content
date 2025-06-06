@@ -1,6 +1,6 @@
 ---
 title: Stades
-date: 2025-06-06T08:58:26.185Z
+date: 2025-06-06T09:45:21.527Z
 layout: page
 ---
 
@@ -8,5 +8,5 @@ layout: page
 
 
 ## [test](/stades/test/)
-- Adresse: 35, chemin des Justices, quimpe
+- Adresse: 35, chemin des Justices, quimper
 
