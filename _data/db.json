@@ -139,7 +139,7 @@
         "type": "result",
         "_id": "019711cd-ce10-70cb-a3ad-c05ddab54896",
         "created_at": "2025-05-27T12:53:09.790Z",
-        "updated_at": "2025-06-06T12:20:17.479Z",
+        "updated_at": "2025-06-06T12:20:21.025Z",
         "index": 0
       },
       {
@@ -155,7 +155,7 @@
         "isPostponed": false,
         "_id": "01970cd6-d7de-759f-b70e-06c048892b7b",
         "created_at": "2025-05-27T13:39:24.957Z",
-        "updated_at": "2025-06-06T12:20:17.488Z",
+        "updated_at": "2025-06-06T12:20:21.028Z",
         "session": 1,
         "group": "1",
         "index": 1,
@@ -164,7 +164,7 @@
     ],
     "metadata": {
       "created_at": "2025-05-23T09:03:57.621Z",
-      "updated_at": "2025-06-06T12:20:17.488Z"
+      "updated_at": "2025-06-06T12:20:21.028Z"
     },
     "indexById": {}
   },
@@ -175,13 +175,13 @@
         "address": "35, chemin des Justices, quimper",
         "_id": "019710d9-0379-77bb-ad4b-4d7260593824",
         "created_at": "2025-05-27T08:25:47.129Z",
-        "updated_at": "2025-06-04T12:09:03.259Z",
+        "updated_at": "2025-06-06T12:20:21.034Z",
         "index": 0
       }
     ],
     "metadata": {
       "created_at": "2025-05-27T07:22:32.931Z",
-      "updated_at": "2025-06-04T12:09:03.259Z"
+      "updated_at": "2025-06-06T12:20:21.034Z"
     }
   }
 }
