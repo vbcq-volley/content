@@ -40,7 +40,7 @@
         "date": "13 avril 2025 à 13:30",
         "_id": "01975995-5142-7574-880c-0f66329c03f6",
         "created_at": "2025-06-10T11:24:07.362Z",
-        "updated_at": "2025-06-10T11:38:12.077Z",
+        "updated_at": "2025-06-10T11:38:22.257Z",
         "index": 0
       },
       {
@@ -59,13 +59,13 @@
         "date": "18 avril 2025 à 13:30",
         "_id": "01975995-a7e1-742e-9c5d-4aeeb6136b99",
         "created_at": "2025-06-10T11:24:29.537Z",
-        "updated_at": "2025-06-10T11:38:12.094Z",
+        "updated_at": "2025-06-10T11:38:22.259Z",
         "index": 1
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-10T11:38:12.094Z"
+      "updated_at": "2025-06-10T11:38:22.259Z"
     }
   },
   "team": {
@@ -100,15 +100,16 @@
     "entries": [
       {
         "stadeName": "Carhaix",
-        "address": "  Gymnase collège St Tremeur, rue Kroaz Loc’hou, 29270 Carhaix",
+        "address": "1 rue Cazuguel, 29833 Carhaix-Plouguer",
         "_id": "01975993-70f5-71ff-ba0e-4802ec917994",
         "created_at": "2025-06-10T11:22:04.408Z",
-        "updated_at": "2025-06-10T11:22:04.408Z"
+        "updated_at": "2025-06-10T11:38:22.137Z",
+        "index": 0
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:21:34.805Z",
-      "updated_at": "2025-06-10T11:22:04.408Z"
+      "updated_at": "2025-06-10T11:38:22.137Z"
     }
   }
 }
