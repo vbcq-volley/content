@@ -1,12 +1,26 @@
 ---
 title: Équipe PLUGUFFAN
-date: 2025-06-10T11:40:35.796Z
+date: 2025-06-10T11:51:19.715Z
 layout: post
 ---
 
 # PLUGUFFAN
 
-## Sessions
+
+    ## contact 
+
+
+    Xavier BARON
+
+
+    06 71 46 71 40
+
+
+    rabonne@hotmail.fr
+
+
+
+    ## Sessions
 
 ### Session 1
 - [résultats aller ](/scores/session-1/groupe-1/aller/)
