@@ -1,9 +1,25 @@
 {
   "match": {
-    "entries": [],
+    "entries": [
+      {
+        "team1": "PLUGUFFAN",
+        "team2": "Carhaix",
+        "homeDate": "13 avril 2025 à 13:30",
+        "awayDate": "18 avril 2025 à 13:30",
+        "homeLocation": "Carhaix",
+        "awayLocation": "Carhaix",
+        "group": "1",
+        "session": 1,
+        "matchStatus": "scheduled",
+        "title": "PLUGUFFAN vs Carhaix",
+        "_id": "01975994-a161-77d4-98ae-363e25d31527",
+        "created_at": "2025-06-10T11:23:22.337Z",
+        "updated_at": "2025-06-10T11:23:22.337Z"
+      }
+    ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-10T11:17:35.789Z"
+      "updated_at": "2025-06-10T11:23:22.337Z"
     }
   },
   "result": {
