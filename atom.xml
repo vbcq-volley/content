@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Hexo</title>
 	<link href="http://example.com" />
-	<updated>2025-06-10T13:28:40.367Z</updated>
+	<updated>2025-06-10T13:33:33.109Z</updated>
 	<author>
 		<name>John Doe</name>
 		<email>noreply@blogger.com</email>
@@ -16,59 +16,59 @@
 		<summary>actualitee</summary>
 	</entry>
 	<entry>
-		<title>groupe_1</title>
-		<link href="http://example.com/groupe-1/" />
-		<id>http://example.com/groupe-1/</id>
-		<updated>2025-06-10T11:28:40.345Z</updated>
-		<summary>groupe_1</summary>
-	</entry>
-	<entry>
 		<title>Scores Session 1</title>
 		<link href="http://example.com/scores-session-1/" />
 		<id>http://example.com/scores-session-1/</id>
-		<updated>2025-06-10T11:28:40.347Z</updated>
+		<updated>2025-06-10T11:33:33.094Z</updated>
 		<summary>Scores Session 1</summary>
 	</entry>
 	<entry>
 		<title>Stades</title>
 		<link href="http://example.com/stades/" />
 		<id>http://example.com/stades/</id>
-		<updated>2025-06-10T11:28:40.276Z</updated>
+		<updated>2025-06-10T11:33:32.836Z</updated>
 		<summary>Stades</summary>
 	</entry>
 	<entry>
-		<title>Carhaix</title>
-		<link href="http://example.com/stades/Carhaix/" />
-		<id>http://example.com/stades/Carhaix/</id>
-		<updated>2025-06-10T11:28:40.276Z</updated>
-		<summary>Carhaix</summary>
+		<title>groupe_1</title>
+		<link href="http://example.com/groupe-1/" />
+		<id>http://example.com/groupe-1/</id>
+		<updated>2025-06-10T11:33:33.080Z</updated>
+		<summary>groupe_1</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Carhaix</title>
 		<link href="http://example.com/teams/Carhaix/" />
 		<id>http://example.com/teams/Carhaix/</id>
-		<updated>2025-06-10T11:28:40.367Z</updated>
+		<updated>2025-06-10T11:33:32.851Z</updated>
 		<summary>&#x26;#xC9;quipe Carhaix</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe PLUGUFFAN</title>
 		<link href="http://example.com/teams/PLUGUFFAN/" />
 		<id>http://example.com/teams/PLUGUFFAN/</id>
-		<updated>2025-06-10T11:28:40.357Z</updated>
+		<updated>2025-06-10T11:33:32.843Z</updated>
 		<summary>&#x26;#xC9;quipe PLUGUFFAN</summary>
+	</entry>
+	<entry>
+		<title>Carhaix</title>
+		<link href="http://example.com/stades/Carhaix/" />
+		<id>http://example.com/stades/Carhaix/</id>
+		<updated>2025-06-10T11:33:32.836Z</updated>
+		<summary>Carhaix</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-1/groupe-1/aller/" />
 		<id>http://example.com/scores/session-1/groupe-1/aller/</id>
-		<updated>2025-06-10T11:28:40.357Z</updated>
+		<updated>2025-06-10T11:33:33.109Z</updated>
 		<summary>Scores Session 1 - Groupe 1 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 1 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-1/groupe-1/retour/" />
 		<id>http://example.com/scores/session-1/groupe-1/retour/</id>
-		<updated>2025-06-10T11:28:40.357Z</updated>
+		<updated>2025-06-10T11:33:33.109Z</updated>
 		<summary>Scores Session 1 - Groupe 1 - Matchs Retour</summary>
 	</entry>
 </feed>

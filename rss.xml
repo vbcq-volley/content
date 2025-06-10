@@ -7,8 +7,8 @@
 		<link>http://example.com</link>
 		<description></description>
 		<language>en</language>
-		<lastBuildDate>2025-06-10T13:28:40.367Z</lastBuildDate>
-		<pubDate>2025-06-10T11:28:40.370Z</pubDate>
+		<lastBuildDate>2025-06-10T13:33:33.109Z</lastBuildDate>
+		<pubDate>2025-06-10T11:33:33.095Z</pubDate>
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
@@ -25,19 +25,11 @@
 			<guid>http://example.com/2025/06/06/test/</guid>
 		</item>
 		<item>
-			<title>groupe_1</title>
-			<link>http://example.com/groupe-1/</link>
-			<description>groupe_1</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.341Z</pubDate>
-			<guid>http://example.com/groupe-1/</guid>
-		</item>
-		<item>
 			<title>Scores Session 1</title>
 			<link>http://example.com/scores-session-1/</link>
 			<description>Scores Session 1</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.350Z</pubDate>
+			<pubDate>2025-06-10T09:33:33.093Z</pubDate>
 			<guid>http://example.com/scores-session-1/</guid>
 		</item>
 		<item>
@@ -45,23 +37,23 @@
 			<link>http://example.com/stades/</link>
 			<description>Stades</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.279Z</pubDate>
+			<pubDate>2025-06-10T09:33:32.838Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
 		<item>
-			<title>Carhaix</title>
-			<link>http://example.com/stades/Carhaix/</link>
-			<description>Carhaix</description>
+			<title>groupe_1</title>
+			<link>http://example.com/groupe-1/</link>
+			<description>groupe_1</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.276Z</pubDate>
-			<guid>http://example.com/stades/Carhaix/</guid>
+			<pubDate>2025-06-10T09:33:33.076Z</pubDate>
+			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Carhaix</title>
 			<link>http://example.com/teams/Carhaix/</link>
 			<description>&#x26;#xC9;quipe Carhaix</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.370Z</pubDate>
+			<pubDate>2025-06-10T09:33:32.849Z</pubDate>
 			<guid>http://example.com/teams/Carhaix/</guid>
 		</item>
 		<item>
@@ -69,15 +61,23 @@
 			<link>http://example.com/teams/PLUGUFFAN/</link>
 			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.362Z</pubDate>
+			<pubDate>2025-06-10T09:33:32.845Z</pubDate>
 			<guid>http://example.com/teams/PLUGUFFAN/</guid>
+		</item>
+		<item>
+			<title>Carhaix</title>
+			<link>http://example.com/stades/Carhaix/</link>
+			<description>Carhaix</description>
+			<author>noreply@blogger.com (John Doe)</author>
+			<pubDate>2025-06-10T09:33:32.835Z</pubDate>
+			<guid>http://example.com/stades/Carhaix/</guid>
 		</item>
 		<item>
 			<title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
 			<link>http://example.com/scores/session-1/groupe-1/aller/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Aller</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.351Z</pubDate>
+			<pubDate>2025-06-10T09:33:33.095Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/aller/</guid>
 		</item>
 		<item>
@@ -85,7 +85,7 @@
 			<link>http://example.com/scores/session-1/groupe-1/retour/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Retour</description>
 			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:28:40.351Z</pubDate>
+			<pubDate>2025-06-10T09:33:33.095Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/retour/</guid>
 		</item>
 	</channel>

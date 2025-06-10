@@ -1,6 +1,6 @@
 ---
 title: groupe_1
-date: 2025-06-10T11:30:27.858Z
+date: 2025-06-10T11:34:33.959Z
 layout: championnat
 group: 1
 ---
@@ -18,5 +18,5 @@ group: 1
 
 | Position | Équipe | Pts | J | G | N | P  |
 |----------|--------|-----|---|-----|-----|-----|
-| 1 | [PLUGUFFAN](/teams/PLUGUFFAN) | 031 | 2 | 1 | 0 | 1 |
-| 2 | [Carhaix](/teams/Carhaix) | 013 | 2 | 1 | 0 | 1 |
+| 1 | [Carhaix](/teams/Carhaix) | 4 | 2 | 1 | 0 | 1 |
+| 2 | [PLUGUFFAN](/teams/PLUGUFFAN) | 4 | 2 | 1 | 0 | 1 |
