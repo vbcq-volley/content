@@ -1,6 +1,6 @@
 ---
 title: Stades
-date: 2025-06-10T11:34:33.765Z
+date: 2025-06-10T11:40:37.064Z
 layout: page
 ---
 
@@ -8,5 +8,5 @@ layout: page
 
 
 ## [Carhaix](/stades/Carhaix/)
-- Adresse:   Gymnase collège St Tremeur, rue Kroaz Loc’hou, 29270 Carhaix
+- Adresse: 1 rue Cazuguel, 29833 Carhaix-Plouguer
 
