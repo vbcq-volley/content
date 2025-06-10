@@ -1,26 +1,20 @@
 ---
 title: Équipe Carhaix
-date: 2025-06-10T11:51:19.720Z
+date: 2025-06-10T11:55:51.796Z
 layout: post
 ---
 
 # Carhaix
 
+## contact 
 
-    ## contact 
+Axel Espin
 
+06 65 07 98 14
 
-    Axel Espin
+playerone25@hotmail.fr
 
-
-    06 65 07 98 14
-
-
-    playerone25@hotmail.fr
-
-
-
-    ## Sessions
+## Sessions
 
 ### Session 1
 - [résultats aller ](/scores/session-1/groupe-1/aller/)
