@@ -1,6 +1,6 @@
 ---
 title: Équipe test alpha
-date: 2025-06-06T12:19:45.335Z
+date: 2025-06-10T10:59:26.983Z
 layout: post
 ---
 

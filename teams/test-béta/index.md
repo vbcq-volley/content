@@ -1,6 +1,6 @@
 ---
 title: Équipe test béta
-date: 2025-06-06T12:19:45.347Z
+date: 2025-06-10T10:59:27.006Z
 layout: post
 ---
 
