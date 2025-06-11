@@ -295,11 +295,66 @@
         "_id": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
         "created_at": "2025-06-11T13:43:10.451Z",
         "updated_at": "2025-06-11T13:43:10.451Z"
+      },
+      {
+        "teamName": "Fouesnant 3",
+        "coach": " Amboise Aure",
+        "coachContact": "07 84 09 74 16",
+        "coachEmail": "aure_mbrs@orange.fr",
+        "group": "3",
+        "description": "",
+        "_id": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
+        "created_at": "2025-06-11T13:43:54.598Z",
+        "updated_at": "2025-06-11T13:43:54.598Z"
+      },
+      {
+        "teamName": "St Evarzec ",
+        "coach": "Corinne L’Helgouach",
+        "coachContact": "06 72 60 20 22",
+        "coachEmail": "Lhelgouach.corinne@gmail.com",
+        "group": "3",
+        "description": "",
+        "_id": "01975f3d-1677-725f-976e-6754fc6a5103",
+        "created_at": "2025-06-11T13:45:28.441Z",
+        "updated_at": "2025-06-11T13:45:28.441Z"
+      },
+      {
+        "teamName": "Ergué-Gabéric A",
+        "coach": "Sébastien CORDIER",
+        "coachContact": "06 22 74 86 11",
+        "coachEmail": "scordier@gmail.com",
+        "group": "3",
+        "description": "",
+        "_id": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
+        "created_at": "2025-06-11T13:46:14.105Z",
+        "updated_at": "2025-06-11T13:46:14.105Z"
+      },
+      {
+        "teamName": "Ergué-Gabéric B",
+        "coach": "Maël Rannou",
+        "coachContact": "07 88 56 99 57",
+        "coachEmail": "elmanoura@hotmail.com",
+        "group": "3",
+        "description": "",
+        "_id": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
+        "created_at": "2025-06-11T13:46:50.175Z",
+        "updated_at": "2025-06-11T13:46:50.175Z"
+      },
+      {
+        "teamName": "Gourin GVB / Scaër",
+        "coach": "Ludovic COLLET",
+        "coachContact": "06 85 59 87 10",
+        "coachEmail": "Gourinvb@gmail.com",
+        "group": "3",
+        "description": "",
+        "_id": "01975f3f-7660-703d-84f2-6cf786909070",
+        "created_at": "2025-06-11T13:48:04.064Z",
+        "updated_at": "2025-06-11T13:48:04.064Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:54.237Z",
-      "updated_at": "2025-06-11T13:43:10.451Z"
+      "updated_at": "2025-06-11T13:48:04.064Z"
     }
   },
   "stade": {
