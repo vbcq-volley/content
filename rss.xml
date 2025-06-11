@@ -7,8 +7,8 @@
 		<link>http://example.com</link>
 		<description></description>
 		<language>fr</language>
-		<lastBuildDate>2025-06-11T11:10:00.864Z</lastBuildDate>
-		<pubDate>2025-06-11T09:10:00.848Z</pubDate>
+		<lastBuildDate>2025-06-11T11:23:48.663Z</lastBuildDate>
+		<pubDate>2025-06-11T09:23:48.671Z</pubDate>
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
@@ -29,7 +29,7 @@
 			<link>http://example.com/groupe-1/</link>
 			<description>groupe_1</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T07:10:00.794Z</pubDate>
+			<pubDate>2025-06-11T07:23:48.641Z</pubDate>
 			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
@@ -45,7 +45,7 @@
 			<link>http://example.com/stades/</link>
 			<description>Stades</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T07:10:00.712Z</pubDate>
+			<pubDate>2025-06-11T07:23:48.567Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
 		<item>
@@ -53,7 +53,7 @@
 			<link>http://example.com/stades/Carhaix/</link>
 			<description>Carhaix</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T07:10:00.710Z</pubDate>
+			<pubDate>2025-06-11T07:23:48.566Z</pubDate>
 			<guid>http://example.com/stades/Carhaix/</guid>
 		</item>
 		<item>
@@ -61,15 +61,23 @@
 			<link>http://example.com/teams/Carhaix/</link>
 			<description>&#x26;#xC9;quipe Carhaix</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T07:10:00.807Z</pubDate>
+			<pubDate>2025-06-11T07:23:48.649Z</pubDate>
 			<guid>http://example.com/teams/Carhaix/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Fouesnant 1</title>
+			<link>http://example.com/teams/Fouesnant-1/</link>
+			<description>&#x26;#xC9;quipe Fouesnant 1</description>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-11T07:23:48.667Z</pubDate>
+			<guid>http://example.com/teams/Fouesnant-1/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Kervao Bar</title>
 			<link>http://example.com/teams/Kervao-Bar/</link>
 			<description>&#x26;#xC9;quipe Kervao Bar</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T07:10:00.821Z</pubDate>
+			<pubDate>2025-06-11T07:23:48.651Z</pubDate>
 			<guid>http://example.com/teams/Kervao-Bar/</guid>
 		</item>
 		<item>
@@ -77,15 +85,23 @@
 			<link>http://example.com/teams/PLUGUFFAN/</link>
 			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T07:10:00.801Z</pubDate>
+			<pubDate>2025-06-11T07:23:48.647Z</pubDate>
 			<guid>http://example.com/teams/PLUGUFFAN/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Penn Sardin 1</title>
+			<link>http://example.com/teams/Penn-Sardin-1/</link>
+			<description>&#x26;#xC9;quipe Penn Sardin 1</description>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-11T07:23:48.671Z</pubDate>
+			<guid>http://example.com/teams/Penn-Sardin-1/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Th&#xE9;pot</title>
 			<link>http://example.com/teams/Th%C3%A9pot/</link>
 			<description>&#x26;#xC9;quipe Th&#x26;#xE9;pot</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T07:10:00.848Z</pubDate>
+			<pubDate>2025-06-11T07:23:48.661Z</pubDate>
 			<guid>http://example.com/teams/Th%C3%A9pot/</guid>
 		</item>
 		<item>
