@@ -1,6 +1,6 @@
 ---
 title: Équipe Thépot
-date: 2025-06-11T12:18:23.895Z
+date: 2025-06-11T12:28:16.627Z
 layout: team
 ---
 
@@ -24,11 +24,11 @@ batyep@gmail.com
 
 ##### Matchs à venir
 
-- [Kervao-Bar](/teams/Kervao-Bar) vs [Thépot](/teams/Thépot) [Carhaix](/stades/Carhaix) - 16/06/2025 20:30
+- [Kervao-Bar](/teams/Kervao-Bar) vs [Thépot](/teams/Thépot) [Carhaix](/stades/Carhaix) - 16 juin 2025 à 20:30
 
 #### Matchs Retour
 
 ##### Matchs à venir
 
-- [Thépot](/teams/Thépot) vs [Kervao-Bar](/teams/Kervao-Bar) [Carhaix](/stades/Carhaix) - 30/06/2025 20:30
+- [Thépot](/teams/Thépot) vs [Kervao-Bar](/teams/Kervao-Bar) [Carhaix](/stades/Carhaix) - 30 juin 2025 à 20:30
 

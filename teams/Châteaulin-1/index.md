@@ -1,6 +1,6 @@
 ---
 title: Équipe Châteaulin 1
-date: 2025-06-11T12:18:23.911Z
+date: 2025-06-11T12:28:16.644Z
 layout: team
 ---
 
@@ -24,11 +24,11 @@ isabelle.more0042@orange.fr
 
 ##### Matchs à venir
 
-- [Châteaulin-1](/teams/Châteaulin-1) vs [PLONESCAF](/teams/PLONESCAF) [Carhaix](/stades/Carhaix) - 07/07/2025 20:30
+- [Châteaulin-1](/teams/Châteaulin-1) vs [PLONESCAF](/teams/PLONESCAF) [Carhaix](/stades/Carhaix) - 7 juillet 2025 à 20:30
 
 #### Matchs Retour
 
 ##### Matchs à venir
 
-- [PLONESCAF](/teams/PLONESCAF) vs [Châteaulin-1](/teams/Châteaulin-1) [Carhaix](/stades/Carhaix) - 14/07/2025 20:30
+- [PLONESCAF](/teams/PLONESCAF) vs [Châteaulin-1](/teams/Châteaulin-1) [Carhaix](/stades/Carhaix) - 14 juillet 2025 à 20:30
 

@@ -1,6 +1,6 @@
 ---
 title: Équipe Carhaix
-date: 2025-06-11T12:18:23.878Z
+date: 2025-06-11T12:28:15.649Z
 layout: team
 ---
 
@@ -24,11 +24,11 @@ playerone25@hotmail.fr
 
 ##### Matchs à venir
 
-- [PLUGUFFAN](/teams/PLUGUFFAN) vs [Carhaix](/teams/Carhaix) [Carhaix](/stades/Carhaix) - 16/06/2025 20:30
+- [PLUGUFFAN](/teams/PLUGUFFAN) vs [Carhaix](/teams/Carhaix) [Carhaix](/stades/Carhaix) - 16 juin 2025 à 20:30
 
 #### Matchs Retour
 
 ##### Matchs à venir
 
-- [Carhaix](/teams/Carhaix) vs [PLUGUFFAN](/teams/PLUGUFFAN) [Carhaix](/stades/Carhaix) - 23/06/2025 20:30
+- [Carhaix](/teams/Carhaix) vs [PLUGUFFAN](/teams/PLUGUFFAN) [Carhaix](/stades/Carhaix) - 23 juin 2025 à 20:30
 

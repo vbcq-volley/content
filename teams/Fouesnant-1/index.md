@@ -1,6 +1,6 @@
 ---
 title: Équipe Fouesnant 1
-date: 2025-06-11T12:18:23.899Z
+date: 2025-06-11T12:28:16.636Z
 layout: team
 ---
 
@@ -24,11 +24,11 @@ s_bonnel@hotmail.com
 
 ##### Matchs à venir
 
-- [Fouesnant-1](/teams/Fouesnant-1) vs [Penn-Sardin-1](/teams/Penn-Sardin-1) [Carhaix](/stades/Carhaix) - 30/06/2025 20:30
+- [Fouesnant-1](/teams/Fouesnant-1) vs [Penn-Sardin-1](/teams/Penn-Sardin-1) [Carhaix](/stades/Carhaix) - 30 juin 2025 à 20:30
 
 #### Matchs Retour
 
 ##### Matchs à venir
 
-- [Penn-Sardin-1](/teams/Penn-Sardin-1) vs [Fouesnant-1](/teams/Fouesnant-1) [Carhaix](/stades/Carhaix) - 07/07/2025 20:30
+- [Penn-Sardin-1](/teams/Penn-Sardin-1) vs [Fouesnant-1](/teams/Fouesnant-1) [Carhaix](/stades/Carhaix) - 7 juillet 2025 à 20:30
 

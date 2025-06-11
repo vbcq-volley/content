@@ -1,6 +1,6 @@
 ---
 title: Carhaix
-date: 2025-06-11T12:18:23.866Z
+date: 2025-06-11T12:28:12.335Z
 layout: stade
 ---
 
@@ -11,8 +11,26 @@ layout: stade
 - **Map**: map
 ## Matchs à venir
 
+### PLUGUFFAN vs Carhaix
+- Date: 16 juin 2025 à 20:30
+- Groupe: 1
+- Session: 1
+
+
+### Kervao Bar vs Thépot
+- Date: 16 juin 2025 à 20:30
+- Groupe: 1
+- Session: 1
+
+
+### Fouesnant 1 vs Penn Sardin 1
+- Date: 30 juin 2025 à 20:30
+- Groupe: 1
+- Session: 1
+
+
 ### Châteaulin 1 vs PLONESCAF
-- Date: 07/07/2025 20:30
+- Date: 7 juillet 2025 à 20:30
 - Groupe: 1
 - Session: 1
 
