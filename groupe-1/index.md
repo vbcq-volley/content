@@ -1,6 +1,6 @@
 ---
 title: groupe_1
-date: 2025-06-10T14:19:32.668Z
+date: 2025-06-11T08:56:47.211Z
 layout: championnat
 group: 1
 ---
@@ -20,3 +20,4 @@ group: 1
 |----------|--------|-----|---|-----|-----|-----|
 | 1 | [Carhaix](/teams/Carhaix) | 4 | 2 | 1 | 0 | 1 |
 | 2 | [PLUGUFFAN](/teams/PLUGUFFAN) | 4 | 2 | 1 | 0 | 1 |
+| 3 | [Kervao-Bar](/teams/Kervao-Bar) | 0 | 0 | 0 | 0 | 0 |

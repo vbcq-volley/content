@@ -7,8 +7,8 @@
 		<link>http://example.com</link>
 		<description></description>
 		<language>fr</language>
-		<lastBuildDate>2025-06-10T16:18:30.133Z</lastBuildDate>
-		<pubDate>2025-06-10T14:18:30.132Z</pubDate>
+		<lastBuildDate>2025-06-11T10:52:39.539Z</lastBuildDate>
+		<pubDate>2025-06-11T08:52:39.315Z</pubDate>
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
@@ -17,9 +17,9 @@
     </image>
 		<atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>actualitee</title>
+			<title>actualit&#xE9;e</title>
 			<link>http://example.com/2025/06/06/test/</link>
-			<description>actualitee</description>
+			<description>actualit&#x26;#xE9;e</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
 			<pubDate>2025-06-06T00:00:00.000Z</pubDate>
 			<guid>http://example.com/2025/06/06/test/</guid>
@@ -29,7 +29,7 @@
 			<link>http://example.com/groupe-1/</link>
 			<description>groupe_1</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:30.112Z</pubDate>
+			<pubDate>2025-06-11T06:52:38.458Z</pubDate>
 			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
@@ -37,7 +37,7 @@
 			<link>http://example.com/scores-session-1/</link>
 			<description>Scores Session 1</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:30.121Z</pubDate>
+			<pubDate>2025-06-11T06:52:39.307Z</pubDate>
 			<guid>http://example.com/scores-session-1/</guid>
 		</item>
 		<item>
@@ -45,7 +45,7 @@
 			<link>http://example.com/stades/</link>
 			<description>Stades</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:30.132Z</pubDate>
+			<pubDate>2025-06-11T06:52:36.541Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
 		<item>
@@ -53,31 +53,31 @@
 			<link>http://example.com/stades/Carhaix/</link>
 			<description>Carhaix</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:30.128Z</pubDate>
+			<pubDate>2025-06-11T06:52:36.526Z</pubDate>
 			<guid>http://example.com/stades/Carhaix/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe PLUGUFFAN</title>
-			<link>http://example.com/teams/PLUGUFFAN/</link>
-			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
-			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:29.970Z</pubDate>
-			<guid>http://example.com/teams/PLUGUFFAN/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Carhaix</title>
 			<link>http://example.com/teams/Carhaix/</link>
 			<description>&#x26;#xC9;quipe Carhaix</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:29.980Z</pubDate>
+			<pubDate>2025-06-10T12:19:32.734Z</pubDate>
 			<guid>http://example.com/teams/Carhaix/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe PLUGUFFAN</title>
+			<link>http://example.com/teams/PLUGUFFAN/</link>
+			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:19:32.724Z</pubDate>
+			<guid>http://example.com/teams/PLUGUFFAN/</guid>
 		</item>
 		<item>
 			<title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
 			<link>http://example.com/scores/session-1/groupe-1/aller/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Aller</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:30.122Z</pubDate>
+			<pubDate>2025-06-11T06:52:39.314Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/aller/</guid>
 		</item>
 		<item>
@@ -85,7 +85,7 @@
 			<link>http://example.com/scores/session-1/groupe-1/retour/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Retour</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:18:30.122Z</pubDate>
+			<pubDate>2025-06-11T06:52:39.315Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/retour/</guid>
 		</item>
 	</channel>
