@@ -1,17 +1,13 @@
 {
   "match": {
-    "entries": [
-    
-    ],
+    "entries": [],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
       "updated_at": "2025-06-10T14:38:53.668Z"
     }
   },
   "result": {
-    "entries": [
-      
-    ],
+    "entries": [],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
       "updated_at": "2025-06-11T08:23:05.704Z"
@@ -50,7 +46,8 @@
         "description": "",
         "_id": "01975e10-9fea-726b-a4f8-6842dd1c0381",
         "created_at": "2025-06-11T08:17:17.307Z",
-        "updated_at": "2025-06-11T08:17:17.307Z"
+        "updated_at": "2025-06-11T08:17:17.307Z",
+        "index": 2
       },
       {
         "teamName": "Thépot",
@@ -61,12 +58,35 @@
         "description": "",
         "_id": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
         "created_at": "2025-06-11T08:23:05.715Z",
-        "updated_at": "2025-06-11T08:23:05.715Z"
+        "updated_at": "2025-06-11T08:23:05.715Z",
+        "index": 3
+      },
+      {
+        "teamName": "Fouesnant 1",
+        "coach": "Sylvain Bonnel",
+        "coachContact": "06 13 63 45 25",
+        "coachEmail": "s_bonnel@hotmail.com",
+        "group": "1",
+        "description": "",
+        "_id": "01975e41-7858-7669-bab1-dfe9dc76229e",
+        "created_at": "2025-06-11T09:10:38.440Z",
+        "updated_at": "2025-06-11T09:10:38.440Z"
+      },
+      {
+        "teamName": "Penn Sardin 1",
+        "coach": "Christophe COADER",
+        "coachContact": "06 71 80 75 89",
+        "coachEmail": "christophe.coader29@gmail.com",
+        "group": "1",
+        "description": "",
+        "_id": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
+        "created_at": "2025-06-11T09:11:44.430Z",
+        "updated_at": "2025-06-11T09:11:44.430Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:54.237Z",
-      "updated_at": "2025-06-11T08:23:05.715Z"
+      "updated_at": "2025-06-11T09:11:44.430Z"
     }
   },
   "stade": {
