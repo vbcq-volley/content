@@ -1,38 +1,7 @@
 {
   "match": {
     "entries": [
-      {
-        "team1": "PLUGUFFAN",
-        "team2": "Carhaix",
-        "homeDate": "13 avril 2025 à 13:30",
-        "awayDate": "18 avril 2025 à 13:30",
-        "homeLocation": "Carhaix",
-        "awayLocation": "Carhaix",
-        "group": "1",
-        "session": 1,
-        "matchStatus": "scheduled",
-        "title": "PLUGUFFAN vs Carhaix",
-        "_id": "01975994-a161-77d4-98ae-363e25d31527",
-        "created_at": "2025-06-10T11:23:22.337Z",
-        "updated_at": "2025-06-10T11:23:22.337Z",
-        "index": 0
-      },
-      {
-        "team1": "PLUGUFFAN",
-        "team2": "PLUGUFFAN",
-        "homeDate": "bbla ",
-        "awayDate": "10",
-        "homeLocation": "Carhaix",
-        "awayLocation": "Carhaix",
-        "group": "1",
-        "session": 1,
-        "matchStatus": "scheduled",
-        "title": "PLUGUFFAN vs PLUGUFFAN",
-        "_id": "01975a47-a2d5-726f-8379-1719a9325c7e",
-        "created_at": "2025-06-10T14:38:53.668Z",
-        "updated_at": "2025-06-10T14:38:53.668Z",
-        "index": 1
-      }
+    
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
@@ -41,48 +10,11 @@
   },
   "result": {
     "entries": [
-      {
-        "matchType": "home",
-        "team1": "PLUGUFFAN",
-        "team2": "Carhaix",
-        "team1Score": "3",
-        "team2Score": "1",
-        "isForfeit": false,
-        "forfeitTeam": "",
-        "isPostponed": false,
-        "postponedTeam": "",
-        "matchId": "01975994-a161-77d4-98ae-363e25d31527",
-        "group": "1",
-        "session": 1,
-        "date": "13 avril 2025 à 13:30",
-        "_id": "01975995-5142-7574-880c-0f66329c03f6",
-        "created_at": "2025-06-10T11:24:07.362Z",
-        "updated_at": "2025-06-11T08:17:17.633Z",
-        "index": 0
-      },
-      {
-        "matchType": "away",
-        "team1": "PLUGUFFAN",
-        "team2": "Carhaix",
-        "team1Score": "1",
-        "team2Score": "3",
-        "isForfeit": false,
-        "forfeitTeam": "",
-        "isPostponed": false,
-        "postponedTeam": "",
-        "matchId": "01975994-a161-77d4-98ae-363e25d31527",
-        "group": "1",
-        "session": 1,
-        "date": "18 avril 2025 à 13:30",
-        "_id": "01975995-a7e1-742e-9c5d-4aeeb6136b99",
-        "created_at": "2025-06-10T11:24:29.537Z",
-        "updated_at": "2025-06-11T08:17:17.636Z",
-        "index": 1
-      }
+      
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-11T08:17:17.636Z"
+      "updated_at": "2025-06-11T08:23:05.704Z"
     }
   },
   "team": {
@@ -119,11 +51,22 @@
         "_id": "01975e10-9fea-726b-a4f8-6842dd1c0381",
         "created_at": "2025-06-11T08:17:17.307Z",
         "updated_at": "2025-06-11T08:17:17.307Z"
+      },
+      {
+        "teamName": "Thépot",
+        "coach": "Baptiste Anell",
+        "coachContact": "non communiquée ",
+        "coachEmail": "batyep@gmail.com",
+        "group": "1",
+        "description": "",
+        "_id": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "created_at": "2025-06-11T08:23:05.715Z",
+        "updated_at": "2025-06-11T08:23:05.715Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:54.237Z",
-      "updated_at": "2025-06-11T08:17:17.307Z"
+      "updated_at": "2025-06-11T08:23:05.715Z"
     }
   },
   "stade": {
