@@ -183,12 +183,68 @@
         "description": "",
         "_id": "01975f28-df01-71f4-9994-812f535882b5",
         "created_at": "2025-06-11T13:23:23.558Z",
-        "updated_at": "2025-06-11T13:23:23.558Z"
+        "updated_at": "2025-06-11T13:23:23.558Z",
+        "index": 8
+      },
+      {
+        "teamName": "Kemperle 2",
+        "coach": "Gérard Humbert",
+        "coachContact": "non communiquée",
+        "coachEmail": "gerard.humbert@icloud.com",
+        "group": "2",
+        "description": "",
+        "_id": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
+        "created_at": "2025-06-11T13:31:54.259Z",
+        "updated_at": "2025-06-11T13:31:54.259Z"
+      },
+      {
+        "teamName": "Concarneau 1",
+        "coach": "Mathieu Gargam",
+        "coachContact": " 06 48 89 28 14",
+        "coachEmail": "mgargam@laposte.net",
+        "group": "2",
+        "description": "",
+        "_id": "01975f31-8081-71fd-a429-0b8b5e682397",
+        "created_at": "2025-06-11T13:32:49.153Z",
+        "updated_at": "2025-06-11T13:32:49.153Z"
+      },
+      {
+        "teamName": "Kemperle 1",
+        "coach": "philippe MOING",
+        "coachContact": "06.13.37.74.38 ",
+        "coachEmail": "moing.philippe@orange.fr",
+        "group": "2",
+        "description": "",
+        "_id": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+        "created_at": "2025-06-11T13:33:33.452Z",
+        "updated_at": "2025-06-11T13:33:33.452Z"
+      },
+      {
+        "teamName": "Fouesnant 2",
+        "coach": "Denis Madec",
+        "coachContact": "06 64 26 81 06",
+        "coachEmail": "denisma29@gmail.com",
+        "group": "2",
+        "description": "",
+        "_id": "01975f32-f293-726e-a5a5-dfc0e2121587",
+        "created_at": "2025-06-11T13:34:23.893Z",
+        "updated_at": "2025-06-11T13:34:23.893Z"
+      },
+      {
+        "teamName": "Cap Sizun",
+        "coach": "Aleksander KLESSA",
+        "coachContact": "06 30 96 53 09, 09 77 97 96 74",
+        "coachEmail": "alik29@orange.fr",
+        "group": "2",
+        "description": "",
+        "_id": "01975f34-337b-7560-88b8-d3c332843a77",
+        "created_at": "2025-06-11T13:35:46.045Z",
+        "updated_at": "2025-06-11T13:35:46.045Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:54.237Z",
-      "updated_at": "2025-06-11T13:23:23.558Z"
+      "updated_at": "2025-06-11T13:35:46.045Z"
     }
   },
   "stade": {
