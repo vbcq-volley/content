@@ -3,16 +3,16 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
-		<title>Hexo</title>
+		<title>vbcq</title>
 		<link>http://example.com</link>
 		<description></description>
-		<language>en</language>
-		<lastBuildDate>2025-06-10T13:54:51.345Z</lastBuildDate>
-		<pubDate>2025-06-10T11:54:51.340Z</pubDate>
+		<language>fr</language>
+		<lastBuildDate>2025-06-10T16:18:30.133Z</lastBuildDate>
+		<pubDate>2025-06-10T14:18:30.132Z</pubDate>
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
-      <title>Hexo</title>
+      <title>vbcq</title>
       <link>http://example.com</link>
     </image>
 		<atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml"/>
@@ -20,72 +20,72 @@
 			<title>actualitee</title>
 			<link>http://example.com/2025/06/06/test/</link>
 			<description>actualitee</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-06T08:57:57.000Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-06T00:00:00.000Z</pubDate>
 			<guid>http://example.com/2025/06/06/test/</guid>
 		</item>
 		<item>
 			<title>groupe_1</title>
 			<link>http://example.com/groupe-1/</link>
 			<description>groupe_1</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.292Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:30.112Z</pubDate>
 			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
 			<title>Scores Session 1</title>
 			<link>http://example.com/scores-session-1/</link>
 			<description>Scores Session 1</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.302Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:30.121Z</pubDate>
 			<guid>http://example.com/scores-session-1/</guid>
 		</item>
 		<item>
 			<title>Stades</title>
 			<link>http://example.com/stades/</link>
 			<description>Stades</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.323Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:30.132Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
 		<item>
 			<title>Carhaix</title>
 			<link>http://example.com/stades/Carhaix/</link>
 			<description>Carhaix</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.315Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:30.128Z</pubDate>
 			<guid>http://example.com/stades/Carhaix/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe Carhaix</title>
-			<link>http://example.com/teams/Carhaix/</link>
-			<description>&#x26;#xC9;quipe Carhaix</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.340Z</pubDate>
-			<guid>http://example.com/teams/Carhaix/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe PLUGUFFAN</title>
 			<link>http://example.com/teams/PLUGUFFAN/</link>
 			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.331Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:29.970Z</pubDate>
 			<guid>http://example.com/teams/PLUGUFFAN/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Carhaix</title>
+			<link>http://example.com/teams/Carhaix/</link>
+			<description>&#x26;#xC9;quipe Carhaix</description>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:29.980Z</pubDate>
+			<guid>http://example.com/teams/Carhaix/</guid>
 		</item>
 		<item>
 			<title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
 			<link>http://example.com/scores/session-1/groupe-1/aller/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Aller</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.303Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:30.122Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/aller/</guid>
 		</item>
 		<item>
 			<title>Scores Session 1 - Groupe 1 - Matchs Retour</title>
 			<link>http://example.com/scores/session-1/groupe-1/retour/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Retour</description>
-			<author>noreply@blogger.com (John Doe)</author>
-			<pubDate>2025-06-10T09:54:51.303Z</pubDate>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-10T12:18:30.122Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/retour/</guid>
 		</item>
 	</channel>
