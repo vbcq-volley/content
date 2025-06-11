@@ -82,11 +82,33 @@
         "_id": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
         "created_at": "2025-06-11T09:11:44.430Z",
         "updated_at": "2025-06-11T09:11:44.430Z"
+      },
+      {
+        "teamName": "Châteaulin 1",
+        "coach": " Isabelle MORE CHAMPAVIER",
+        "coachContact": " 06 70 34 02 53",
+        "coachEmail": "isabelle.more0042@orange.fr",
+        "group": "1",
+        "description": "",
+        "_id": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
+        "created_at": "2025-06-11T09:24:40.639Z",
+        "updated_at": "2025-06-11T09:24:40.639Z"
+      },
+      {
+        "teamName": "PLONESCAF",
+        "coach": "Mick POUSSIER",
+        "coachContact": "06 62 64 48 91",
+        "coachEmail": "mp.poussier@orange.fr",
+        "group": "1",
+        "description": "",
+        "_id": "01975e54-2296-77ea-9344-b2c2d89c0645",
+        "created_at": "2025-06-11T09:31:01.657Z",
+        "updated_at": "2025-06-11T09:31:01.657Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:54.237Z",
-      "updated_at": "2025-06-11T09:11:44.430Z"
+      "updated_at": "2025-06-11T09:31:01.657Z"
     }
   },
   "stade": {
