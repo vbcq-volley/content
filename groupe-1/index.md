@@ -1,6 +1,6 @@
 ---
 title: groupe_1
-date: 2025-06-11T11:27:35.340Z
+date: 2025-06-11T11:56:39.675Z
 layout: championnat
 group: 1
 ---
@@ -9,6 +9,10 @@ group: 1
 
 ## Sessions
 
+
+###  1
+- [Matchs Aller](/scores/session-1/groupe-1/aller/)
+- [Matchs Retour](/scores/session-1/groupe-1/retour/)
 
 # Classement du Groupe 1
 
