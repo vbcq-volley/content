@@ -7,8 +7,8 @@
 		<link>http://example.com</link>
 		<description></description>
 		<language>fr</language>
-		<lastBuildDate>2025-06-11T10:52:39.539Z</lastBuildDate>
-		<pubDate>2025-06-11T08:52:39.315Z</pubDate>
+		<lastBuildDate>2025-06-11T11:10:00.864Z</lastBuildDate>
+		<pubDate>2025-06-11T09:10:00.848Z</pubDate>
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
@@ -29,7 +29,7 @@
 			<link>http://example.com/groupe-1/</link>
 			<description>groupe_1</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T06:52:38.458Z</pubDate>
+			<pubDate>2025-06-11T07:10:00.794Z</pubDate>
 			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
@@ -37,7 +37,7 @@
 			<link>http://example.com/scores-session-1/</link>
 			<description>Scores Session 1</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T06:52:39.307Z</pubDate>
+			<pubDate>2025-06-11T06:56:47.406Z</pubDate>
 			<guid>http://example.com/scores-session-1/</guid>
 		</item>
 		<item>
@@ -45,7 +45,7 @@
 			<link>http://example.com/stades/</link>
 			<description>Stades</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T06:52:36.541Z</pubDate>
+			<pubDate>2025-06-11T07:10:00.712Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
 		<item>
@@ -53,7 +53,7 @@
 			<link>http://example.com/stades/Carhaix/</link>
 			<description>Carhaix</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T06:52:36.526Z</pubDate>
+			<pubDate>2025-06-11T07:10:00.710Z</pubDate>
 			<guid>http://example.com/stades/Carhaix/</guid>
 		</item>
 		<item>
@@ -61,23 +61,39 @@
 			<link>http://example.com/teams/Carhaix/</link>
 			<description>&#x26;#xC9;quipe Carhaix</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:19:32.734Z</pubDate>
+			<pubDate>2025-06-11T07:10:00.807Z</pubDate>
 			<guid>http://example.com/teams/Carhaix/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Kervao Bar</title>
+			<link>http://example.com/teams/Kervao-Bar/</link>
+			<description>&#x26;#xC9;quipe Kervao Bar</description>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-11T07:10:00.821Z</pubDate>
+			<guid>http://example.com/teams/Kervao-Bar/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe PLUGUFFAN</title>
 			<link>http://example.com/teams/PLUGUFFAN/</link>
 			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-10T12:19:32.724Z</pubDate>
+			<pubDate>2025-06-11T07:10:00.801Z</pubDate>
 			<guid>http://example.com/teams/PLUGUFFAN/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Th&#xE9;pot</title>
+			<link>http://example.com/teams/Th%C3%A9pot/</link>
+			<description>&#x26;#xC9;quipe Th&#x26;#xE9;pot</description>
+			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
+			<pubDate>2025-06-11T07:10:00.848Z</pubDate>
+			<guid>http://example.com/teams/Th%C3%A9pot/</guid>
 		</item>
 		<item>
 			<title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
 			<link>http://example.com/scores/session-1/groupe-1/aller/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Aller</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T06:52:39.314Z</pubDate>
+			<pubDate>2025-06-11T06:56:47.413Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/aller/</guid>
 		</item>
 		<item>
@@ -85,7 +101,7 @@
 			<link>http://example.com/scores/session-1/groupe-1/retour/</link>
 			<description>Scores Session 1 - Groupe 1 - Matchs Retour</description>
 			<author>noreply@blogger.com (thomas iniguez visioli pour vbcq)</author>
-			<pubDate>2025-06-11T06:52:39.315Z</pubDate>
+			<pubDate>2025-06-11T06:56:47.413Z</pubDate>
 			<guid>http://example.com/scores/session-1/groupe-1/retour/</guid>
 		</item>
 	</channel>

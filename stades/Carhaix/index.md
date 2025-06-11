@@ -1,6 +1,6 @@
 ---
 title: Carhaix
-date: 2025-06-11T08:56:46.265Z
+date: 2025-06-11T09:10:32.734Z
 layout: stade
 ---
 
@@ -13,9 +13,4 @@ layout: stade
 
 
 ## Matchs passés
-
-### PLUGUFFAN vs Carhaix
-- Date: 13 avril 2025 à 13:30
-- Groupe: 1
-- Session: 1
 
