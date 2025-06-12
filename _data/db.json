@@ -414,11 +414,24 @@
         "updated_at": "2025-06-12T11:12:45.713Z",
         "index": 1,
         "winner": "Kervao Bar"
+      },
+      {
+        "team1": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "team2": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "matchDate": "2025-07-07T20:30",
+        "round": "preliminary",
+        "team1Name": "Kervao Bar",
+        "team2Name": "PLUGUFFAN",
+        "_id": "019763e7-455b-75dc-9ffd-70f313ad9361",
+        "created_at": "2025-06-12T11:29:50.448Z",
+        "updated_at": "2025-06-12T11:30:18.094Z",
+        "index": 2,
+        "winner": "Kervao Bar"
       }
     ],
     "metadata": {
       "created_at": "2025-06-12T09:23:17.472Z",
-      "updated_at": "2025-06-12T11:22:32.124Z"
+      "updated_at": "2025-06-12T11:30:18.094Z"
     }
   },
   "tournament_results": {
@@ -430,12 +443,22 @@
         "stats": "non",
         "_id": "019763d7-a255-71d3-9189-d8012863362e",
         "created_at": "2025-06-12T11:12:45.679Z",
-        "updated_at": "2025-06-12T11:12:45.679Z"
+        "updated_at": "2025-06-12T11:12:45.679Z",
+        "index": 0
+      },
+      {
+        "matchId": "019763e7-455b-75dc-9ffd-70f313ad9361",
+        "score1": 3,
+        "score2": 2,
+        "stats": "non",
+        "_id": "019763e7-b148-724d-b845-9990b2d13044",
+        "created_at": "2025-06-12T11:30:18.056Z",
+        "updated_at": "2025-06-12T11:30:18.056Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-12T11:12:45.652Z",
-      "updated_at": "2025-06-12T11:12:45.679Z"
+      "updated_at": "2025-06-12T11:30:18.056Z"
     }
   }
 }
