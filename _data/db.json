@@ -391,14 +391,16 @@
   "tournament_matches": {
     "entries": [
       {
-        "team1": "undefined",
-        "team2": "undefined",
+        "team1": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "team2": "01975992-8d82-72dd-8d57-e3d15a22e098",
         "matchDate": "2025-06-16T20:30",
         "round": "preliminary",
         "_id": "01976373-e7ed-72b9-b2be-495a44c4e823",
         "created_at": "2025-06-12T09:23:49.899Z",
-        "updated_at": "2025-06-12T09:23:49.899Z",
-        "index": 0
+        "updated_at": "2025-06-12T11:22:03.148Z",
+        "index": 0,
+        "team1Name": "PLUGUFFAN",
+        "team2Name": "Carhaix"
       },
       {
         "team1": "01975e10-9fea-726b-a4f8-6842dd1c0381",
@@ -409,12 +411,31 @@
         "team2Name": "Thépot",
         "_id": "019763aa-5d95-77ce-9f02-5c269dad72c3",
         "created_at": "2025-06-12T10:23:18.961Z",
-        "updated_at": "2025-06-12T10:23:18.961Z"
+        "updated_at": "2025-06-12T11:12:45.713Z",
+        "index": 1,
+        "winner": "Kervao Bar"
       }
     ],
     "metadata": {
       "created_at": "2025-06-12T09:23:17.472Z",
-      "updated_at": "2025-06-12T10:23:18.961Z"
+      "updated_at": "2025-06-12T11:22:32.124Z"
+    }
+  },
+  "tournament_results": {
+    "entries": [
+      {
+        "matchId": "019763aa-5d95-77ce-9f02-5c269dad72c3",
+        "score1": 3,
+        "score2": 1,
+        "stats": "non",
+        "_id": "019763d7-a255-71d3-9189-d8012863362e",
+        "created_at": "2025-06-12T11:12:45.679Z",
+        "updated_at": "2025-06-12T11:12:45.679Z"
+      }
+    ],
+    "metadata": {
+      "created_at": "2025-06-12T11:12:45.652Z",
+      "updated_at": "2025-06-12T11:12:45.679Z"
     }
   }
 }
