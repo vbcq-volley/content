@@ -88,8 +88,9 @@
         "group": "1",
         "_id": "01975991-2a4c-76c1-91ca-ac89253589ba",
         "created_at": "2025-06-10T11:19:35.268Z",
-        "updated_at": "2025-06-10T11:19:35.268Z",
-        "index": 0
+        "updated_at": "2025-06-12T13:33:26.513Z",
+        "index": 0,
+        "description": "### essai"
       },
       {
         "teamName": "Carhaix",
@@ -369,7 +370,7 @@
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:54.237Z",
-      "updated_at": "2025-06-11T13:48:04.064Z"
+      "updated_at": "2025-06-12T13:33:26.513Z"
     }
   },
   "stade": {
@@ -379,13 +380,14 @@
         "address": "1 rue Cazuguel, 29833 Carhaix-Plouguer",
         "_id": "01975993-70f5-71ff-ba0e-4802ec917994",
         "created_at": "2025-06-10T11:22:04.408Z",
-        "updated_at": "2025-06-10T11:38:22.137Z",
-        "index": 0
+        "updated_at": "2025-06-12T13:37:54.977Z",
+        "index": 0,
+        "description": "### essai confirmée "
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:21:34.805Z",
-      "updated_at": "2025-06-10T11:38:22.137Z"
+      "updated_at": "2025-06-12T13:37:54.977Z"
     }
   },
   "tournament_matches": {
@@ -453,7 +455,8 @@
         "stats": "non",
         "_id": "019763e7-b148-724d-b845-9990b2d13044",
         "created_at": "2025-06-12T11:30:18.056Z",
-        "updated_at": "2025-06-12T11:30:18.056Z"
+        "updated_at": "2025-06-12T11:30:18.056Z",
+        "index": 1
       }
     ],
     "metadata": {
