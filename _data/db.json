@@ -195,7 +195,8 @@
         "description": "",
         "_id": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
         "created_at": "2025-06-11T13:31:54.259Z",
-        "updated_at": "2025-06-11T13:31:54.259Z"
+        "updated_at": "2025-06-11T13:31:54.259Z",
+        "index": 9
       },
       {
         "teamName": "Concarneau 1",
@@ -206,7 +207,8 @@
         "description": "",
         "_id": "01975f31-8081-71fd-a429-0b8b5e682397",
         "created_at": "2025-06-11T13:32:49.153Z",
-        "updated_at": "2025-06-11T13:32:49.153Z"
+        "updated_at": "2025-06-11T13:32:49.153Z",
+        "index": 10
       },
       {
         "teamName": "Kemperle 1",
@@ -217,7 +219,8 @@
         "description": "",
         "_id": "01975f32-2d8c-7325-9047-d9ddfc77a343",
         "created_at": "2025-06-11T13:33:33.452Z",
-        "updated_at": "2025-06-11T13:33:33.452Z"
+        "updated_at": "2025-06-11T13:33:33.452Z",
+        "index": 11
       },
       {
         "teamName": "Fouesnant 2",
@@ -228,7 +231,8 @@
         "description": "",
         "_id": "01975f32-f293-726e-a5a5-dfc0e2121587",
         "created_at": "2025-06-11T13:34:23.893Z",
-        "updated_at": "2025-06-11T13:34:23.893Z"
+        "updated_at": "2025-06-11T13:34:23.893Z",
+        "index": 12
       },
       {
         "teamName": "Cap Sizun",
@@ -239,7 +243,8 @@
         "description": "",
         "_id": "01975f34-337b-7560-88b8-d3c332843a77",
         "created_at": "2025-06-11T13:35:46.045Z",
-        "updated_at": "2025-06-11T13:35:46.045Z"
+        "updated_at": "2025-06-11T13:35:46.045Z",
+        "index": 13
       },
       {
         "teamName": "Plonéour ",
@@ -250,7 +255,8 @@
         "description": "",
         "_id": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
         "created_at": "2025-06-11T13:38:28.229Z",
-        "updated_at": "2025-06-11T13:38:28.229Z"
+        "updated_at": "2025-06-11T13:38:28.229Z",
+        "index": 14
       },
       {
         "teamName": "Quimper 29 A",
@@ -261,7 +267,8 @@
         "description": "",
         "_id": "01975f37-d18b-769f-bbe4-590556c22841",
         "created_at": "2025-06-11T13:39:43.115Z",
-        "updated_at": "2025-06-11T13:39:43.115Z"
+        "updated_at": "2025-06-11T13:39:43.115Z",
+        "index": 15
       },
       {
         "teamName": "Quimper 29 B",
@@ -272,7 +279,8 @@
         "description": "",
         "_id": "01975f39-7ada-7748-9eed-ff57d304edd9",
         "created_at": "2025-06-11T13:41:31.994Z",
-        "updated_at": "2025-06-11T13:41:31.994Z"
+        "updated_at": "2025-06-11T13:41:31.994Z",
+        "index": 16
       },
       {
         "teamName": "Châteaulin 2",
@@ -283,7 +291,8 @@
         "description": "",
         "_id": "01975f3a-4d84-72d9-a967-75165c523495",
         "created_at": "2025-06-11T13:42:25.924Z",
-        "updated_at": "2025-06-11T13:42:25.924Z"
+        "updated_at": "2025-06-11T13:42:25.924Z",
+        "index": 17
       },
       {
         "teamName": "Penn Sardin 2",
@@ -294,7 +303,8 @@
         "description": "",
         "_id": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
         "created_at": "2025-06-11T13:43:10.451Z",
-        "updated_at": "2025-06-11T13:43:10.451Z"
+        "updated_at": "2025-06-11T13:43:10.451Z",
+        "index": 18
       },
       {
         "teamName": "Fouesnant 3",
@@ -305,7 +315,8 @@
         "description": "",
         "_id": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
         "created_at": "2025-06-11T13:43:54.598Z",
-        "updated_at": "2025-06-11T13:43:54.598Z"
+        "updated_at": "2025-06-11T13:43:54.598Z",
+        "index": 19
       },
       {
         "teamName": "St Evarzec ",
@@ -316,7 +327,8 @@
         "description": "",
         "_id": "01975f3d-1677-725f-976e-6754fc6a5103",
         "created_at": "2025-06-11T13:45:28.441Z",
-        "updated_at": "2025-06-11T13:45:28.441Z"
+        "updated_at": "2025-06-11T13:45:28.441Z",
+        "index": 20
       },
       {
         "teamName": "Ergué-Gabéric A",
@@ -327,7 +339,8 @@
         "description": "",
         "_id": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
         "created_at": "2025-06-11T13:46:14.105Z",
-        "updated_at": "2025-06-11T13:46:14.105Z"
+        "updated_at": "2025-06-11T13:46:14.105Z",
+        "index": 21
       },
       {
         "teamName": "Ergué-Gabéric B",
@@ -338,7 +351,8 @@
         "description": "",
         "_id": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
         "created_at": "2025-06-11T13:46:50.175Z",
-        "updated_at": "2025-06-11T13:46:50.175Z"
+        "updated_at": "2025-06-11T13:46:50.175Z",
+        "index": 22
       },
       {
         "teamName": "Gourin GVB / Scaër",
@@ -349,7 +363,8 @@
         "description": "",
         "_id": "01975f3f-7660-703d-84f2-6cf786909070",
         "created_at": "2025-06-11T13:48:04.064Z",
-        "updated_at": "2025-06-11T13:48:04.064Z"
+        "updated_at": "2025-06-11T13:48:04.064Z",
+        "index": 23
       }
     ],
     "metadata": {
@@ -371,6 +386,23 @@
     "metadata": {
       "created_at": "2025-06-10T11:21:34.805Z",
       "updated_at": "2025-06-10T11:38:22.137Z"
+    }
+  },
+  "tournament_matches": {
+    "entries": [
+      {
+        "team1": "undefined",
+        "team2": "undefined",
+        "matchDate": "2025-06-16T20:30",
+        "round": "preliminary",
+        "_id": "01976373-e7ed-72b9-b2be-495a44c4e823",
+        "created_at": "2025-06-12T09:23:49.899Z",
+        "updated_at": "2025-06-12T09:23:49.899Z"
+      }
+    ],
+    "metadata": {
+      "created_at": "2025-06-12T09:23:17.472Z",
+      "updated_at": "2025-06-12T09:23:49.899Z"
     }
   }
 }
