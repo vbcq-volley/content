@@ -397,12 +397,24 @@
         "round": "preliminary",
         "_id": "01976373-e7ed-72b9-b2be-495a44c4e823",
         "created_at": "2025-06-12T09:23:49.899Z",
-        "updated_at": "2025-06-12T09:23:49.899Z"
+        "updated_at": "2025-06-12T09:23:49.899Z",
+        "index": 0
+      },
+      {
+        "team1": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "team2": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "matchDate": "2025-06-30T20:30",
+        "round": "preliminary",
+        "team1Name": "Kervao Bar",
+        "team2Name": "Thépot",
+        "_id": "019763aa-5d95-77ce-9f02-5c269dad72c3",
+        "created_at": "2025-06-12T10:23:18.961Z",
+        "updated_at": "2025-06-12T10:23:18.961Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-12T09:23:17.472Z",
-      "updated_at": "2025-06-12T09:23:49.899Z"
+      "updated_at": "2025-06-12T10:23:18.961Z"
     }
   }
 }
