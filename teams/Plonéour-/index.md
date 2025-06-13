@@ -1,10 +1,12 @@
 ---
 title: Équipe Plonéour 
-date: 2025-06-12T13:48:23.146Z
+date: 2025-06-12T14:09:45.872Z
 layout: team
 ---
 
 # Plonéour 
+
+
 
 ## contact 
 

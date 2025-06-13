@@ -1,10 +1,12 @@
 ---
 title: Équipe Fouesnant 2
-date: 2025-06-12T13:48:23.103Z
+date: 2025-06-12T14:09:45.832Z
 layout: team
 ---
 
 # Fouesnant 2
+
+
 
 ## contact 
 

@@ -1,10 +1,12 @@
 ---
 title: Équipe Thépot
-date: 2025-06-12T13:48:22.759Z
+date: 2025-06-12T14:09:45.255Z
 layout: team
 ---
 
 # Thépot
+
+
 
 ## contact 
 

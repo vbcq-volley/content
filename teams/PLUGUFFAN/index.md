@@ -1,10 +1,12 @@
 ---
 title: Équipe PLUGUFFAN
-date: 2025-06-12T13:48:22.566Z
+date: 2025-06-12T14:09:44.872Z
 layout: team
 ---
 
 # PLUGUFFAN
+
+### essai
 
 ## contact 
 

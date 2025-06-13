@@ -1,10 +1,12 @@
 ---
 title: Équipe Kervao Bar
-date: 2025-06-12T13:48:22.631Z
+date: 2025-06-12T14:09:45.073Z
 layout: team
 ---
 
 # Kervao Bar
+
+
 
 ## contact 
 

@@ -1,6 +1,6 @@
 ---
 title: Carhaix
-date: 2025-06-11T13:16:47.320Z
+date: 2025-06-12T14:09:46.082Z
 layout: stade
 ---
 
@@ -9,6 +9,7 @@ layout: stade
 ## Informations
 - **Adresse**: 1 rue Cazuguel, 29833 Carhaix-Plouguer
 - **Map**: map
+### essai confirmée 
 ## Matchs à venir
 
 ### PLUGUFFAN vs Carhaix

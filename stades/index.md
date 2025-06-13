@@ -1,6 +1,6 @@
 ---
 title: Stades
-date: 2025-06-11T13:16:47.375Z
+date: 2025-06-12T14:09:46.283Z
 layout: page
 ---
 
@@ -9,4 +9,5 @@ layout: page
 
 ## [Carhaix](/stades/Carhaix/)
 - Adresse: 1 rue Cazuguel, 29833 Carhaix-Plouguer
+
 

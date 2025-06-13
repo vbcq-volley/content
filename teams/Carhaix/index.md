@@ -1,10 +1,12 @@
 ---
 title: Équipe Carhaix
-date: 2025-06-12T13:48:22.604Z
+date: 2025-06-12T14:09:44.954Z
 layout: team
 ---
 
 # Carhaix
+
+
 
 ## contact 
 
