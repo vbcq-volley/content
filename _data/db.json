@@ -89,7 +89,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976852-17b2-77ef-932c-94a53de73214",
         "created_at": "2025-06-13T08:04:59.973Z",
-        "updated_at": "2025-06-13T13:43:00.594Z",
+        "updated_at": "2025-06-13T13:43:45.155Z",
         "index": 0
       },
       {
@@ -108,7 +108,7 @@
         "date": "23/06/2025 20:30",
         "_id": "01976852-55e2-753e-91b3-04fcaf80da6f",
         "created_at": "2025-06-13T08:05:15.874Z",
-        "updated_at": "2025-06-13T13:43:00.596Z",
+        "updated_at": "2025-06-13T13:43:45.159Z",
         "index": 1
       },
       {
@@ -127,7 +127,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976864-401d-702a-bce8-12ed878ab69e",
         "created_at": "2025-06-13T08:24:49.951Z",
-        "updated_at": "2025-06-13T13:43:00.599Z",
+        "updated_at": "2025-06-13T13:43:45.163Z",
         "index": 2
       },
       {
@@ -146,13 +146,32 @@
         "date": "30/06/2025 20:30",
         "_id": "01976864-76d8-777c-ab18-3c8b2426aa40",
         "created_at": "2025-06-13T08:25:03.960Z",
-        "updated_at": "2025-06-13T13:43:00.601Z",
+        "updated_at": "2025-06-13T13:43:45.166Z",
         "index": 3
+      },
+      {
+        "matchType": "home",
+        "team1": "Fouesnant 1",
+        "team2": "Penn Sardin 1",
+        "team1Score": "3",
+        "team2Score": "0",
+        "isForfeit": false,
+        "forfeitTeam": "",
+        "isPostponed": false,
+        "postponedTeam": "",
+        "matchId": "01975ecd-f6ad-74ab-93ed-8198547a0431",
+        "group": "1",
+        "session": 1,
+        "date": "30/06/2025 20:30",
+        "_id": "01976988-39e5-76e9-bd59-483b167d8456",
+        "created_at": "2025-06-13T13:43:44.871Z",
+        "updated_at": "2025-06-13T13:43:45.169Z",
+        "index": 4
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-13T13:43:00.601Z"
+      "updated_at": "2025-06-13T13:43:45.169Z"
     }
   },
   "team": {
