@@ -1,6 +1,6 @@
 ---
 title: groupe_1
-date: 2025-06-13T08:15:59.049Z
+date: 2025-06-13T08:32:41.938Z
 layout: championnat
 group: 1
 ---
@@ -20,9 +20,9 @@ group: 1
 |----------|--------|-----|---|-----|-----|-----|
 | 1 | [Carhaix](/teams/Carhaix) | 4 | 2 | 1 | 0 | 1 |
 | 2 | [PLUGUFFAN](/teams/PLUGUFFAN) | 4 | 2 | 1 | 0 | 1 |
-| 3 | [Châteaulin-1](/teams/Châteaulin-1) | 0 | 0 | 0 | 0 | 0 |
-| 4 | [Fouesnant-1](/teams/Fouesnant-1) | 0 | 0 | 0 | 0 | 0 |
-| 5 | [Kervao-Bar](/teams/Kervao-Bar) | 0 | 0 | 0 | 0 | 0 |
+| 3 | [Kervao-Bar](/teams/Kervao-Bar) | 2 | 2 | 1 | 0 | 1 |
+| 4 | [Châteaulin-1](/teams/Châteaulin-1) | 0 | 0 | 0 | 0 | 0 |
+| 5 | [Fouesnant-1](/teams/Fouesnant-1) | 0 | 0 | 0 | 0 | 0 |
 | 6 | [Penn-Sardin-1](/teams/Penn-Sardin-1) | 0 | 0 | 0 | 0 | 0 |
 | 7 | [PLONESCAF](/teams/PLONESCAF) | 0 | 0 | 0 | 0 | 0 |
-| 8 | [Thépot](/teams/Thépot) | 0 | 0 | 0 | 0 | 0 |
+| 8 | [Thépot](/teams/Thépot) | 0 | 2 | 1 | 0 | 1 |
