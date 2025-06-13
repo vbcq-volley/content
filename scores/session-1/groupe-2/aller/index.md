@@ -1,6 +1,6 @@
 ---
 title: Scores Session 1 - Groupe 2 - Matchs Aller
-date: 2025-06-13T07:39:31.358Z
+date: 2025-06-13T08:10:20.280Z
 layout: page
 concern_group: 2
 ---
