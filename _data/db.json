@@ -89,7 +89,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976852-17b2-77ef-932c-94a53de73214",
         "created_at": "2025-06-13T08:04:59.973Z",
-        "updated_at": "2025-06-13T08:24:50.556Z",
+        "updated_at": "2025-06-13T08:25:04.156Z",
         "index": 0
       },
       {
@@ -108,7 +108,7 @@
         "date": "23/06/2025 20:30",
         "_id": "01976852-55e2-753e-91b3-04fcaf80da6f",
         "created_at": "2025-06-13T08:05:15.874Z",
-        "updated_at": "2025-06-13T08:24:50.559Z",
+        "updated_at": "2025-06-13T08:25:04.159Z",
         "index": 1
       },
       {
@@ -127,13 +127,32 @@
         "date": "16/06/2025 20:30",
         "_id": "01976864-401d-702a-bce8-12ed878ab69e",
         "created_at": "2025-06-13T08:24:49.951Z",
-        "updated_at": "2025-06-13T08:24:50.564Z",
+        "updated_at": "2025-06-13T08:25:04.164Z",
         "index": 2
+      },
+      {
+        "matchType": "away",
+        "team1": "Kervao Bar",
+        "team2": "Thépot",
+        "team1Score": "-1",
+        "team2Score": "0",
+        "isForfeit": false,
+        "forfeitTeam": "",
+        "isPostponed": false,
+        "postponedTeam": "",
+        "matchId": "01975ecc-d8fa-7216-9602-888335bb12ce",
+        "group": "1",
+        "session": 1,
+        "date": "30/06/2025 20:30",
+        "_id": "01976864-76d8-777c-ab18-3c8b2426aa40",
+        "created_at": "2025-06-13T08:25:03.960Z",
+        "updated_at": "2025-06-13T08:25:04.168Z",
+        "index": 3
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-13T08:24:50.564Z"
+      "updated_at": "2025-06-13T08:25:04.168Z"
     }
   },
   "team": {
