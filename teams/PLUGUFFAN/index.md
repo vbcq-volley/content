@@ -1,6 +1,6 @@
 ---
 title: Équipe PLUGUFFAN
-date: 2025-06-13T13:37:03.655Z
+date: 2025-06-16T06:57:30.544Z
 layout: team
 ---
 
@@ -33,4 +33,12 @@ rabonne@hotmail.fr
 ##### Matchs à venir
 
 - [Carhaix](/teams/Carhaix) vs [PLUGUFFAN](/teams/PLUGUFFAN) [Carhaix](/stades/Carhaix) - 23 juin 2025 à 20:30
+
+### Session 2
+- [résultats aller ](/scores/session-2/groupe-1/aller/)
+- [résultats retour](/scores/session-2/groupe-1/retour/)
+
+#### Matchs Aller
+
+#### Matchs Retour
 

@@ -1,6 +1,6 @@
 ---
 title: Équipe PLONESCAF
-date: 2025-06-13T13:37:03.720Z
+date: 2025-06-16T06:57:30.818Z
 layout: team
 ---
 
@@ -33,4 +33,12 @@ mp.poussier@orange.fr
 ##### Matchs à venir
 
 - [PLONESCAF](/teams/PLONESCAF) vs [Châteaulin-1](/teams/Châteaulin-1) [Carhaix](/stades/Carhaix) - 14 juillet 2025 à 20:30
+
+### Session 2
+- [résultats aller ](/scores/session-2/groupe-1/aller/)
+- [résultats retour](/scores/session-2/groupe-1/retour/)
+
+#### Matchs Aller
+
+#### Matchs Retour
 
