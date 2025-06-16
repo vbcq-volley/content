@@ -1,6 +1,6 @@
 ---
 title: Équipe Plonéour 
-date: 2025-06-13T08:32:44.171Z
+date: 2025-06-13T13:37:03.773Z
 layout: team
 ---
 

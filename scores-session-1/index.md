@@ -1,6 +1,6 @@
 ---
 title: Scores Session 1
-date: 2025-06-13T08:32:42.191Z
+date: 2025-06-13T13:37:04.305Z
 layout: session
 ---
 

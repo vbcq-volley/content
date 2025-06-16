@@ -1,6 +1,6 @@
 ---
 title: Équipe Cap Sizun
-date: 2025-06-13T08:32:44.166Z
+date: 2025-06-13T13:37:03.759Z
 layout: team
 ---
 
