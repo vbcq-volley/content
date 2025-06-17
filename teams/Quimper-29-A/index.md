@@ -1,6 +1,6 @@
 ---
 title: Équipe Quimper 29 A
-date: 2025-06-17T10:57:35.407Z
+date: 2025-06-17T11:01:35.275Z
 layout: team
 ---
 
