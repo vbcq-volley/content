@@ -1,6 +1,6 @@
 ---
 title: Équipe Ergué-Gabéric B
-date: 2025-06-17T10:42:48.152Z
+date: 2025-06-17T10:51:27.579Z
 layout: team
 ---
 
