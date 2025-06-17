@@ -1,6 +1,6 @@
 ---
 title: Carhaix
-date: 2025-06-16T13:28:41.856Z
+date: 2025-06-17T09:29:27.950Z
 layout: stade
 ---
 
@@ -9,20 +9,8 @@ layout: stade
 ## Informations
 - **Adresse**: 1 rue Cazuguel, 29833 Carhaix-Plouguer
 - **Map**: map
-### essai confirmée 
+### description 
 ## Matchs à venir
-
-### PLUGUFFAN vs Carhaix
-- Date: 16 juin 2025 à 20:30
-- Groupe: 1
-- Session: 1
-
-
-### Kervao Bar vs Thépot
-- Date: 16 juin 2025 à 20:30
-- Groupe: 1
-- Session: 1
-
 
 ### Fouesnant 1 vs Penn Sardin 1
 - Date: 30 juin 2025 à 20:30
@@ -37,4 +25,15 @@ layout: stade
 
 
 ## Matchs passés
+
+### PLUGUFFAN vs Carhaix
+- Date: 16 juin 2025 à 20:30
+- Groupe: 1
+- Session: 1
+
+
+### Kervao Bar vs Thépot
+- Date: 16 juin 2025 à 20:30
+- Groupe: 1
+- Session: 1
 

@@ -1,6 +1,6 @@
 ---
 title: groupe_1
-date: 2025-06-16T13:28:42.740Z
+date: 2025-06-17T09:29:27.888Z
 layout: championnat
 group: 1
 ---
@@ -18,15 +18,29 @@ group: 1
 | 7 | [PLONESCAF](/teams/PLONESCAF) | 0 | 1 | 0 | 0 | 0 |
 | 8 | [Thépot](/teams/Thépot) | 0 | 2 | 1 | 0 | 1 |
 
-## Sessions
 
+#### Résultats
 
-###  1
-- [Matchs Aller](/scores/session-1/groupe-1/aller/)
-- [Matchs Retour](/scores/session-1/groupe-1/retour/)
+| Équipe 1 | Score | Équipe 2 | Lieu | Date |
+|----------|-------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | 3 - 1 | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
+| [Kervao-Bar](/teams/Kervao-Bar) | 3 - 0 | [Thépot](/teams/Thépot) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
 
+#### Matchs à domicile
 
-###  2
-- [Matchs Aller](/scores/session-2/groupe-1/aller/)
-- [Matchs Retour](/scores/session-2/groupe-1/retour/)
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [Fouesnant-1](/teams/Fouesnant-1) | [Penn-Sardin-1](/teams/Penn-Sardin-1) | [Carhaix](/stades/Carhaix) | 30 juin 2025 à 20:30 |
+| [Châteaulin-1](/teams/Châteaulin-1) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 7 juillet 2025 à 20:30 |
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 11 juillet 2025 à 20:30 |
+
+#### Matchs à l'extérieur
+
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
+| [Kervao-Bar](/teams/Kervao-Bar) | [Thépot](/teams/Thépot) | [Carhaix](/stades/Carhaix) | 30 juin 2025 à 20:30 |
+| [Fouesnant-1](/teams/Fouesnant-1) | [Penn-Sardin-1](/teams/Penn-Sardin-1) | [Carhaix](/stades/Carhaix) | 7 juillet 2025 à 20:30 |
+| [Châteaulin-1](/teams/Châteaulin-1) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 14 juillet 2025 à 20:30 |
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 18 juillet 2025 à 20:30 |
 

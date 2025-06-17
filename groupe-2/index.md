@@ -1,6 +1,6 @@
 ---
 title: groupe_2
-date: 2025-06-16T13:28:42.765Z
+date: 2025-06-17T09:29:27.938Z
 layout: championnat
 group: 2
 ---
@@ -17,7 +17,5 @@ group: 2
 | 6 | [Plonéour-](/teams/Plonéour-) | 0 | 0 | 0 | 0 | 0 |
 | 7 | [Quimper-29-A](/teams/Quimper-29-A) | 0 | 0 | 0 | 0 | 0 |
 | 8 | [USB](/teams/USB) | 0 | 0 | 0 | 0 | 0 |
-
-## Sessions
 
 

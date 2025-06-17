@@ -1,6 +1,6 @@
 ---
 title: groupe_3
-date: 2025-06-16T13:28:42.859Z
+date: 2025-06-17T09:29:27.939Z
 layout: championnat
 group: 3
 ---
@@ -17,7 +17,5 @@ group: 3
 | 6 | [Penn-Sardin-2](/teams/Penn-Sardin-2) | 0 | 0 | 0 | 0 | 0 |
 | 7 | [Quimper-29-B](/teams/Quimper-29-B) | 0 | 0 | 0 | 0 | 0 |
 | 8 | [St-Evarzec-](/teams/St-Evarzec-) | 0 | 0 | 0 | 0 | 0 |
-
-## Sessions
 
 

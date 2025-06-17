@@ -1,12 +1,12 @@
 ---
 title: Équipe PLUGUFFAN
-date: 2025-06-17T08:53:13.718Z
+date: 2025-06-17T09:29:27.980Z
 layout: team
 ---
 
 # PLUGUFFAN
 
-### essai
+### description de l'équipe 
 
 ## contact 
 
@@ -22,12 +22,6 @@ rabonne@hotmail.fr
 |----------|-------|----------|------|------|
 | [PLUGUFFAN](/teams/PLUGUFFAN) | 3 - 1 | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
 
-#### Matchs à l'extérieur
-
-| Équipe 1 | Équipe 2 | Lieu | Date |
-|----------|----------|------|------|
-| [PLUGUFFAN](/teams/PLUGUFFAN) | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
-
 #### Matchs à domicile
 
 | Équipe 1 | Équipe 2 | Lieu | Date |
@@ -38,5 +32,6 @@ rabonne@hotmail.fr
 
 | Équipe 1 | Équipe 2 | Lieu | Date |
 |----------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
 | [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 18 juillet 2025 à 20:30 |
 
