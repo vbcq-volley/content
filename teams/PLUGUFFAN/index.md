@@ -1,6 +1,6 @@
 ---
 title: Équipe PLUGUFFAN
-date: 2025-06-16T08:15:41.850Z
+date: 2025-06-17T08:53:13.718Z
 layout: team
 ---
 
@@ -16,29 +16,27 @@ Xavier BARON
 
 rabonne@hotmail.fr
 
-## Sessions
+#### Résultats
 
-### Session 1
-- [résultats aller ](/scores/session-1/groupe-1/aller/)
-- [résultats retour](/scores/session-1/groupe-1/retour/)
+| Équipe 1 | Score | Équipe 2 | Lieu | Date |
+|----------|-------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | 3 - 1 | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
 
-#### Matchs Aller
+#### Matchs à l'extérieur
 
-##### Matchs à venir
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
 
-- [PLUGUFFAN](/teams/PLUGUFFAN) vs [Carhaix](/teams/Carhaix) [Carhaix](/stades/Carhaix) - 16 juin 2025 à 20:30
+#### Matchs à domicile
 
-#### Matchs Retour
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 11 juillet 2025 à 20:30 |
 
-##### Matchs à venir
+#### Matchs à l'extérieur
 
-- [Carhaix](/teams/Carhaix) vs [PLUGUFFAN](/teams/PLUGUFFAN) [Carhaix](/stades/Carhaix) - 23 juin 2025 à 20:30
-
-### Session 2
-- [résultats aller ](/scores/session-2/groupe-1/aller/)
-- [résultats retour](/scores/session-2/groupe-1/retour/)
-
-#### Matchs Aller
-
-#### Matchs Retour
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 18 juillet 2025 à 20:30 |
 

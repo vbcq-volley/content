@@ -1,6 +1,6 @@
 ---
 title: Équipe Thépot
-date: 2025-06-16T08:15:41.945Z
+date: 2025-06-17T08:53:13.777Z
 layout: team
 ---
 
@@ -16,21 +16,15 @@ non communiquée
 
 batyep@gmail.com
 
-## Sessions
+#### Résultats
 
-### Session 1
-- [résultats aller ](/scores/session-1/groupe-1/aller/)
-- [résultats retour](/scores/session-1/groupe-1/retour/)
+| Équipe 1 | Score | Équipe 2 | Lieu | Date |
+|----------|-------|----------|------|------|
+| [Kervao-Bar](/teams/Kervao-Bar) | 3 - 0 | [Thépot](/teams/Thépot) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
 
-#### Matchs Aller
+#### Matchs à l'extérieur
 
-##### Matchs à venir
-
-- [Kervao-Bar](/teams/Kervao-Bar) vs [Thépot](/teams/Thépot) [Carhaix](/stades/Carhaix) - 16 juin 2025 à 20:30
-
-#### Matchs Retour
-
-##### Matchs à venir
-
-- [Thépot](/teams/Thépot) vs [Kervao-Bar](/teams/Kervao-Bar) [Carhaix](/stades/Carhaix) - 30 juin 2025 à 20:30
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [Kervao-Bar](/teams/Kervao-Bar) | [Thépot](/teams/Thépot) | [Carhaix](/stades/Carhaix) | 30 juin 2025 à 20:30 |
 

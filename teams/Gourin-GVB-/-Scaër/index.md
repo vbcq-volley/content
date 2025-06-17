@@ -1,6 +1,6 @@
 ---
 title: Équipe Gourin GVB / Scaër
-date: 2025-06-16T08:15:42.443Z
+date: 2025-06-17T08:53:14.016Z
 layout: team
 ---
 

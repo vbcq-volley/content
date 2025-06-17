@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>VBCQ</title>
 	<link href="http://example.com" />
-	<updated>2025-06-16T10:14:57.090Z</updated>
+	<updated>2025-06-16T15:28:01.065Z</updated>
 	<author>
 		<name>Thomas Iniguez Visioli</name>
 		<email>noreply@blogger.com</email>
@@ -19,21 +19,21 @@
 		<title>groupe_1</title>
 		<link href="http://example.com/groupe-1/" />
 		<id>http://example.com/groupe-1/</id>
-		<updated>2025-06-16T08:14:55.955Z</updated>
+		<updated>2025-06-16T13:27:59.222Z</updated>
 		<summary>groupe_1</summary>
 	</entry>
 	<entry>
 		<title>groupe_2</title>
 		<link href="http://example.com/groupe-2/" />
 		<id>http://example.com/groupe-2/</id>
-		<updated>2025-06-16T08:14:56.057Z</updated>
+		<updated>2025-06-16T13:27:59.259Z</updated>
 		<summary>groupe_2</summary>
 	</entry>
 	<entry>
 		<title>groupe_3</title>
 		<link href="http://example.com/groupe-3/" />
 		<id>http://example.com/groupe-3/</id>
-		<updated>2025-06-16T08:14:56.163Z</updated>
+		<updated>2025-06-16T13:27:59.316Z</updated>
 		<summary>groupe_3</summary>
 	</entry>
 	<entry>
@@ -47,280 +47,280 @@
 		<title>Scores Session 1</title>
 		<link href="http://example.com/scores-session-1/" />
 		<id>http://example.com/scores-session-1/</id>
-		<updated>2025-06-16T08:14:56.588Z</updated>
+		<updated>2025-06-16T13:27:59.647Z</updated>
 		<summary>Scores Session 1</summary>
 	</entry>
 	<entry>
 		<title>Stades</title>
 		<link href="http://example.com/stades/" />
 		<id>http://example.com/stades/</id>
-		<updated>2025-06-16T08:14:55.356Z</updated>
+		<updated>2025-06-16T13:28:00.470Z</updated>
 		<summary>Stades</summary>
 	</entry>
 	<entry>
 		<title>Carhaix</title>
 		<link href="http://example.com/stades/Carhaix/" />
 		<id>http://example.com/stades/Carhaix/</id>
-		<updated>2025-06-16T08:14:55.356Z</updated>
+		<updated>2025-06-16T13:28:00.429Z</updated>
 		<summary>Carhaix</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Cap Sizun</title>
 		<link href="http://example.com/teams/Cap-Sizun/" />
 		<id>http://example.com/teams/Cap-Sizun/</id>
-		<updated>2025-06-16T08:14:54.906Z</updated>
+		<updated>2025-06-16T13:28:00.699Z</updated>
 		<summary>&#x26;#xC9;quipe Cap Sizun</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Carhaix</title>
 		<link href="http://example.com/teams/Carhaix/" />
 		<id>http://example.com/teams/Carhaix/</id>
-		<updated>2025-06-16T08:14:54.520Z</updated>
+		<updated>2025-06-16T13:28:00.516Z</updated>
 		<summary>&#x26;#xC9;quipe Carhaix</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Ch&#xE2;teaulin 1</title>
 		<link href="http://example.com/teams/Ch%C3%A2teaulin-1/" />
 		<id>http://example.com/teams/Ch%C3%A2teaulin-1/</id>
-		<updated>2025-06-16T08:14:54.684Z</updated>
+		<updated>2025-06-16T13:28:00.623Z</updated>
 		<summary>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 1</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Ch&#xE2;teaulin 2</title>
 		<link href="http://example.com/teams/Ch%C3%A2teaulin-2/" />
 		<id>http://example.com/teams/Ch%C3%A2teaulin-2/</id>
-		<updated>2025-06-16T08:14:55.037Z</updated>
+		<updated>2025-06-16T13:28:00.802Z</updated>
 		<summary>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 2</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Concarneau 1</title>
 		<link href="http://example.com/teams/Concarneau-1/" />
 		<id>http://example.com/teams/Concarneau-1/</id>
-		<updated>2025-06-16T08:14:54.823Z</updated>
+		<updated>2025-06-16T13:28:00.640Z</updated>
 		<summary>&#x26;#xC9;quipe Concarneau 1</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Ergu&#xE9;-Gab&#xE9;ric A</title>
 		<link href="http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-A/" />
 		<id>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-A/</id>
-		<updated>2025-06-16T08:14:55.166Z</updated>
+		<updated>2025-06-16T13:28:01.049Z</updated>
 		<summary>&#x26;#xC9;quipe Ergu&#x26;#xE9;-Gab&#x26;#xE9;ric A</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Ergu&#xE9;-Gab&#xE9;ric B</title>
 		<link href="http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/" />
 		<id>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</id>
-		<updated>2025-06-16T08:14:55.168Z</updated>
+		<updated>2025-06-16T13:28:01.061Z</updated>
 		<summary>&#x26;#xC9;quipe Ergu&#x26;#xE9;-Gab&#x26;#xE9;ric B</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Fouesnant 1</title>
 		<link href="http://example.com/teams/Fouesnant-1/" />
 		<id>http://example.com/teams/Fouesnant-1/</id>
-		<updated>2025-06-16T08:14:54.632Z</updated>
+		<updated>2025-06-16T13:28:00.525Z</updated>
 		<summary>&#x26;#xC9;quipe Fouesnant 1</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Fouesnant 2</title>
 		<link href="http://example.com/teams/Fouesnant-2/" />
 		<id>http://example.com/teams/Fouesnant-2/</id>
-		<updated>2025-06-16T08:14:54.873Z</updated>
+		<updated>2025-06-16T13:28:00.643Z</updated>
 		<summary>&#x26;#xC9;quipe Fouesnant 2</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Fouesnant 3</title>
 		<link href="http://example.com/teams/Fouesnant-3/" />
 		<id>http://example.com/teams/Fouesnant-3/</id>
-		<updated>2025-06-16T08:14:55.147Z</updated>
+		<updated>2025-06-16T13:28:00.822Z</updated>
 		<summary>&#x26;#xC9;quipe Fouesnant 3</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Kemperle 1</title>
 		<link href="http://example.com/teams/Kemperle-1/" />
 		<id>http://example.com/teams/Kemperle-1/</id>
-		<updated>2025-06-16T08:14:54.843Z</updated>
+		<updated>2025-06-16T13:28:00.641Z</updated>
 		<summary>&#x26;#xC9;quipe Kemperle 1</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Kemperle 2</title>
 		<link href="http://example.com/teams/Kemperle-2/" />
 		<id>http://example.com/teams/Kemperle-2/</id>
-		<updated>2025-06-16T08:14:54.772Z</updated>
+		<updated>2025-06-16T13:28:00.635Z</updated>
 		<summary>&#x26;#xC9;quipe Kemperle 2</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Kervao Bar</title>
 		<link href="http://example.com/teams/Kervao-Bar/" />
 		<id>http://example.com/teams/Kervao-Bar/</id>
-		<updated>2025-06-16T08:14:54.571Z</updated>
+		<updated>2025-06-16T13:28:00.518Z</updated>
 		<summary>&#x26;#xC9;quipe Kervao Bar</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe PLONESCAF</title>
 		<link href="http://example.com/teams/PLONESCAF/" />
 		<id>http://example.com/teams/PLONESCAF/</id>
-		<updated>2025-06-16T08:14:54.744Z</updated>
+		<updated>2025-06-16T13:28:00.628Z</updated>
 		<summary>&#x26;#xC9;quipe PLONESCAF</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe PLUGUFFAN</title>
 		<link href="http://example.com/teams/PLUGUFFAN/" />
 		<id>http://example.com/teams/PLUGUFFAN/</id>
-		<updated>2025-06-16T08:14:54.429Z</updated>
+		<updated>2025-06-16T13:28:00.507Z</updated>
 		<summary>&#x26;#xC9;quipe PLUGUFFAN</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Penn Sardin 1</title>
 		<link href="http://example.com/teams/Penn-Sardin-1/" />
 		<id>http://example.com/teams/Penn-Sardin-1/</id>
-		<updated>2025-06-16T08:14:54.653Z</updated>
+		<updated>2025-06-16T13:28:00.589Z</updated>
 		<summary>&#x26;#xC9;quipe Penn Sardin 1</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Penn Sardin 2</title>
 		<link href="http://example.com/teams/Penn-Sardin-2/" />
 		<id>http://example.com/teams/Penn-Sardin-2/</id>
-		<updated>2025-06-16T08:14:55.089Z</updated>
+		<updated>2025-06-16T13:28:00.806Z</updated>
 		<summary>&#x26;#xC9;quipe Penn Sardin 2</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Plon&#xE9;our</title>
 		<link href="http://example.com/teams/Plon%C3%A9our-/" />
 		<id>http://example.com/teams/Plon%C3%A9our-/</id>
-		<updated>2025-06-16T08:14:54.926Z</updated>
+		<updated>2025-06-16T13:28:00.746Z</updated>
 		<summary>&#x26;#xC9;quipe Plon&#x26;#xE9;our</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Quimper 29 B</title>
 		<link href="http://example.com/teams/Quimper-29-B/" />
 		<id>http://example.com/teams/Quimper-29-B/</id>
-		<updated>2025-06-16T08:14:54.986Z</updated>
+		<updated>2025-06-16T13:28:00.800Z</updated>
 		<summary>&#x26;#xC9;quipe Quimper 29 B</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Quimper 29 A</title>
 		<link href="http://example.com/teams/Quimper-29-A/" />
 		<id>http://example.com/teams/Quimper-29-A/</id>
-		<updated>2025-06-16T08:14:54.956Z</updated>
+		<updated>2025-06-16T13:28:00.798Z</updated>
 		<summary>&#x26;#xC9;quipe Quimper 29 A</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe St Evarzec</title>
 		<link href="http://example.com/teams/St-Evarzec-/" />
 		<id>http://example.com/teams/St-Evarzec-/</id>
-		<updated>2025-06-16T08:14:55.165Z</updated>
+		<updated>2025-06-16T13:28:00.937Z</updated>
 		<summary>&#x26;#xC9;quipe St Evarzec</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Th&#xE9;pot</title>
 		<link href="http://example.com/teams/Th%C3%A9pot/" />
 		<id>http://example.com/teams/Th%C3%A9pot/</id>
-		<updated>2025-06-16T08:14:54.591Z</updated>
+		<updated>2025-06-16T13:28:00.520Z</updated>
 		<summary>&#x26;#xC9;quipe Th&#x26;#xE9;pot</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe USB</title>
 		<link href="http://example.com/teams/USB/" />
 		<id>http://example.com/teams/USB/</id>
-		<updated>2025-06-16T08:14:54.754Z</updated>
+		<updated>2025-06-16T13:28:00.632Z</updated>
 		<summary>&#x26;#xC9;quipe USB</summary>
 	</entry>
 	<entry>
 		<title>&#xC9;quipe Gourin GVB / Sca&#xEB;r</title>
 		<link href="http://example.com/teams/Gourin-GVB-/-Sca%C3%ABr/" />
 		<id>http://example.com/teams/Gourin-GVB-/-Sca%C3%ABr/</id>
-		<updated>2025-06-16T08:14:55.169Z</updated>
+		<updated>2025-06-16T13:28:01.065Z</updated>
 		<summary>&#x26;#xC9;quipe Gourin GVB / Sca&#x26;#xEB;r</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 2 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-1/groupe-2/retour/" />
 		<id>http://example.com/scores/session-1/groupe-2/retour/</id>
-		<updated>2025-06-16T08:14:56.816Z</updated>
+		<updated>2025-06-16T13:27:59.754Z</updated>
 		<summary>Scores Session 1 - Groupe 2 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 2 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-1/groupe-2/aller/" />
 		<id>http://example.com/scores/session-1/groupe-2/aller/</id>
-		<updated>2025-06-16T08:14:56.815Z</updated>
+		<updated>2025-06-16T13:27:59.752Z</updated>
 		<summary>Scores Session 1 - Groupe 2 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 3 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-1/groupe-3/aller/" />
 		<id>http://example.com/scores/session-1/groupe-3/aller/</id>
-		<updated>2025-06-16T08:14:56.889Z</updated>
+		<updated>2025-06-16T13:27:59.770Z</updated>
 		<summary>Scores Session 1 - Groupe 3 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 3 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-1/groupe-3/retour/" />
 		<id>http://example.com/scores/session-1/groupe-3/retour/</id>
-		<updated>2025-06-16T08:14:56.892Z</updated>
+		<updated>2025-06-16T13:27:59.772Z</updated>
 		<summary>Scores Session 1 - Groupe 3 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 1 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-1/groupe-1/aller/" />
 		<id>http://example.com/scores/session-1/groupe-1/aller/</id>
-		<updated>2025-06-16T08:14:56.728Z</updated>
+		<updated>2025-06-16T13:27:59.722Z</updated>
 		<summary>Scores Session 1 - Groupe 1 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 1 - Groupe 1 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-1/groupe-1/retour/" />
 		<id>http://example.com/scores/session-1/groupe-1/retour/</id>
-		<updated>2025-06-16T08:14:56.770Z</updated>
+		<updated>2025-06-16T13:27:59.724Z</updated>
 		<summary>Scores Session 1 - Groupe 1 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 2</title>
 		<link href="http://example.com/scores-session-2/" />
 		<id>http://example.com/scores-session-2/</id>
-		<updated>2025-06-16T08:14:56.896Z</updated>
+		<updated>2025-06-16T13:27:59.773Z</updated>
 		<summary>Scores Session 2</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 2 - Groupe 1 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-2/groupe-1/aller/" />
 		<id>http://example.com/scores/session-2/groupe-1/aller/</id>
-		<updated>2025-06-16T08:14:56.984Z</updated>
+		<updated>2025-06-16T13:27:59.802Z</updated>
 		<summary>Scores Session 2 - Groupe 1 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 2 - Groupe 1 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-2/groupe-1/retour/" />
 		<id>http://example.com/scores/session-2/groupe-1/retour/</id>
-		<updated>2025-06-16T08:14:56.984Z</updated>
+		<updated>2025-06-16T13:27:59.805Z</updated>
 		<summary>Scores Session 2 - Groupe 1 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 2 - Groupe 2 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-2/groupe-2/aller/" />
 		<id>http://example.com/scores/session-2/groupe-2/aller/</id>
-		<updated>2025-06-16T08:14:56.994Z</updated>
+		<updated>2025-06-16T13:27:59.868Z</updated>
 		<summary>Scores Session 2 - Groupe 2 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 2 - Groupe 2 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-2/groupe-2/retour/" />
 		<id>http://example.com/scores/session-2/groupe-2/retour/</id>
-		<updated>2025-06-16T08:14:56.996Z</updated>
+		<updated>2025-06-16T13:27:59.873Z</updated>
 		<summary>Scores Session 2 - Groupe 2 - Matchs Retour</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 2 - Groupe 3 - Matchs Aller</title>
 		<link href="http://example.com/scores/session-2/groupe-3/aller/" />
 		<id>http://example.com/scores/session-2/groupe-3/aller/</id>
-		<updated>2025-06-16T08:14:57.011Z</updated>
+		<updated>2025-06-16T13:28:00.013Z</updated>
 		<summary>Scores Session 2 - Groupe 3 - Matchs Aller</summary>
 	</entry>
 	<entry>
 		<title>Scores Session 2 - Groupe 3 - Matchs Retour</title>
 		<link href="http://example.com/scores/session-2/groupe-3/retour/" />
 		<id>http://example.com/scores/session-2/groupe-3/retour/</id>
-		<updated>2025-06-16T08:14:57.090Z</updated>
+		<updated>2025-06-16T13:28:00.015Z</updated>
 		<summary>Scores Session 2 - Groupe 3 - Matchs Retour</summary>
 	</entry>
 	<entry>

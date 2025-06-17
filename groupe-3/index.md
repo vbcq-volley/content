@@ -1,14 +1,9 @@
 ---
 title: groupe_3
-date: 2025-06-16T08:15:42.908Z
+date: 2025-06-16T13:28:42.859Z
 layout: championnat
 group: 3
 ---
-
-# Groupe 3
-
-## Sessions
-
 
 # Classement du Groupe 3
 
@@ -22,3 +17,7 @@ group: 3
 | 6 | [Penn-Sardin-2](/teams/Penn-Sardin-2) | 0 | 0 | 0 | 0 | 0 |
 | 7 | [Quimper-29-B](/teams/Quimper-29-B) | 0 | 0 | 0 | 0 | 0 |
 | 8 | [St-Evarzec-](/teams/St-Evarzec-) | 0 | 0 | 0 | 0 | 0 |
+
+## Sessions
+
+

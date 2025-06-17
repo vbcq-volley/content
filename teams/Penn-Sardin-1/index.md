@@ -1,6 +1,6 @@
 ---
 title: Équipe Penn Sardin 1
-date: 2025-06-16T08:15:41.992Z
+date: 2025-06-17T08:53:13.811Z
 layout: team
 ---
 
@@ -16,21 +16,15 @@ Christophe COADER
 
 christophe.coader29@gmail.com
 
-## Sessions
+#### Matchs à domicile
 
-### Session 1
-- [résultats aller ](/scores/session-1/groupe-1/aller/)
-- [résultats retour](/scores/session-1/groupe-1/retour/)
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [Fouesnant-1](/teams/Fouesnant-1) | [Penn-Sardin-1](/teams/Penn-Sardin-1) | [Carhaix](/stades/Carhaix) | 30 juin 2025 à 20:30 |
 
-#### Matchs Aller
+#### Matchs à l'extérieur
 
-##### Matchs à venir
-
-- [Fouesnant-1](/teams/Fouesnant-1) vs [Penn-Sardin-1](/teams/Penn-Sardin-1) [Carhaix](/stades/Carhaix) - 30 juin 2025 à 20:30
-
-#### Matchs Retour
-
-##### Matchs à venir
-
-- [Penn-Sardin-1](/teams/Penn-Sardin-1) vs [Fouesnant-1](/teams/Fouesnant-1) [Carhaix](/stades/Carhaix) - 7 juillet 2025 à 20:30
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [Fouesnant-1](/teams/Fouesnant-1) | [Penn-Sardin-1](/teams/Penn-Sardin-1) | [Carhaix](/stades/Carhaix) | 7 juillet 2025 à 20:30 |
 

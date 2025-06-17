@@ -1,6 +1,6 @@
 ---
 title: Équipe PLONESCAF
-date: 2025-06-16T08:15:42.080Z
+date: 2025-06-17T08:53:13.849Z
 layout: team
 ---
 
@@ -16,29 +16,27 @@ Mick POUSSIER
 
 mp.poussier@orange.fr
 
-## Sessions
+#### Matchs à domicile
 
-### Session 1
-- [résultats aller ](/scores/session-1/groupe-1/aller/)
-- [résultats retour](/scores/session-1/groupe-1/retour/)
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [Châteaulin-1](/teams/Châteaulin-1) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 7 juillet 2025 à 20:30 |
 
-#### Matchs Aller
+#### Matchs à l'extérieur
 
-##### Matchs à venir
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [Châteaulin-1](/teams/Châteaulin-1) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 14 juillet 2025 à 20:30 |
 
-- [Châteaulin-1](/teams/Châteaulin-1) vs [PLONESCAF](/teams/PLONESCAF) [Carhaix](/stades/Carhaix) - 7 juillet 2025 à 20:30
+#### Matchs à domicile
 
-#### Matchs Retour
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 11 juillet 2025 à 20:30 |
 
-##### Matchs à venir
+#### Matchs à l'extérieur
 
-- [PLONESCAF](/teams/PLONESCAF) vs [Châteaulin-1](/teams/Châteaulin-1) [Carhaix](/stades/Carhaix) - 14 juillet 2025 à 20:30
-
-### Session 2
-- [résultats aller ](/scores/session-2/groupe-1/aller/)
-- [résultats retour](/scores/session-2/groupe-1/retour/)
-
-#### Matchs Aller
-
-#### Matchs Retour
+| Équipe 1 | Équipe 2 | Lieu | Date |
+|----------|----------|------|------|
+| [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 18 juillet 2025 à 20:30 |
 

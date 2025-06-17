@@ -1,23 +1,9 @@
 ---
 title: groupe_1
-date: 2025-06-16T08:15:42.809Z
+date: 2025-06-16T13:28:42.740Z
 layout: championnat
 group: 1
 ---
-
-# Groupe 1
-
-## Sessions
-
-
-###  1
-- [Matchs Aller](/scores/session-1/groupe-1/aller/)
-- [Matchs Retour](/scores/session-1/groupe-1/retour/)
-
-
-###  2
-- [Matchs Aller](/scores/session-2/groupe-1/aller/)
-- [Matchs Retour](/scores/session-2/groupe-1/retour/)
 
 # Classement du Groupe 1
 
@@ -31,3 +17,16 @@ group: 1
 | 6 | [Penn-Sardin-1](/teams/Penn-Sardin-1) | 0 | 1 | 0 | 0 | 1 |
 | 7 | [PLONESCAF](/teams/PLONESCAF) | 0 | 1 | 0 | 0 | 0 |
 | 8 | [Thépot](/teams/Thépot) | 0 | 2 | 1 | 0 | 1 |
+
+## Sessions
+
+
+###  1
+- [Matchs Aller](/scores/session-1/groupe-1/aller/)
+- [Matchs Retour](/scores/session-1/groupe-1/retour/)
+
+
+###  2
+- [Matchs Aller](/scores/session-2/groupe-1/aller/)
+- [Matchs Retour](/scores/session-2/groupe-1/retour/)
+
