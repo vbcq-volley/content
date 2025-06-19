@@ -533,56 +533,7 @@
   },
   "tournament_results": {
     "entries": [
-      {
-        "matchId": "019763aa-5d95-77ce-9f02-5c269dad72c3",
-        "score1": 3,
-        "score2": 1,
-        "stats": "non",
-        "_id": "019763d7-a255-71d3-9189-d8012863362e",
-        "created_at": "2025-06-12T11:12:45.679Z",
-        "updated_at": "2025-06-12T11:12:45.679Z",
-        "index": 0
-      },
-      {
-        "matchId": "019763e7-455b-75dc-9ffd-70f313ad9361",
-        "score1": 3,
-        "score2": 2,
-        "stats": "non",
-        "_id": "019763e7-b148-724d-b845-9990b2d13044",
-        "created_at": "2025-06-12T11:30:18.056Z",
-        "updated_at": "2025-06-12T11:30:18.056Z",
-        "index": 1
-      },
-      {
-        "matchId": "01978390-a7f0-77ce-9200-9a155421f171",
-        "score1": 3,
-        "score2": 0,
-        "stats": "",
-        "_id": "01978391-ff2b-73d9-af94-d04c5e21dd5b",
-        "created_at": "2025-06-18T15:04:32.813Z",
-        "updated_at": "2025-06-18T15:04:32.813Z",
-        "index": 2
-      },
-      {
-        "matchId": "01978390-a7f5-77ef-8158-17b1ab4ed47d",
-        "score1": 3,
-        "score2": 0,
-        "stats": "",
-        "_id": "01978393-8bb0-7047-abc1-e87e096dc791",
-        "created_at": "2025-06-18T15:06:14.321Z",
-        "updated_at": "2025-06-18T15:06:14.321Z",
-        "index": 3
-      },
-      {
-        "matchId": "01978390-a7fc-76c2-a1a7-7402abe85314",
-        "score1": 3,
-        "score2": 1,
-        "stats": "",
-        "_id": "01978395-022d-77e4-b0ab-eb52c0d54be8",
-        "created_at": "2025-06-18T15:07:50.191Z",
-        "updated_at": "2025-06-18T15:07:50.191Z",
-        "index": 4
-      }
+ 
     ],
     "metadata": {
       "created_at": "2025-06-12T11:12:45.652Z",
