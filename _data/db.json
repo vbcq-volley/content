@@ -105,7 +105,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976852-17b2-77ef-932c-94a53de73214",
         "created_at": "2025-06-13T08:04:59.973Z",
-        "updated_at": "2025-06-19T08:21:29.220Z",
+        "updated_at": "2025-06-19T08:22:01.026Z",
         "index": 0
       },
       {
@@ -124,7 +124,7 @@
         "date": "23/06/2025 20:30",
         "_id": "01976852-55e2-753e-91b3-04fcaf80da6f",
         "created_at": "2025-06-13T08:05:15.874Z",
-        "updated_at": "2025-06-19T08:21:29.227Z",
+        "updated_at": "2025-06-19T08:22:01.044Z",
         "index": 1
       },
       {
@@ -143,7 +143,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976864-401d-702a-bce8-12ed878ab69e",
         "created_at": "2025-06-13T08:24:49.951Z",
-        "updated_at": "2025-06-19T08:21:29.231Z",
+        "updated_at": "2025-06-19T08:22:01.048Z",
         "index": 2
       },
       {
@@ -162,7 +162,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976864-76d8-777c-ab18-3c8b2426aa40",
         "created_at": "2025-06-13T08:25:03.960Z",
-        "updated_at": "2025-06-19T08:21:29.234Z",
+        "updated_at": "2025-06-19T08:22:01.052Z",
         "index": 3
       },
       {
@@ -181,7 +181,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976988-39e5-76e9-bd59-483b167d8456",
         "created_at": "2025-06-13T13:43:44.871Z",
-        "updated_at": "2025-06-19T08:21:29.241Z",
+        "updated_at": "2025-06-19T08:22:01.058Z",
         "index": 4
       },
       {
@@ -200,13 +200,13 @@
         "date": "07/07/2025 20:30",
         "_id": "01976988-fac1-726b-98fb-3f0b4d3a8165",
         "created_at": "2025-06-13T13:44:34.241Z",
-        "updated_at": "2025-06-19T08:21:29.244Z",
+        "updated_at": "2025-06-19T08:22:01.062Z",
         "index": 5
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-19T08:21:29.244Z"
+      "updated_at": "2025-06-19T08:22:01.062Z"
     }
   },
   "team": {
@@ -857,6 +857,674 @@
     "metadata": {
       "created_at": "2025-06-19T08:08:47.711Z",
       "updated_at": "2025-06-19T08:09:03.496Z"
+    }
+  },
+  "tournament_matches": {
+    "entries": [
+      {
+        "team1": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "team2": "01975f3a-4d84-72d9-a967-75165c523495",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLUGUFFAN",
+        "team2Name": "Châteaulin 2",
+        "_id": "01978747-671d-760d-90f0-cff6bc99f3ad",
+        "created_at": "2025-06-19T08:21:33.109Z",
+        "updated_at": "2025-06-19T08:21:33.109Z"
+      },
+      {
+        "team1": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "team2": "01975f39-7ada-7748-9eed-ff57d304edd9",
+        "matchDate": "2025-06-21T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLUGUFFAN",
+        "team2Name": "Quimper 29 B",
+        "_id": "01978747-6739-7738-a7b4-072ea369adce",
+        "created_at": "2025-06-19T08:21:33.113Z",
+        "updated_at": "2025-06-19T08:21:33.113Z"
+      },
+      {
+        "team1": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "team2": "01975992-8d82-72dd-8d57-e3d15a22e098",
+        "matchDate": "2025-06-23T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLUGUFFAN",
+        "team2Name": "Carhaix",
+        "_id": "01978747-6740-749e-b48f-d7e96a67a64b",
+        "created_at": "2025-06-19T08:21:33.120Z",
+        "updated_at": "2025-06-19T08:21:33.120Z"
+      },
+      {
+        "team1": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "team2": "01975e41-7858-7669-bab1-dfe9dc76229e",
+        "matchDate": "2025-06-25T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLUGUFFAN",
+        "team2Name": "Fouesnant 1",
+        "_id": "01978747-6745-7528-8e4b-9dc25224d508",
+        "created_at": "2025-06-19T08:21:33.125Z",
+        "updated_at": "2025-06-19T08:21:33.125Z"
+      },
+      {
+        "team1": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "team2": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
+        "matchDate": "2025-06-27T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLUGUFFAN",
+        "team2Name": "Fouesnant 3",
+        "_id": "01978747-674a-702e-95fc-45f9543936c0",
+        "created_at": "2025-06-19T08:21:33.130Z",
+        "updated_at": "2025-06-19T08:21:33.130Z"
+      },
+      {
+        "team1": "01975f3a-4d84-72d9-a967-75165c523495",
+        "team2": "01975f39-7ada-7748-9eed-ff57d304edd9",
+        "matchDate": "2025-06-29T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Châteaulin 2",
+        "team2Name": "Quimper 29 B",
+        "_id": "01978747-6751-738a-b227-788025d5b9ed",
+        "created_at": "2025-06-19T08:21:33.137Z",
+        "updated_at": "2025-06-19T08:21:33.137Z"
+      },
+      {
+        "team1": "01975f3a-4d84-72d9-a967-75165c523495",
+        "team2": "01975992-8d82-72dd-8d57-e3d15a22e098",
+        "matchDate": "2025-07-01T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Châteaulin 2",
+        "team2Name": "Carhaix",
+        "_id": "01978747-6756-77a5-92a5-5cf76325edaa",
+        "created_at": "2025-06-19T08:21:33.143Z",
+        "updated_at": "2025-06-19T08:21:33.143Z"
+      },
+      {
+        "team1": "01975f3a-4d84-72d9-a967-75165c523495",
+        "team2": "01975e41-7858-7669-bab1-dfe9dc76229e",
+        "matchDate": "2025-07-03T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Châteaulin 2",
+        "team2Name": "Fouesnant 1",
+        "_id": "01978747-675d-77e6-9df3-741bffbaa6c9",
+        "created_at": "2025-06-19T08:21:33.149Z",
+        "updated_at": "2025-06-19T08:21:33.149Z"
+      },
+      {
+        "team1": "01975f3a-4d84-72d9-a967-75165c523495",
+        "team2": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
+        "matchDate": "2025-07-05T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Châteaulin 2",
+        "team2Name": "Fouesnant 3",
+        "_id": "01978747-6761-732b-bd93-8738e31aea82",
+        "created_at": "2025-06-19T08:21:33.153Z",
+        "updated_at": "2025-06-19T08:21:33.153Z"
+      },
+      {
+        "team1": "01975f39-7ada-7748-9eed-ff57d304edd9",
+        "team2": "01975992-8d82-72dd-8d57-e3d15a22e098",
+        "matchDate": "2025-07-07T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Quimper 29 B",
+        "team2Name": "Carhaix",
+        "_id": "01978747-6767-7519-988b-ded56716ef12",
+        "created_at": "2025-06-19T08:21:33.159Z",
+        "updated_at": "2025-06-19T08:21:33.159Z"
+      },
+      {
+        "team1": "01975f39-7ada-7748-9eed-ff57d304edd9",
+        "team2": "01975e41-7858-7669-bab1-dfe9dc76229e",
+        "matchDate": "2025-07-09T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Quimper 29 B",
+        "team2Name": "Fouesnant 1",
+        "_id": "01978747-676d-75de-a2e1-9211b3e4fafa",
+        "created_at": "2025-06-19T08:21:33.165Z",
+        "updated_at": "2025-06-19T08:21:33.165Z"
+      },
+      {
+        "team1": "01975f39-7ada-7748-9eed-ff57d304edd9",
+        "team2": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
+        "matchDate": "2025-07-11T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Quimper 29 B",
+        "team2Name": "Fouesnant 3",
+        "_id": "01978747-6774-7635-be2f-d6580b38b8ad",
+        "created_at": "2025-06-19T08:21:33.172Z",
+        "updated_at": "2025-06-19T08:21:33.172Z"
+      },
+      {
+        "team1": "01975992-8d82-72dd-8d57-e3d15a22e098",
+        "team2": "01975e41-7858-7669-bab1-dfe9dc76229e",
+        "matchDate": "2025-07-13T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Carhaix",
+        "team2Name": "Fouesnant 1",
+        "_id": "01978747-677a-76fc-adb8-58a5580863fe",
+        "created_at": "2025-06-19T08:21:33.178Z",
+        "updated_at": "2025-06-19T08:21:33.178Z"
+      },
+      {
+        "team1": "01975992-8d82-72dd-8d57-e3d15a22e098",
+        "team2": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
+        "matchDate": "2025-07-15T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Carhaix",
+        "team2Name": "Fouesnant 3",
+        "_id": "01978747-6782-742b-8435-025cc304f688",
+        "created_at": "2025-06-19T08:21:33.186Z",
+        "updated_at": "2025-06-19T08:21:33.186Z"
+      },
+      {
+        "team1": "01975e41-7858-7669-bab1-dfe9dc76229e",
+        "team2": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
+        "matchDate": "2025-07-17T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Fouesnant 1",
+        "team2Name": "Fouesnant 3",
+        "_id": "01978747-6787-7063-96ad-ae4cdeecd2a4",
+        "created_at": "2025-06-19T08:21:33.191Z",
+        "updated_at": "2025-06-19T08:21:33.191Z"
+      },
+      {
+        "team1": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
+        "team2": "01975f3d-1677-725f-976e-6754fc6a5103",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 2",
+        "team2Name": "St Evarzec ",
+        "_id": "01978747-67c6-746f-919f-a4c595517e05",
+        "created_at": "2025-06-19T08:21:33.254Z",
+        "updated_at": "2025-06-19T08:21:33.254Z"
+      },
+      {
+        "team1": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
+        "team2": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
+        "matchDate": "2025-06-21T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 2",
+        "team2Name": "Ergué-Gabéric A",
+        "_id": "01978747-67cb-724c-a27c-1ba99211d1c9",
+        "created_at": "2025-06-19T08:21:33.259Z",
+        "updated_at": "2025-06-19T08:21:33.259Z"
+      },
+      {
+        "team1": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
+        "team2": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
+        "matchDate": "2025-06-23T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 2",
+        "team2Name": "Ergué-Gabéric B",
+        "_id": "01978747-67de-7618-94da-962380a1f820",
+        "created_at": "2025-06-19T08:21:33.278Z",
+        "updated_at": "2025-06-19T08:21:33.278Z"
+      },
+      {
+        "team1": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
+        "team2": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "matchDate": "2025-06-25T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 2",
+        "team2Name": "Kervao Bar",
+        "_id": "01978747-67e9-729c-b571-963e83ccbf59",
+        "created_at": "2025-06-19T08:21:33.290Z",
+        "updated_at": "2025-06-19T08:21:33.290Z"
+      },
+      {
+        "team1": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
+        "team2": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
+        "matchDate": "2025-06-27T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 2",
+        "team2Name": "Châteaulin 1",
+        "_id": "01978747-67f1-704b-ae82-93e64809b4ae",
+        "created_at": "2025-06-19T08:21:33.297Z",
+        "updated_at": "2025-06-19T08:21:33.297Z"
+      },
+      {
+        "team1": "01975f3d-1677-725f-976e-6754fc6a5103",
+        "team2": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
+        "matchDate": "2025-06-29T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "St Evarzec ",
+        "team2Name": "Ergué-Gabéric A",
+        "_id": "01978747-6800-72cf-8749-50965027b980",
+        "created_at": "2025-06-19T08:21:33.312Z",
+        "updated_at": "2025-06-19T08:21:33.312Z"
+      },
+      {
+        "team1": "01975f3d-1677-725f-976e-6754fc6a5103",
+        "team2": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
+        "matchDate": "2025-07-01T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "St Evarzec ",
+        "team2Name": "Ergué-Gabéric B",
+        "_id": "01978747-6808-76d8-9dfc-eaf5fee4ee04",
+        "created_at": "2025-06-19T08:21:33.320Z",
+        "updated_at": "2025-06-19T08:21:33.320Z"
+      },
+      {
+        "team1": "01975f3d-1677-725f-976e-6754fc6a5103",
+        "team2": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "matchDate": "2025-07-03T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "St Evarzec ",
+        "team2Name": "Kervao Bar",
+        "_id": "01978747-6816-747e-9618-6471d4295f08",
+        "created_at": "2025-06-19T08:21:33.334Z",
+        "updated_at": "2025-06-19T08:21:33.334Z"
+      },
+      {
+        "team1": "01975f3d-1677-725f-976e-6754fc6a5103",
+        "team2": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
+        "matchDate": "2025-07-05T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "St Evarzec ",
+        "team2Name": "Châteaulin 1",
+        "_id": "01978747-681e-7402-8f03-de8cb6f0d264",
+        "created_at": "2025-06-19T08:21:33.342Z",
+        "updated_at": "2025-06-19T08:21:33.342Z"
+      },
+      {
+        "team1": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
+        "team2": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
+        "matchDate": "2025-07-07T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Ergué-Gabéric A",
+        "team2Name": "Ergué-Gabéric B",
+        "_id": "01978747-682b-74fa-878e-45f967e55b8e",
+        "created_at": "2025-06-19T08:21:33.355Z",
+        "updated_at": "2025-06-19T08:21:33.355Z"
+      },
+      {
+        "team1": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
+        "team2": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "matchDate": "2025-07-09T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Ergué-Gabéric A",
+        "team2Name": "Kervao Bar",
+        "_id": "01978747-6832-74d5-aaca-6bc0eab18ea3",
+        "created_at": "2025-06-19T08:21:33.362Z",
+        "updated_at": "2025-06-19T08:21:33.362Z"
+      },
+      {
+        "team1": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
+        "team2": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
+        "matchDate": "2025-07-11T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Ergué-Gabéric A",
+        "team2Name": "Châteaulin 1",
+        "_id": "01978747-683b-74da-80f3-bea7991618fa",
+        "created_at": "2025-06-19T08:21:33.371Z",
+        "updated_at": "2025-06-19T08:21:33.371Z"
+      },
+      {
+        "team1": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
+        "team2": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "matchDate": "2025-07-13T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Ergué-Gabéric B",
+        "team2Name": "Kervao Bar",
+        "_id": "01978747-6841-713d-aaac-d22b671fcbf9",
+        "created_at": "2025-06-19T08:21:33.377Z",
+        "updated_at": "2025-06-19T08:21:33.377Z"
+      },
+      {
+        "team1": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
+        "team2": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
+        "matchDate": "2025-07-15T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Ergué-Gabéric B",
+        "team2Name": "Châteaulin 1",
+        "_id": "01978747-684b-7306-9c5a-6453166bcb72",
+        "created_at": "2025-06-19T08:21:33.387Z",
+        "updated_at": "2025-06-19T08:21:33.387Z"
+      },
+      {
+        "team1": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "team2": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
+        "matchDate": "2025-07-17T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kervao Bar",
+        "team2Name": "Châteaulin 1",
+        "_id": "01978747-6857-7378-b34c-d66f6f67d7fe",
+        "created_at": "2025-06-19T08:21:33.400Z",
+        "updated_at": "2025-06-19T08:21:33.400Z"
+      },
+      {
+        "team1": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
+        "team2": "01975f3f-7660-703d-84f2-6cf786909070",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 1",
+        "team2Name": "Gourin GVB / Scaër",
+        "_id": "01978747-687e-702d-8777-955e97581b81",
+        "created_at": "2025-06-19T08:21:33.438Z",
+        "updated_at": "2025-06-19T08:21:33.438Z"
+      },
+      {
+        "team1": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
+        "team2": "01975e54-2296-77ea-9344-b2c2d89c0645",
+        "matchDate": "2025-06-21T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 1",
+        "team2Name": "PLONESCAF",
+        "_id": "01978747-6884-711b-abde-7aa3507db1e3",
+        "created_at": "2025-06-19T08:21:33.444Z",
+        "updated_at": "2025-06-19T08:21:33.444Z"
+      },
+      {
+        "team1": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
+        "team2": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "matchDate": "2025-06-23T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 1",
+        "team2Name": "Thépot",
+        "_id": "01978747-688e-7473-a710-03b8b972993a",
+        "created_at": "2025-06-19T08:21:33.455Z",
+        "updated_at": "2025-06-19T08:21:33.455Z"
+      },
+      {
+        "team1": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
+        "team2": "01975f28-df01-71f4-9994-812f535882b5",
+        "matchDate": "2025-06-25T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 1",
+        "team2Name": "USB",
+        "_id": "01978747-689c-775d-9501-bc4253482850",
+        "created_at": "2025-06-19T08:21:33.468Z",
+        "updated_at": "2025-06-19T08:21:33.468Z"
+      },
+      {
+        "team1": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
+        "team2": "01975f31-8081-71fd-a429-0b8b5e682397",
+        "matchDate": "2025-06-27T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Penn Sardin 1",
+        "team2Name": "Concarneau 1",
+        "_id": "01978747-68a9-74bc-805d-7f8556dab161",
+        "created_at": "2025-06-19T08:21:33.481Z",
+        "updated_at": "2025-06-19T08:21:33.481Z"
+      },
+      {
+        "team1": "01975f3f-7660-703d-84f2-6cf786909070",
+        "team2": "01975e54-2296-77ea-9344-b2c2d89c0645",
+        "matchDate": "2025-06-29T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Gourin GVB / Scaër",
+        "team2Name": "PLONESCAF",
+        "_id": "01978747-68b7-76a9-bf73-381400930157",
+        "created_at": "2025-06-19T08:21:33.495Z",
+        "updated_at": "2025-06-19T08:21:33.495Z"
+      },
+      {
+        "team1": "01975f3f-7660-703d-84f2-6cf786909070",
+        "team2": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "matchDate": "2025-07-01T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Gourin GVB / Scaër",
+        "team2Name": "Thépot",
+        "_id": "01978747-68ce-7452-8355-7305a16e8755",
+        "created_at": "2025-06-19T08:21:33.518Z",
+        "updated_at": "2025-06-19T08:21:33.518Z"
+      },
+      {
+        "team1": "01975f3f-7660-703d-84f2-6cf786909070",
+        "team2": "01975f28-df01-71f4-9994-812f535882b5",
+        "matchDate": "2025-07-03T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Gourin GVB / Scaër",
+        "team2Name": "USB",
+        "_id": "01978747-68f4-76dd-844f-163d1ba75477",
+        "created_at": "2025-06-19T08:21:33.556Z",
+        "updated_at": "2025-06-19T08:21:33.556Z"
+      },
+      {
+        "team1": "01975f3f-7660-703d-84f2-6cf786909070",
+        "team2": "01975f31-8081-71fd-a429-0b8b5e682397",
+        "matchDate": "2025-07-05T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Gourin GVB / Scaër",
+        "team2Name": "Concarneau 1",
+        "_id": "01978747-6911-737e-bc63-6c30a3e14bfd",
+        "created_at": "2025-06-19T08:21:33.585Z",
+        "updated_at": "2025-06-19T08:21:33.585Z"
+      },
+      {
+        "team1": "01975e54-2296-77ea-9344-b2c2d89c0645",
+        "team2": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "matchDate": "2025-07-07T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLONESCAF",
+        "team2Name": "Thépot",
+        "_id": "01978747-6918-77c9-8c87-f7efa97e9822",
+        "created_at": "2025-06-19T08:21:33.592Z",
+        "updated_at": "2025-06-19T08:21:33.592Z"
+      },
+      {
+        "team1": "01975e54-2296-77ea-9344-b2c2d89c0645",
+        "team2": "01975f28-df01-71f4-9994-812f535882b5",
+        "matchDate": "2025-07-09T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLONESCAF",
+        "team2Name": "USB",
+        "_id": "01978747-691f-76f0-b84a-d2dfb0162fbb",
+        "created_at": "2025-06-19T08:21:33.599Z",
+        "updated_at": "2025-06-19T08:21:33.599Z"
+      },
+      {
+        "team1": "01975e54-2296-77ea-9344-b2c2d89c0645",
+        "team2": "01975f31-8081-71fd-a429-0b8b5e682397",
+        "matchDate": "2025-07-11T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "PLONESCAF",
+        "team2Name": "Concarneau 1",
+        "_id": "01978747-692b-7246-886f-2f2b8771d9d9",
+        "created_at": "2025-06-19T08:21:33.611Z",
+        "updated_at": "2025-06-19T08:21:33.611Z"
+      },
+      {
+        "team1": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "team2": "01975f28-df01-71f4-9994-812f535882b5",
+        "matchDate": "2025-07-13T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Thépot",
+        "team2Name": "USB",
+        "_id": "01978747-6931-71db-8e64-8c690833d0f4",
+        "created_at": "2025-06-19T08:21:33.617Z",
+        "updated_at": "2025-06-19T08:21:33.617Z"
+      },
+      {
+        "team1": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "team2": "01975f31-8081-71fd-a429-0b8b5e682397",
+        "matchDate": "2025-07-15T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Thépot",
+        "team2Name": "Concarneau 1",
+        "_id": "01978747-6938-75fc-af47-eec57427bb92",
+        "created_at": "2025-06-19T08:21:33.624Z",
+        "updated_at": "2025-06-19T08:21:33.624Z"
+      },
+      {
+        "team1": "01975f28-df01-71f4-9994-812f535882b5",
+        "team2": "01975f31-8081-71fd-a429-0b8b5e682397",
+        "matchDate": "2025-07-17T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "USB",
+        "team2Name": "Concarneau 1",
+        "_id": "01978747-69ec-7228-a6b5-2c07a104ce9b",
+        "created_at": "2025-06-19T08:21:33.804Z",
+        "updated_at": "2025-06-19T08:21:33.804Z"
+      },
+      {
+        "team1": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
+        "team2": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 2",
+        "team2Name": "Kemperle 1",
+        "_id": "01978747-6a8c-75f7-9836-f24ed61c00c3",
+        "created_at": "2025-06-19T08:21:33.964Z",
+        "updated_at": "2025-06-19T08:21:33.964Z"
+      },
+      {
+        "team1": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
+        "team2": "01975f32-f293-726e-a5a5-dfc0e2121587",
+        "matchDate": "2025-06-21T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 2",
+        "team2Name": "Fouesnant 2",
+        "_id": "01978747-6a92-75e2-9232-5cf3281b3086",
+        "created_at": "2025-06-19T08:21:33.971Z",
+        "updated_at": "2025-06-19T08:21:33.971Z"
+      },
+      {
+        "team1": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
+        "team2": "01975f34-337b-7560-88b8-d3c332843a77",
+        "matchDate": "2025-06-23T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 2",
+        "team2Name": "Cap Sizun",
+        "_id": "01978747-6a98-75e9-bb87-e47c756c8c8b",
+        "created_at": "2025-06-19T08:21:33.976Z",
+        "updated_at": "2025-06-19T08:21:33.976Z"
+      },
+      {
+        "team1": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
+        "team2": "01975f37-d18b-769f-bbe4-590556c22841",
+        "matchDate": "2025-06-25T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 2",
+        "team2Name": "Quimper 29 A",
+        "_id": "01978747-6a9f-7655-859c-31735256c607",
+        "created_at": "2025-06-19T08:21:33.983Z",
+        "updated_at": "2025-06-19T08:21:33.983Z"
+      },
+      {
+        "team1": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
+        "team2": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
+        "matchDate": "2025-06-27T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 2",
+        "team2Name": "Plonéour ",
+        "_id": "01978747-6aa7-763d-a7d3-406dff2202e1",
+        "created_at": "2025-06-19T08:21:33.991Z",
+        "updated_at": "2025-06-19T08:21:33.991Z"
+      },
+      {
+        "team1": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+        "team2": "01975f32-f293-726e-a5a5-dfc0e2121587",
+        "matchDate": "2025-06-29T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 1",
+        "team2Name": "Fouesnant 2",
+        "_id": "01978747-6aac-7781-aa2d-95fcdd140fed",
+        "created_at": "2025-06-19T08:21:33.996Z",
+        "updated_at": "2025-06-19T08:21:33.996Z"
+      },
+      {
+        "team1": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+        "team2": "01975f34-337b-7560-88b8-d3c332843a77",
+        "matchDate": "2025-07-01T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 1",
+        "team2Name": "Cap Sizun",
+        "_id": "01978747-6ab3-7455-b8fc-0f37930fc191",
+        "created_at": "2025-06-19T08:21:34.003Z",
+        "updated_at": "2025-06-19T08:21:34.003Z"
+      },
+      {
+        "team1": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+        "team2": "01975f37-d18b-769f-bbe4-590556c22841",
+        "matchDate": "2025-07-03T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 1",
+        "team2Name": "Quimper 29 A",
+        "_id": "01978747-6ac3-731c-a2be-8222c9f6f729",
+        "created_at": "2025-06-19T08:21:34.019Z",
+        "updated_at": "2025-06-19T08:21:34.019Z"
+      },
+      {
+        "team1": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+        "team2": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
+        "matchDate": "2025-07-05T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Kemperle 1",
+        "team2Name": "Plonéour ",
+        "_id": "01978747-6acd-71e7-a370-46e6d4073871",
+        "created_at": "2025-06-19T08:21:34.029Z",
+        "updated_at": "2025-06-19T08:21:34.029Z"
+      },
+      {
+        "team1": "01975f32-f293-726e-a5a5-dfc0e2121587",
+        "team2": "01975f34-337b-7560-88b8-d3c332843a77",
+        "matchDate": "2025-07-07T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Fouesnant 2",
+        "team2Name": "Cap Sizun",
+        "_id": "01978747-6af5-725e-8d14-8a11d6af68fd",
+        "created_at": "2025-06-19T08:21:34.069Z",
+        "updated_at": "2025-06-19T08:21:34.069Z"
+      },
+      {
+        "team1": "01975f32-f293-726e-a5a5-dfc0e2121587",
+        "team2": "01975f37-d18b-769f-bbe4-590556c22841",
+        "matchDate": "2025-07-09T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Fouesnant 2",
+        "team2Name": "Quimper 29 A",
+        "_id": "01978747-6b2b-705c-a31a-8a5f13568093",
+        "created_at": "2025-06-19T08:21:34.123Z",
+        "updated_at": "2025-06-19T08:21:34.123Z"
+      },
+      {
+        "team1": "01975f32-f293-726e-a5a5-dfc0e2121587",
+        "team2": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
+        "matchDate": "2025-07-11T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Fouesnant 2",
+        "team2Name": "Plonéour ",
+        "_id": "01978747-6b38-7341-9142-facd598fec8a",
+        "created_at": "2025-06-19T08:21:34.136Z",
+        "updated_at": "2025-06-19T08:21:34.136Z"
+      },
+      {
+        "team1": "01975f34-337b-7560-88b8-d3c332843a77",
+        "team2": "01975f37-d18b-769f-bbe4-590556c22841",
+        "matchDate": "2025-07-13T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Cap Sizun",
+        "team2Name": "Quimper 29 A",
+        "_id": "01978747-6b3e-76ff-9209-9849064ed30a",
+        "created_at": "2025-06-19T08:21:34.142Z",
+        "updated_at": "2025-06-19T08:21:34.142Z"
+      },
+      {
+        "team1": "01975f34-337b-7560-88b8-d3c332843a77",
+        "team2": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
+        "matchDate": "2025-07-15T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Cap Sizun",
+        "team2Name": "Plonéour ",
+        "_id": "01978747-6b46-708c-a178-5c73285f2740",
+        "created_at": "2025-06-19T08:21:34.150Z",
+        "updated_at": "2025-06-19T08:21:34.150Z"
+      },
+      {
+        "team1": "01975f37-d18b-769f-bbe4-590556c22841",
+        "team2": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
+        "matchDate": "2025-07-17T00:00:00.000Z",
+        "round": "poule",
+        "team1Name": "Quimper 29 A",
+        "team2Name": "Plonéour ",
+        "_id": "01978747-6b4d-7508-b89c-622f4d804b4a",
+        "created_at": "2025-06-19T08:21:34.157Z",
+        "updated_at": "2025-06-19T08:21:34.157Z"
+      }
+    ],
+    "metadata": {
+      "created_at": "2025-06-19T08:21:29.250Z",
+      "updated_at": "2025-06-19T08:21:34.157Z"
     }
   }
 }
