@@ -3839,7 +3839,38 @@
       {
         "team1": "01975f37-d18b-769f-bbe4-590556c22841",
         "team2": "01975f32-2d8c-7325-9047-d9ddfc77a343",
-<
+        "matchDate": "2025-07-15T00:00:00.000Z",
+        "round": "poule",
+        "poule": 4,
+        "team1Name": "Quimper 29 A",
+        "team2Name": "Kemperle 1",
+        "_id": "01978871-5f4e-7468-a961-225936db9887",
+        "created_at": "2025-06-19T13:47:00.814Z",
+        "updated_at": "2025-06-19T13:47:00.814Z",
+        "index": 58
+      },
+      {
+        "team1": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
+        "team2": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+        "matchDate": "2025-07-17T00:00:00.000Z",
+        "round": "poule",
+        "poule": 4,
+        "team1Name": "Kemperle 2",
+        "team2Name": "Kemperle 1",
+        "_id": "01978871-5f94-753f-872b-3d21c771dea7",
+        "created_at": "2025-06-19T13:47:00.884Z",
+        "updated_at": "2025-06-19T13:47:00.884Z",
+        "index": 59
+      }
+    ],
+    "metadata": {
+      "created_at": "2025-06-19T10:47:53.579Z",
+      "updated_at": "2025-06-19T14:18:08.411Z"
+    }
+  },
+  "tournament_results": {
+    "entries": [
+
     ],
     "metadata": {
       "created_at": "2025-06-19T10:51:49.416Z",
