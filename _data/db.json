@@ -105,7 +105,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976852-17b2-77ef-932c-94a53de73214",
         "created_at": "2025-06-13T08:04:59.973Z",
-        "updated_at": "2025-06-19T11:26:18.218Z",
+        "updated_at": "2025-06-19T11:26:24.893Z",
         "index": 0
       },
       {
@@ -124,7 +124,7 @@
         "date": "23/06/2025 20:30",
         "_id": "01976852-55e2-753e-91b3-04fcaf80da6f",
         "created_at": "2025-06-13T08:05:15.874Z",
-        "updated_at": "2025-06-19T11:26:18.230Z",
+        "updated_at": "2025-06-19T11:26:24.904Z",
         "index": 1
       },
       {
@@ -143,7 +143,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976864-401d-702a-bce8-12ed878ab69e",
         "created_at": "2025-06-13T08:24:49.951Z",
-        "updated_at": "2025-06-19T11:26:18.239Z",
+        "updated_at": "2025-06-19T11:26:24.911Z",
         "index": 2
       },
       {
@@ -162,7 +162,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976864-76d8-777c-ab18-3c8b2426aa40",
         "created_at": "2025-06-13T08:25:03.960Z",
-        "updated_at": "2025-06-19T11:26:18.252Z",
+        "updated_at": "2025-06-19T11:26:24.919Z",
         "index": 3
       },
       {
@@ -181,7 +181,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976988-39e5-76e9-bd59-483b167d8456",
         "created_at": "2025-06-13T13:43:44.871Z",
-        "updated_at": "2025-06-19T11:26:18.265Z",
+        "updated_at": "2025-06-19T11:26:24.927Z",
         "index": 4
       },
       {
@@ -200,13 +200,13 @@
         "date": "07/07/2025 20:30",
         "_id": "01976988-fac1-726b-98fb-3f0b4d3a8165",
         "created_at": "2025-06-13T13:44:34.241Z",
-        "updated_at": "2025-06-19T11:26:18.272Z",
+        "updated_at": "2025-06-19T11:26:24.938Z",
         "index": 5
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-19T11:26:18.272Z"
+      "updated_at": "2025-06-19T11:26:24.938Z"
     }
   },
   "team": {
@@ -9867,39 +9867,11 @@
         "_id": "b2fe7ca1-d63f-456a-a0cb-5ad3e312ceee",
         "created_at": "2025-06-19T11:24:59.831Z",
         "updated_at": "2025-06-19T11:24:59.831Z"
-      },
-      {
-        "team1": "d7a9edf4-df52-47f1-b17b-9d3da0c80491",
-        "team2": "f1cc61e3-5b42-461f-b909-cbb64fdf5aac",
-        "matchDate": "2025-09-11T00:00:00.000Z",
-        "round": "final",
-        "team1Name": "Gagnant du match d7a9edf4-df52-47f1-b17b-9d3da0c80491",
-        "team2Name": "Gagnant du match f1cc61e3-5b42-461f-b909-cbb64fdf5aac",
-        "team1Ref": "d7a9edf4-df52-47f1-b17b-9d3da0c80491",
-        "team2Ref": "f1cc61e3-5b42-461f-b909-cbb64fdf5aac",
-        "winner": null,
-        "_id": "f3640372-846b-41b5-80d8-643b9d6971a8",
-        "created_at": "2025-06-19T11:24:59.841Z",
-        "updated_at": "2025-06-19T11:24:59.841Z"
-      },
-      {
-        "team1": "38b01c49-f186-46c7-96fa-56b70b4ad3f3",
-        "team2": "b2fe7ca1-d63f-456a-a0cb-5ad3e312ceee",
-        "matchDate": "2025-09-11T00:00:00.000Z",
-        "round": "final",
-        "team1Name": "Gagnant du match 38b01c49-f186-46c7-96fa-56b70b4ad3f3",
-        "team2Name": "Gagnant du match b2fe7ca1-d63f-456a-a0cb-5ad3e312ceee",
-        "team1Ref": "38b01c49-f186-46c7-96fa-56b70b4ad3f3",
-        "team2Ref": "b2fe7ca1-d63f-456a-a0cb-5ad3e312ceee",
-        "winner": null,
-        "_id": "c5bd9435-1027-48c0-98e4-33b41e5292ab",
-        "created_at": "2025-06-19T11:24:59.849Z",
-        "updated_at": "2025-06-19T11:24:59.849Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-19T10:47:53.579Z",
-      "updated_at": "2025-06-19T11:26:17.911Z"
+      "updated_at": "2025-06-19T11:26:24.803Z"
     }
   },
   "tournament_results": {
