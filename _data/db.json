@@ -105,7 +105,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976852-17b2-77ef-932c-94a53de73214",
         "created_at": "2025-06-13T08:04:59.973Z",
-        "updated_at": "2025-06-19T10:49:07.035Z",
+        "updated_at": "2025-06-19T10:49:28.335Z",
         "index": 0
       },
       {
@@ -124,7 +124,7 @@
         "date": "23/06/2025 20:30",
         "_id": "01976852-55e2-753e-91b3-04fcaf80da6f",
         "created_at": "2025-06-13T08:05:15.874Z",
-        "updated_at": "2025-06-19T10:49:07.040Z",
+        "updated_at": "2025-06-19T10:49:28.347Z",
         "index": 1
       },
       {
@@ -143,7 +143,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976864-401d-702a-bce8-12ed878ab69e",
         "created_at": "2025-06-13T08:24:49.951Z",
-        "updated_at": "2025-06-19T10:49:07.044Z",
+        "updated_at": "2025-06-19T10:49:28.350Z",
         "index": 2
       },
       {
@@ -162,7 +162,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976864-76d8-777c-ab18-3c8b2426aa40",
         "created_at": "2025-06-13T08:25:03.960Z",
-        "updated_at": "2025-06-19T10:49:07.049Z",
+        "updated_at": "2025-06-19T10:49:28.354Z",
         "index": 3
       },
       {
@@ -181,7 +181,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976988-39e5-76e9-bd59-483b167d8456",
         "created_at": "2025-06-13T13:43:44.871Z",
-        "updated_at": "2025-06-19T10:49:07.053Z",
+        "updated_at": "2025-06-19T10:49:28.358Z",
         "index": 4
       },
       {
@@ -200,13 +200,13 @@
         "date": "07/07/2025 20:30",
         "_id": "01976988-fac1-726b-98fb-3f0b4d3a8165",
         "created_at": "2025-06-13T13:44:34.241Z",
-        "updated_at": "2025-06-19T10:49:07.058Z",
+        "updated_at": "2025-06-19T10:49:28.362Z",
         "index": 5
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-19T10:49:07.058Z"
+      "updated_at": "2025-06-19T10:49:28.362Z"
     }
   },
   "team": {
@@ -2669,11 +2669,221 @@
         "_id": "019787ce-2f11-724f-96ce-6f85222050a7",
         "created_at": "2025-06-19T10:48:46.097Z",
         "updated_at": "2025-06-19T10:48:46.097Z"
+      },
+      {
+        "team1": "01975991-2a4c-76c1-91ca-ac89253589ba",
+        "team2": "01975992-8d82-72dd-8d57-e3d15a22e098",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "PLUGUFFAN",
+        "team2Name": "Carhaix",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "08a6bab2-fac2-4528-ac38-19724dc0b68f",
+        "created_at": "2025-06-19T10:49:28.506Z",
+        "updated_at": "2025-06-19T10:49:28.506Z"
+      },
+      {
+        "team1": "01975e10-9fea-726b-a4f8-6842dd1c0381",
+        "team2": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "Kervao Bar",
+        "team2Name": "Thépot",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "be0517ad-3989-4f10-9e07-1a165f7f8180",
+        "created_at": "2025-06-19T10:49:28.515Z",
+        "updated_at": "2025-06-19T10:49:28.515Z"
+      },
+      {
+        "team1": "01975e41-7858-7669-bab1-dfe9dc76229e",
+        "team2": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "Fouesnant 1",
+        "team2Name": "Penn Sardin 1",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "431674d0-7e4b-4feb-b58a-bf7541a3128a",
+        "created_at": "2025-06-19T10:49:28.521Z",
+        "updated_at": "2025-06-19T10:49:28.521Z"
+      },
+      {
+        "team1": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
+        "team2": "01975e54-2296-77ea-9344-b2c2d89c0645",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "Châteaulin 1",
+        "team2Name": "PLONESCAF",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "b1f3bac8-4255-4c47-9dd4-d654597a8f69",
+        "created_at": "2025-06-19T10:49:28.529Z",
+        "updated_at": "2025-06-19T10:49:28.529Z"
+      },
+      {
+        "team1": "01975f39-7ada-7748-9eed-ff57d304edd9",
+        "team2": "01975f3a-4d84-72d9-a967-75165c523495",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "Quimper 29 B",
+        "team2Name": "Châteaulin 2",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "6a28dc21-97d1-4549-a338-e2bdf12664d3",
+        "created_at": "2025-06-19T10:49:28.536Z",
+        "updated_at": "2025-06-19T10:49:28.536Z"
+      },
+      {
+        "team1": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
+        "team2": "01975f3b-a7e6-711a-8a67-ae113f91fc91",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "Penn Sardin 2",
+        "team2Name": "Fouesnant 3",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "b1208892-e66b-4adb-8d01-3768362193f2",
+        "created_at": "2025-06-19T10:49:28.544Z",
+        "updated_at": "2025-06-19T10:49:28.544Z"
+      },
+      {
+        "team1": "01975f3d-1677-725f-976e-6754fc6a5103",
+        "team2": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "St Evarzec ",
+        "team2Name": "Ergué-Gabéric A",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "27c1fb2a-14dc-459c-a0b0-a5915ebe324e",
+        "created_at": "2025-06-19T10:49:28.549Z",
+        "updated_at": "2025-06-19T10:49:28.549Z"
+      },
+      {
+        "team1": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
+        "team2": "01975f3f-7660-703d-84f2-6cf786909070",
+        "matchDate": "2025-06-19T00:00:00.000Z",
+        "round": "quart",
+        "team1Name": "Ergué-Gabéric B",
+        "team2Name": "Gourin GVB / Scaër",
+        "team1Ref": null,
+        "team2Ref": null,
+        "winner": null,
+        "_id": "00307f14-5f07-4a3a-a234-2c500137aeec",
+        "created_at": "2025-06-19T10:49:28.558Z",
+        "updated_at": "2025-06-19T10:49:28.558Z"
+      },
+      {
+        "team1": "08a6bab2-fac2-4528-ac38-19724dc0b68f",
+        "team2": "be0517ad-3989-4f10-9e07-1a165f7f8180",
+        "matchDate": "2025-08-14T00:00:00.000Z",
+        "round": "semi",
+        "team1Name": "Gagnant du match 08a6bab2-fac2-4528-ac38-19724dc0b68f",
+        "team2Name": "Gagnant du match be0517ad-3989-4f10-9e07-1a165f7f8180",
+        "team1Ref": "08a6bab2-fac2-4528-ac38-19724dc0b68f",
+        "team2Ref": "be0517ad-3989-4f10-9e07-1a165f7f8180",
+        "winner": null,
+        "_id": "47fa7beb-0f85-49e0-b35e-6852b77e1499",
+        "created_at": "2025-06-19T10:49:28.563Z",
+        "updated_at": "2025-06-19T10:49:28.563Z"
+      },
+      {
+        "team1": "431674d0-7e4b-4feb-b58a-bf7541a3128a",
+        "team2": "b1f3bac8-4255-4c47-9dd4-d654597a8f69",
+        "matchDate": "2025-08-14T00:00:00.000Z",
+        "round": "semi",
+        "team1Name": "Gagnant du match 431674d0-7e4b-4feb-b58a-bf7541a3128a",
+        "team2Name": "Gagnant du match b1f3bac8-4255-4c47-9dd4-d654597a8f69",
+        "team1Ref": "431674d0-7e4b-4feb-b58a-bf7541a3128a",
+        "team2Ref": "b1f3bac8-4255-4c47-9dd4-d654597a8f69",
+        "winner": null,
+        "_id": "2305a275-c6ab-4cb4-a6ef-96cc04b63303",
+        "created_at": "2025-06-19T10:49:28.567Z",
+        "updated_at": "2025-06-19T10:49:28.567Z"
+      },
+      {
+        "team1": "6a28dc21-97d1-4549-a338-e2bdf12664d3",
+        "team2": "b1208892-e66b-4adb-8d01-3768362193f2",
+        "matchDate": "2025-08-14T00:00:00.000Z",
+        "round": "semi",
+        "team1Name": "Gagnant du match 6a28dc21-97d1-4549-a338-e2bdf12664d3",
+        "team2Name": "Gagnant du match b1208892-e66b-4adb-8d01-3768362193f2",
+        "team1Ref": "6a28dc21-97d1-4549-a338-e2bdf12664d3",
+        "team2Ref": "b1208892-e66b-4adb-8d01-3768362193f2",
+        "winner": null,
+        "_id": "1e035e19-b4e2-4cb3-9af9-c53f9a229499",
+        "created_at": "2025-06-19T10:49:28.573Z",
+        "updated_at": "2025-06-19T10:49:28.573Z"
+      },
+      {
+        "team1": "27c1fb2a-14dc-459c-a0b0-a5915ebe324e",
+        "team2": "00307f14-5f07-4a3a-a234-2c500137aeec",
+        "matchDate": "2025-08-14T00:00:00.000Z",
+        "round": "semi",
+        "team1Name": "Gagnant du match 27c1fb2a-14dc-459c-a0b0-a5915ebe324e",
+        "team2Name": "Gagnant du match 00307f14-5f07-4a3a-a234-2c500137aeec",
+        "team1Ref": "27c1fb2a-14dc-459c-a0b0-a5915ebe324e",
+        "team2Ref": "00307f14-5f07-4a3a-a234-2c500137aeec",
+        "winner": null,
+        "_id": "01d97748-27dc-42e0-be94-5b2ab055ff26",
+        "created_at": "2025-06-19T10:49:28.582Z",
+        "updated_at": "2025-06-19T10:49:28.582Z"
+      },
+      {
+        "team1": "47fa7beb-0f85-49e0-b35e-6852b77e1499",
+        "team2": "2305a275-c6ab-4cb4-a6ef-96cc04b63303",
+        "matchDate": "2025-09-11T00:00:00.000Z",
+        "round": "final",
+        "team1Name": "Gagnant du match 47fa7beb-0f85-49e0-b35e-6852b77e1499",
+        "team2Name": "Gagnant du match 2305a275-c6ab-4cb4-a6ef-96cc04b63303",
+        "team1Ref": "47fa7beb-0f85-49e0-b35e-6852b77e1499",
+        "team2Ref": "2305a275-c6ab-4cb4-a6ef-96cc04b63303",
+        "winner": null,
+        "_id": "0685606e-62e5-4241-bb59-70ad7c925a52",
+        "created_at": "2025-06-19T10:49:28.587Z",
+        "updated_at": "2025-06-19T10:49:28.587Z"
+      },
+      {
+        "team1": "1e035e19-b4e2-4cb3-9af9-c53f9a229499",
+        "team2": "01d97748-27dc-42e0-be94-5b2ab055ff26",
+        "matchDate": "2025-09-11T00:00:00.000Z",
+        "round": "final",
+        "team1Name": "Gagnant du match 1e035e19-b4e2-4cb3-9af9-c53f9a229499",
+        "team2Name": "Gagnant du match 01d97748-27dc-42e0-be94-5b2ab055ff26",
+        "team1Ref": "1e035e19-b4e2-4cb3-9af9-c53f9a229499",
+        "team2Ref": "01d97748-27dc-42e0-be94-5b2ab055ff26",
+        "winner": null,
+        "_id": "76d7e783-de2d-4e22-b414-a7260524827b",
+        "created_at": "2025-06-19T10:49:28.595Z",
+        "updated_at": "2025-06-19T10:49:28.595Z"
+      },
+      {
+        "team1": "0685606e-62e5-4241-bb59-70ad7c925a52",
+        "team2": "76d7e783-de2d-4e22-b414-a7260524827b",
+        "matchDate": "2025-09-25T00:00:00.000Z",
+        "round": "final",
+        "team1Name": "Gagnant du match 47fa7beb-0f85-49e0-b35e-6852b77e1499",
+        "team2Name": "Gagnant du match 2305a275-c6ab-4cb4-a6ef-96cc04b63303",
+        "team1Ref": "47fa7beb-0f85-49e0-b35e-6852b77e1499",
+        "team2Ref": "2305a275-c6ab-4cb4-a6ef-96cc04b63303",
+        "winner": null,
+        "_id": "e8be0571-088a-4e35-9c16-0dd271970e3a",
+        "created_at": "2025-06-19T10:49:28.602Z",
+        "updated_at": "2025-06-19T10:49:28.602Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-19T10:47:53.579Z",
-      "updated_at": "2025-06-19T10:48:46.097Z"
+      "updated_at": "2025-06-19T10:49:28.602Z"
     }
   }
 }
