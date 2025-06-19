@@ -1,6 +1,6 @@
 ---
 title: Équipe St Evarzec 
-date: 2025-06-19T14:29:19.243Z
+date: 2025-06-19T14:34:14.497Z
 layout: team
 ---
 
