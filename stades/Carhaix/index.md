@@ -1,14 +1,9 @@
 ---
 title: Carhaix
-<<<<<<< HEAD
-date: 2025-06-20T13:06:16.412Z
-=======
-<<<<<<< HEAD
-date: 2025-06-20T13:06:16.412Z
-=======
+
+
 date: 2025-06-20T13:09:42.271Z
->>>>>>> 8a01010 (Mise à jour automatique des fichiers)
->>>>>>> 7336447 (Mise à jour automatique des fichiers)
+
 layout: stade
 ---
 
