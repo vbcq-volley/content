@@ -1,6 +1,6 @@
 ---
 title: Équipe Carhaix
-date: 2025-06-20T11:46:03.494Z
+date: 2025-06-20T11:56:23.558Z
 layout: team
 ---
 
