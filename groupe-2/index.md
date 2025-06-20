@@ -1,6 +1,10 @@
 ---
 title: groupe_2
+<<<<<<< HEAD
 date: 2025-06-20T09:33:35.903Z
+=======
+date: 2025-06-20T09:41:08.849Z
+>>>>>>> 63a2621 (Mise à jour automatique des fichiers)
 layout: championnat
 group: 2
 ---

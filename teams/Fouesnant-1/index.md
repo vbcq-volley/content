@@ -1,6 +1,10 @@
 ---
 title: Équipe Fouesnant 1
+<<<<<<< HEAD
 date: 2025-06-20T09:33:36.074Z
+=======
+date: 2025-06-20T09:41:08.150Z
+>>>>>>> 63a2621 (Mise à jour automatique des fichiers)
 layout: team
 ---
 
