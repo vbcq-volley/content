@@ -1,6 +1,6 @@
 ---
 title: Équipe Kemperle 1
-date: 2025-06-20T09:52:22.778Z
+date: 2025-06-20T09:53:13.502Z
 layout: team
 ---
 

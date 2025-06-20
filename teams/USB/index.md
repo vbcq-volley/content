@@ -1,6 +1,6 @@
 ---
 title: Équipe USB
-date: 2025-06-20T09:52:22.766Z
+date: 2025-06-20T09:53:13.488Z
 layout: team
 ---
 
