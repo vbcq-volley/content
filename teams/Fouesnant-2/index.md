@@ -1,6 +1,6 @@
 ---
 title: Équipe Fouesnant 2
-date: 2025-06-20T12:11:50.831Z
+date: 2025-06-20T12:17:12.438Z
 layout: team
 ---
 
