@@ -1,6 +1,6 @@
 ---
 title: Équipe Thépot
-date: 2025-06-20T08:53:32.610Z
+date: 2025-06-20T09:33:36.069Z
 layout: team
 ---
 
