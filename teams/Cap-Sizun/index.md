@@ -1,10 +1,6 @@
 ---
 title: Équipe Cap Sizun
-<<<<<<< HEAD
-date: 2025-06-20T09:33:36.238Z
-=======
-date: 2025-06-20T09:41:08.327Z
->>>>>>> 63a2621 (Mise à jour automatique des fichiers)
+date: 2025-06-20T09:52:22.802Z
 layout: team
 ---
 

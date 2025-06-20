@@ -1,10 +1,6 @@
 ---
 title: Équipe PLUGUFFAN
-<<<<<<< HEAD
-date: 2025-06-20T09:33:35.952Z
-=======
-date: 2025-06-20T09:41:07.927Z
->>>>>>> 63a2621 (Mise à jour automatique des fichiers)
+date: 2025-06-20T09:52:22.679Z
 layout: team
 ---
 

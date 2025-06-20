@@ -1,10 +1,6 @@
 ---
 title: Équipe Kervao Bar
-<<<<<<< HEAD
-date: 2025-06-20T09:33:36.026Z
-=======
-date: 2025-06-20T09:41:07.984Z
->>>>>>> 63a2621 (Mise à jour automatique des fichiers)
+date: 2025-06-20T09:52:22.695Z
 layout: team
 ---
 

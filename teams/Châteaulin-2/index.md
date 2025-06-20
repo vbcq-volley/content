@@ -1,10 +1,6 @@
 ---
 title: Équipe Châteaulin 2
-<<<<<<< HEAD
-date: 2025-06-20T09:33:36.267Z
-=======
-date: 2025-06-20T09:41:08.335Z
->>>>>>> 63a2621 (Mise à jour automatique des fichiers)
+date: 2025-06-20T09:52:22.839Z
 layout: team
 ---
 

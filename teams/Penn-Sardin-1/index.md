@@ -1,10 +1,6 @@
 ---
 title: Équipe Penn Sardin 1
-<<<<<<< HEAD
-date: 2025-06-20T09:33:36.089Z
-=======
-date: 2025-06-20T09:41:08.180Z
->>>>>>> 63a2621 (Mise à jour automatique des fichiers)
+date: 2025-06-20T09:52:22.731Z
 layout: team
 ---
 
