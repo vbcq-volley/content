@@ -1,8 +1,11 @@
 ---
 title: groupe_1
-date: 2025-06-23T11:36:21.083Z
+date: 2025-06-23T11:41:26.994Z
 layout: championnat
 group: 1
+categories:
+  - championnat
+  - groupe-1
 ---
 
 # Classement du Groupe 1

@@ -1,7 +1,17 @@
 ---
+
 title: Équipe PLONESCAF
-date: 2025-06-23T11:36:21.261Z
+
+date: 2025-06-23T11:41:27.159Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-1
+
 ---
 
 # PLONESCAF

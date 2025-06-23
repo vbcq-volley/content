@@ -1,8 +1,11 @@
 ---
 title: groupe_3
-date: 2025-06-23T11:36:21.163Z
+date: 2025-06-23T11:41:27.025Z
 layout: championnat
 group: 3
+categories:
+  - championnat
+  - groupe-3
 ---
 
 # Classement du Groupe 3

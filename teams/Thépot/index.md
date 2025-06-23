@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Thépot
-date: 2025-06-23T11:36:21.221Z
+
+date: 2025-06-23T11:41:27.092Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-1
+
 ---
 
 # Thépot

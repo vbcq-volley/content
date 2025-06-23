@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Quimper 29 A
-date: 2025-06-23T11:36:21.321Z
+
+date: 2025-06-23T11:41:27.215Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-2
+
 ---
 
 # Quimper 29 A

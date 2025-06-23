@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Kemperle 2
-date: 2025-06-23T11:36:21.271Z
+
+date: 2025-06-23T11:41:27.174Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-2
+
 ---
 
 # Kemperle 2

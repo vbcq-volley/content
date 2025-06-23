@@ -1,8 +1,11 @@
 ---
 title: groupe_2
-date: 2025-06-23T11:36:21.162Z
+date: 2025-06-23T11:41:27.022Z
 layout: championnat
 group: 2
+categories:
+  - championnat
+  - groupe-2
 ---
 
 # Classement du Groupe 2

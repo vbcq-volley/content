@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Kervao Bar
-date: 2025-06-23T11:36:21.215Z
+
+date: 2025-06-23T11:41:27.082Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-1
+
 ---
 
 # Kervao Bar

@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Fouesnant 3
-date: 2025-06-23T11:36:21.338Z
+
+date: 2025-06-23T11:41:27.232Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-3
+
 ---
 
 # Fouesnant 3

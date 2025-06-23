@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Ergué-Gabéric B
-date: 2025-06-23T11:36:21.359Z
+
+date: 2025-06-23T11:41:27.259Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-3
+
 ---
 
 # Ergué-Gabéric B

@@ -1,7 +1,17 @@
 ---
+
 title: Équipe St Evarzec 
-date: 2025-06-23T11:36:21.347Z
+
+date: 2025-06-23T11:41:27.234Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-3
+
 ---
 
 # St Evarzec 

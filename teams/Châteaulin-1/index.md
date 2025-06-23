@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Châteaulin 1
-date: 2025-06-23T11:36:21.250Z
+
+date: 2025-06-23T11:41:27.133Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-1
+
 ---
 
 # Châteaulin 1

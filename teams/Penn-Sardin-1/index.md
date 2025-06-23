@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Penn Sardin 1
-date: 2025-06-23T11:36:21.237Z
+
+date: 2025-06-23T11:41:27.124Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-1
+
 ---
 
 # Penn Sardin 1

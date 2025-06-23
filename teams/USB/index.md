@@ -1,7 +1,17 @@
 ---
+
 title: Équipe USB
-date: 2025-06-23T11:36:21.269Z
+
+date: 2025-06-23T11:41:27.170Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-2
+
 ---
 
 # USB

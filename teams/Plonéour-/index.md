@@ -1,7 +1,17 @@
 ---
+
 title: Équipe Plonéour 
-date: 2025-06-23T11:36:21.308Z
+
+date: 2025-06-23T11:41:27.196Z
+
 layout: team
+
+categories:
+
+  - équipe
+
+  - groupe-2
+
 ---
 
 # Plonéour 
