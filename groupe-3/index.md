@@ -1,6 +1,6 @@
 ---
 title: groupe_3
-date: 2025-06-23T11:46:27.824Z
+date: 2025-06-23T11:47:32.725Z
 layout: championnat
 group: 3
 categories:
