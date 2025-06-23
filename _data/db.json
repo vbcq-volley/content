@@ -105,7 +105,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976852-17b2-77ef-932c-94a53de73214",
         "created_at": "2025-06-13T08:04:59.973Z",
-        "updated_at": "2025-06-23T08:55:56.097Z",
+        "updated_at": "2025-06-23T08:56:05.290Z",
         "index": 0
       },
       {
@@ -124,7 +124,7 @@
         "date": "23/06/2025 20:30",
         "_id": "01976852-55e2-753e-91b3-04fcaf80da6f",
         "created_at": "2025-06-13T08:05:15.874Z",
-        "updated_at": "2025-06-23T08:55:56.105Z",
+        "updated_at": "2025-06-23T08:56:05.297Z",
         "index": 1
       },
       {
@@ -143,7 +143,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976864-401d-702a-bce8-12ed878ab69e",
         "created_at": "2025-06-13T08:24:49.951Z",
-        "updated_at": "2025-06-23T08:55:56.118Z",
+        "updated_at": "2025-06-23T08:56:05.301Z",
         "index": 2
       },
       {
@@ -162,7 +162,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976864-76d8-777c-ab18-3c8b2426aa40",
         "created_at": "2025-06-13T08:25:03.960Z",
-        "updated_at": "2025-06-23T08:55:56.124Z",
+        "updated_at": "2025-06-23T08:56:05.317Z",
         "index": 3
       },
       {
@@ -181,7 +181,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976988-39e5-76e9-bd59-483b167d8456",
         "created_at": "2025-06-13T13:43:44.871Z",
-        "updated_at": "2025-06-23T08:55:56.129Z",
+        "updated_at": "2025-06-23T08:56:05.330Z",
         "index": 4
       },
       {
@@ -200,13 +200,13 @@
         "date": "07/07/2025 20:30",
         "_id": "01976988-fac1-726b-98fb-3f0b4d3a8165",
         "created_at": "2025-06-13T13:44:34.241Z",
-        "updated_at": "2025-06-23T08:55:56.137Z",
+        "updated_at": "2025-06-23T08:56:05.335Z",
         "index": 5
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-      "updated_at": "2025-06-23T08:55:56.137Z"
+      "updated_at": "2025-06-23T08:56:05.335Z"
     }
   },
   "team": {
@@ -576,7 +576,7 @@
         "team2Name": "Penn Sardin 1",
         "_id": "01978871-56ab-7389-a37c-9a4db2ae3c35",
         "created_at": "2025-06-19T13:46:58.603Z",
-        "updated_at": "2025-06-23T08:55:50.182Z",
+        "updated_at": "2025-06-23T08:56:03.075Z",
         "index": 1,
         "winner": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885"
       },
@@ -590,7 +590,7 @@
         "team2Name": "Châteaulin 2",
         "_id": "01978871-56bc-7495-aacb-16d4dce2d20d",
         "created_at": "2025-06-19T13:46:58.621Z",
-        "updated_at": "2025-06-23T08:55:50.188Z",
+        "updated_at": "2025-06-23T08:56:03.079Z",
         "index": 2,
         "winner": "01975f3a-4d84-72d9-a967-75165c523495"
       },
@@ -604,7 +604,7 @@
         "team2Name": "St Evarzec ",
         "_id": "01978871-5722-72aa-a810-57b7ee4e2d39",
         "created_at": "2025-06-19T13:46:58.722Z",
-        "updated_at": "2025-06-23T08:55:50.201Z",
+        "updated_at": "2025-06-23T08:56:03.092Z",
         "index": 3,
         "winner": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885"
       },
@@ -618,7 +618,7 @@
         "team2Name": "Quimper 29 B",
         "_id": "01978871-573d-77a3-babd-f2adddd254b0",
         "created_at": "2025-06-19T13:46:58.749Z",
-        "updated_at": "2025-06-23T08:55:50.209Z",
+        "updated_at": "2025-06-23T08:56:03.095Z",
         "index": 4,
         "winner": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885"
       },
@@ -632,7 +632,7 @@
         "team2Name": "Penn Sardin 1",
         "_id": "01978871-5758-7249-855d-e73bcf829de8",
         "created_at": "2025-06-19T13:46:58.776Z",
-        "updated_at": "2025-06-23T08:55:50.191Z",
+        "updated_at": "2025-06-23T08:56:03.082Z",
         "index": 5,
         "winner": "01975991-2a4c-76c1-91ca-ac89253589ba"
       },
@@ -646,7 +646,7 @@
         "team2Name": "Châteaulin 2",
         "_id": "01978871-5773-705b-9140-f1c407eb484a",
         "created_at": "2025-06-19T13:46:58.803Z",
-        "updated_at": "2025-06-23T08:55:50.213Z",
+        "updated_at": "2025-06-23T08:56:03.100Z",
         "index": 6,
         "winner": "01975991-2a4c-76c1-91ca-ac89253589ba"
       },
@@ -660,7 +660,7 @@
         "team2Name": "St Evarzec ",
         "_id": "01978871-579e-744c-88d8-6eee76ff00f9",
         "created_at": "2025-06-19T13:46:58.846Z",
-        "updated_at": "2025-06-23T08:55:50.216Z",
+        "updated_at": "2025-06-23T08:56:03.105Z",
         "index": 7,
         "winner": "01975991-2a4c-76c1-91ca-ac89253589ba"
       },
@@ -674,7 +674,7 @@
         "team2Name": "Quimper 29 B",
         "_id": "01978871-57a8-73fd-ba29-917c1574fb44",
         "created_at": "2025-06-19T13:46:58.856Z",
-        "updated_at": "2025-06-23T08:55:50.224Z",
+        "updated_at": "2025-06-23T08:56:03.110Z",
         "index": 8,
         "winner": "01975991-2a4c-76c1-91ca-ac89253589ba"
       },
@@ -688,7 +688,7 @@
         "team2Name": "Châteaulin 2",
         "_id": "01978871-57b3-761c-9e73-69e3dd2aee17",
         "created_at": "2025-06-19T13:46:58.867Z",
-        "updated_at": "2025-06-23T08:55:50.196Z",
+        "updated_at": "2025-06-23T08:56:03.087Z",
         "index": 9,
         "winner": "01975e42-7a2b-777c-bfbc-154a2438c0fc"
       },
@@ -702,7 +702,7 @@
         "team2Name": "St Evarzec ",
         "_id": "01978871-57c3-724c-997e-8c3236844b5e",
         "created_at": "2025-06-19T13:46:58.883Z",
-        "updated_at": "2025-06-23T08:55:50.234Z",
+        "updated_at": "2025-06-23T08:56:03.118Z",
         "index": 10,
         "winner": "01975e42-7a2b-777c-bfbc-154a2438c0fc"
       },
@@ -716,7 +716,7 @@
         "team2Name": "Quimper 29 B",
         "_id": "01978871-57e7-773f-b69d-79ed44da6761",
         "created_at": "2025-06-19T13:46:58.919Z",
-        "updated_at": "2025-06-23T08:55:50.240Z",
+        "updated_at": "2025-06-23T08:56:03.122Z",
         "index": 11,
         "winner": "01975e42-7a2b-777c-bfbc-154a2438c0fc"
       },
@@ -730,7 +730,7 @@
         "team2Name": "St Evarzec ",
         "_id": "01978871-57f3-76be-8e79-97c41f0f2936",
         "created_at": "2025-06-19T13:46:58.931Z",
-        "updated_at": "2025-06-23T08:55:50.245Z",
+        "updated_at": "2025-06-23T08:56:03.127Z",
         "index": 12,
         "winner": "01975f3a-4d84-72d9-a967-75165c523495"
       },
@@ -744,7 +744,7 @@
         "team2Name": "Quimper 29 B",
         "_id": "01978871-57ff-71dc-9da7-cfd6976a1281",
         "created_at": "2025-06-19T13:46:58.943Z",
-        "updated_at": "2025-06-23T08:55:50.249Z",
+        "updated_at": "2025-06-23T08:56:03.131Z",
         "index": 13,
         "winner": "01975f39-7ada-7748-9eed-ff57d304edd9"
       },
@@ -758,7 +758,7 @@
         "team2Name": "Quimper 29 B",
         "_id": "01978871-5808-7175-b7f9-e8d2c3cba96e",
         "created_at": "2025-06-19T13:46:58.952Z",
-        "updated_at": "2025-06-23T08:55:50.255Z",
+        "updated_at": "2025-06-23T08:56:03.135Z",
         "index": 14,
         "winner": "01975f3d-1677-725f-976e-6754fc6a5103"
       },
@@ -772,7 +772,7 @@
         "team2Name": "Carhaix",
         "_id": "01978871-585d-709f-a735-5769fa0f3445",
         "created_at": "2025-06-19T13:46:59.037Z",
-        "updated_at": "2025-06-23T08:55:50.260Z",
+        "updated_at": "2025-06-23T08:56:03.138Z",
         "index": 15,
         "winner": "01975e4e-5239-7138-ae20-ad0ae27a7a45"
       },
@@ -786,7 +786,7 @@
         "team2Name": "Thépot",
         "_id": "01978871-586b-735e-8c35-0bf89e610b31",
         "created_at": "2025-06-19T13:46:59.051Z",
-        "updated_at": "2025-06-23T08:55:50.264Z",
+        "updated_at": "2025-06-23T08:56:03.143Z",
         "index": 16,
         "winner": "01975e4e-5239-7138-ae20-ad0ae27a7a45"
       },
@@ -800,7 +800,7 @@
         "team2Name": "Gourin GVB / Scaër",
         "_id": "01978871-5880-725a-96e7-7d6ac2a70f63",
         "created_at": "2025-06-19T13:46:59.072Z",
-        "updated_at": "2025-06-23T08:55:50.272Z",
+        "updated_at": "2025-06-23T08:56:03.146Z",
         "index": 17,
         "winner": "01975f3f-7660-703d-84f2-6cf786909070"
       },
@@ -814,7 +814,7 @@
         "team2Name": "Ergué-Gabéric B",
         "_id": "01978871-5892-74a5-a851-5e06cc6bfbee",
         "created_at": "2025-06-19T13:46:59.090Z",
-        "updated_at": "2025-06-23T08:55:50.277Z",
+        "updated_at": "2025-06-23T08:56:03.150Z",
         "index": 18,
         "winner": "01975e4e-5239-7138-ae20-ad0ae27a7a45"
       },
@@ -828,7 +828,7 @@
         "team2Name": "Penn Sardin 2",
         "_id": "01978871-58a5-74ee-9f4d-0d2e8edae098",
         "created_at": "2025-06-19T13:46:59.109Z",
-        "updated_at": "2025-06-23T08:55:50.282Z",
+        "updated_at": "2025-06-23T08:56:03.155Z",
         "index": 19,
         "winner": "01975f3a-fb72-70bc-8d9c-3ce8e580811f"
       },
@@ -842,7 +842,7 @@
         "team2Name": "Thépot",
         "_id": "01978871-58e6-70a9-993b-5a370cce0d65",
         "created_at": "2025-06-19T13:46:59.174Z",
-        "updated_at": "2025-06-23T08:55:50.287Z",
+        "updated_at": "2025-06-23T08:56:03.160Z",
         "index": 20,
         "winner": "01975e15-f0ee-751d-b0ba-b3b8879b0705"
       },
@@ -856,7 +856,7 @@
         "team2Name": "Gourin GVB / Scaër",
         "_id": "01978871-58f9-725a-b2ef-2a26697bfd8a",
         "created_at": "2025-06-19T13:46:59.193Z",
-        "updated_at": "2025-06-23T08:55:50.292Z",
+        "updated_at": "2025-06-23T08:56:03.163Z",
         "index": 21,
         "winner": "01975f3f-7660-703d-84f2-6cf786909070"
       },
@@ -870,7 +870,7 @@
         "team2Name": "Ergué-Gabéric B",
         "_id": "01978871-593b-705c-b2c4-67b368ce31e4",
         "created_at": "2025-06-19T13:46:59.259Z",
-        "updated_at": "2025-06-23T08:55:50.299Z",
+        "updated_at": "2025-06-23T08:56:03.168Z",
         "index": 22,
         "winner": "01975f3e-55bf-77e9-b6ee-288b2f432cd7"
       },
@@ -884,7 +884,7 @@
         "team2Name": "Penn Sardin 2",
         "_id": "01978871-594c-762d-b378-86bb054669aa",
         "created_at": "2025-06-19T13:46:59.276Z",
-        "updated_at": "2025-06-23T08:55:50.306Z",
+        "updated_at": "2025-06-23T08:56:03.176Z",
         "index": 23,
         "winner": "01975992-8d82-72dd-8d57-e3d15a22e098"
       },
@@ -898,7 +898,7 @@
         "team2Name": "Gourin GVB / Scaër",
         "_id": "01978871-5995-71af-8389-fc277ea45f4a",
         "created_at": "2025-06-19T13:46:59.349Z",
-        "updated_at": "2025-06-23T08:55:50.310Z",
+        "updated_at": "2025-06-23T08:56:03.180Z",
         "index": 24,
         "winner": "01975e15-f0ee-751d-b0ba-b3b8879b0705"
       },
@@ -912,7 +912,7 @@
         "team2Name": "Ergué-Gabéric B",
         "_id": "01978871-59ba-7684-9c52-8f3e23adf44c",
         "created_at": "2025-06-19T13:46:59.387Z",
-        "updated_at": "2025-06-23T08:55:50.316Z",
+        "updated_at": "2025-06-23T08:56:03.184Z",
         "index": 25,
         "winner": "01975e15-f0ee-751d-b0ba-b3b8879b0705"
       },
@@ -926,7 +926,7 @@
         "team2Name": "Penn Sardin 2",
         "_id": "01978871-59db-70bc-81af-0b021e0088fd",
         "created_at": "2025-06-19T13:46:59.419Z",
-        "updated_at": "2025-06-23T08:55:50.321Z",
+        "updated_at": "2025-06-23T08:56:03.188Z",
         "index": 26,
         "winner": "01975e15-f0ee-751d-b0ba-b3b8879b0705"
       },
@@ -940,7 +940,7 @@
         "team2Name": "Ergué-Gabéric B",
         "_id": "01978871-59ef-766a-b423-527056acedf1",
         "created_at": "2025-06-19T13:46:59.439Z",
-        "updated_at": "2025-06-23T08:55:50.326Z",
+        "updated_at": "2025-06-23T08:56:03.193Z",
         "index": 27,
         "winner": "01975f3f-7660-703d-84f2-6cf786909070"
       },
@@ -954,7 +954,7 @@
         "team2Name": "Penn Sardin 2",
         "_id": "01978871-5a06-774c-be03-3fbd1be1dbce",
         "created_at": "2025-06-19T13:46:59.462Z",
-        "updated_at": "2025-06-23T08:55:50.404Z",
+        "updated_at": "2025-06-23T08:56:03.261Z",
         "index": 28,
         "winner": "01975f3f-7660-703d-84f2-6cf786909070"
       },
@@ -968,7 +968,7 @@
         "team2Name": "Penn Sardin 2",
         "_id": "01978871-5a9c-74a9-ab59-e5f1cf196441",
         "created_at": "2025-06-19T13:46:59.612Z",
-        "updated_at": "2025-06-23T08:55:50.408Z",
+        "updated_at": "2025-06-23T08:56:03.266Z",
         "index": 29,
         "winner": "01975f3e-55bf-77e9-b6ee-288b2f432cd7"
       },
@@ -982,7 +982,7 @@
         "team2Name": "Kervao Bar",
         "_id": "01978871-5b1c-733f-91d2-b80548d5840e",
         "created_at": "2025-06-19T13:46:59.740Z",
-        "updated_at": "2025-06-23T08:55:50.419Z",
+        "updated_at": "2025-06-23T08:56:03.279Z",
         "index": 30,
         "winner": "01975f3b-a7e6-711a-8a67-ae113f91fc91"
       },
@@ -996,7 +996,7 @@
         "team2Name": "Fouesnant 1",
         "_id": "01978871-5b4f-765b-b53b-a66ec8c383b6",
         "created_at": "2025-06-19T13:46:59.791Z",
-        "updated_at": "2025-06-23T08:55:50.424Z",
+        "updated_at": "2025-06-23T08:56:03.285Z",
         "index": 31,
         "winner": "01975f3b-a7e6-711a-8a67-ae113f91fc91"
       },
@@ -1010,7 +1010,7 @@
         "team2Name": "PLONESCAF",
         "_id": "01978871-5b78-71d4-b4a9-362b29466093",
         "created_at": "2025-06-19T13:46:59.832Z",
-        "updated_at": "2025-06-23T08:55:50.429Z",
+        "updated_at": "2025-06-23T08:56:03.292Z",
         "index": 32,
         "winner": "01975f3b-a7e6-711a-8a67-ae113f91fc91"
       },
@@ -1024,7 +1024,7 @@
         "team2Name": "Cap Sizun",
         "_id": "01978871-5b9c-7262-95e6-0b459b848e8f",
         "created_at": "2025-06-19T13:46:59.868Z",
-        "updated_at": "2025-06-23T08:55:50.433Z",
+        "updated_at": "2025-06-23T08:56:03.296Z",
         "index": 33,
         "winner": "01975f3b-a7e6-711a-8a67-ae113f91fc91"
       },
@@ -1038,7 +1038,7 @@
         "team2Name": "Fouesnant 2",
         "_id": "01978871-5be9-7132-a5b1-e536fb422035",
         "created_at": "2025-06-19T13:46:59.945Z",
-        "updated_at": "2025-06-23T08:55:50.441Z",
+        "updated_at": "2025-06-23T08:56:03.300Z",
         "index": 34,
         "winner": "01975f3b-a7e6-711a-8a67-ae113f91fc91"
       },
@@ -1052,7 +1052,7 @@
         "team2Name": "Fouesnant 1",
         "_id": "01978871-5c42-744c-8a54-bcce9369c2b6",
         "created_at": "2025-06-19T13:47:00.034Z",
-        "updated_at": "2025-06-23T08:55:50.444Z",
+        "updated_at": "2025-06-23T08:56:03.305Z",
         "index": 35,
         "winner": "01975e10-9fea-726b-a4f8-6842dd1c0381"
       },
@@ -1066,7 +1066,7 @@
         "team2Name": "PLONESCAF",
         "_id": "01978871-5c68-74ec-9e51-f20f9471cc2b",
         "created_at": "2025-06-19T13:47:00.072Z",
-        "updated_at": "2025-06-23T08:55:50.448Z",
+        "updated_at": "2025-06-23T08:56:03.310Z",
         "index": 36,
         "winner": "01975e54-2296-77ea-9344-b2c2d89c0645"
       },
@@ -1080,7 +1080,7 @@
         "team2Name": "Cap Sizun",
         "_id": "01978871-5c95-76ab-a244-c1b26c2b3ee0",
         "created_at": "2025-06-19T13:47:00.117Z",
-        "updated_at": "2025-06-23T08:55:50.458Z",
+        "updated_at": "2025-06-23T08:56:03.319Z",
         "index": 37,
         "winner": "01975e10-9fea-726b-a4f8-6842dd1c0381"
       },
@@ -1094,7 +1094,7 @@
         "team2Name": "Fouesnant 2",
         "_id": "01978871-5cae-756b-b835-6a97b529a36d",
         "created_at": "2025-06-19T13:47:00.142Z",
-        "updated_at": "2025-06-23T08:55:50.461Z",
+        "updated_at": "2025-06-23T08:56:03.325Z",
         "index": 38,
         "winner": "01975f32-f293-726e-a5a5-dfc0e2121587"
       },
@@ -1108,7 +1108,7 @@
         "team2Name": "PLONESCAF",
         "_id": "01978871-5cef-75f3-ae2d-86da1e8f707b",
         "created_at": "2025-06-19T13:47:00.207Z",
-        "updated_at": "2025-06-23T08:55:50.465Z",
+        "updated_at": "2025-06-23T08:56:03.331Z",
         "index": 39,
         "winner": "01975e54-2296-77ea-9344-b2c2d89c0645"
       },
@@ -1122,9 +1122,9 @@
         "team2Name": "Cap Sizun",
         "_id": "01978871-5d1c-73e3-b4a6-a26bf17617c1",
         "created_at": "2025-06-19T13:47:00.252Z",
-        "updated_at": "2025-06-23T08:55:50.958Z",
+        "updated_at": "2025-06-23T08:56:03.336Z",
         "index": 40,
-        "winner": "Cap Sizun"
+        "winner": "01975f34-337b-7560-88b8-d3c332843a77"
       },
       {
         "team1": "01975e41-7858-7669-bab1-dfe9dc76229e",
@@ -1136,8 +1136,9 @@
         "team2Name": "Fouesnant 2",
         "_id": "01978871-5d42-751a-9c0d-31791bb6a843",
         "created_at": "2025-06-19T13:47:00.290Z",
-        "updated_at": "2025-06-19T13:47:00.290Z",
-        "index": 41
+        "updated_at": "2025-06-23T08:56:03.759Z",
+        "index": 41,
+        "winner": "Fouesnant 1"
       },
       {
         "team1": "01975e54-2296-77ea-9344-b2c2d89c0645",
@@ -1386,7 +1387,7 @@
         "winner": "01975991-2a4c-76c1-91ca-ac89253589ba",
         "_id": "7b9a37cd-c519-4a5f-954e-7f406774e803",
         "created_at": "2025-06-20T13:01:12.764Z",
-        "updated_at": "2025-06-23T08:55:50.343Z",
+        "updated_at": "2025-06-23T08:56:03.206Z",
         "index": 60
       },
       {
@@ -1402,7 +1403,7 @@
         "winner": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
         "_id": "b910ff4b-cbe4-4884-88a3-b2c2cb402a4f",
         "created_at": "2025-06-20T13:01:12.770Z",
-        "updated_at": "2025-06-23T08:55:50.331Z",
+        "updated_at": "2025-06-23T08:56:03.197Z",
         "index": 61
       },
       {
@@ -1418,7 +1419,7 @@
         "winner": "01975f39-7ada-7748-9eed-ff57d304edd9",
         "_id": "55305bc9-4847-46c1-b347-6168f578f50d",
         "created_at": "2025-06-20T13:01:12.776Z",
-        "updated_at": "2025-06-23T08:55:50.353Z",
+        "updated_at": "2025-06-23T08:56:03.215Z",
         "index": 62
       },
       {
@@ -1434,7 +1435,7 @@
         "winner": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
         "_id": "7190563c-f222-4fc1-a705-e29e735b238d",
         "created_at": "2025-06-20T13:01:12.781Z",
-        "updated_at": "2025-06-23T08:55:50.363Z",
+        "updated_at": "2025-06-23T08:56:03.224Z",
         "index": 63
       },
       {
@@ -1450,7 +1451,7 @@
         "winner": "01975991-2a4c-76c1-91ca-ac89253589ba",
         "_id": "c874e7e8-6239-4581-8e8f-ff861baa3b20",
         "created_at": "2025-06-20T13:01:12.786Z",
-        "updated_at": "2025-06-23T08:55:50.374Z",
+        "updated_at": "2025-06-23T08:56:03.232Z",
         "index": 64
       },
       {
@@ -1466,7 +1467,7 @@
         "winner": "01975f39-7ada-7748-9eed-ff57d304edd9",
         "_id": "91bff03c-a0e9-4342-899b-99860eb693c1",
         "created_at": "2025-06-20T13:01:12.791Z",
-        "updated_at": "2025-06-23T08:55:50.382Z",
+        "updated_at": "2025-06-23T08:56:03.240Z",
         "index": 65
       },
       {
@@ -1482,13 +1483,13 @@
         "winner": "01975f39-7ada-7748-9eed-ff57d304edd9",
         "_id": "eb48a640-738e-433b-ad2e-145bd17416c4",
         "created_at": "2025-06-20T13:01:12.800Z",
-        "updated_at": "2025-06-23T08:55:50.399Z",
+        "updated_at": "2025-06-23T08:56:03.258Z",
         "index": 66
       }
     ],
     "metadata": {
       "created_at": "2025-06-19T10:47:53.579Z",
-      "updated_at": "2025-06-23T08:55:50.958Z"
+      "updated_at": "2025-06-23T08:56:03.759Z"
     }
   },
   "tournament_results": {
@@ -1998,11 +1999,20 @@
         "_id": "01979c00-3a56-702e-835a-c7679c3513d7",
         "created_at": "2025-06-23T08:55:50.105Z",
         "updated_at": "2025-06-23T08:55:50.105Z"
+      },
+      {
+        "matchId": "01978871-5d42-751a-9c0d-31791bb6a843",
+        "score1": 3,
+        "score2": 1,
+        "stats": "",
+        "_id": "01979c00-6cd4-709a-a5c1-751ff8478664",
+        "created_at": "2025-06-23T08:56:03.028Z",
+        "updated_at": "2025-06-23T08:56:03.028Z"
       }
     ],
     "metadata": {
       "created_at": "2025-06-19T10:51:49.416Z",
-      "updated_at": "2025-06-23T08:55:50.105Z"
+      "updated_at": "2025-06-23T08:56:03.028Z"
     }
   },
   "tournament_ranking": {
@@ -2662,10 +2672,10 @@
             "points": 3,
             "wins": 1,
             "draws": 0,
-            "losses": 1,
-            "goalsFor": 4,
-            "goalsAgainst": 4,
-            "goalDifference": 0,
+            "losses": 2,
+            "goalsFor": 5,
+            "goalsAgainst": 7,
+            "goalDifference": -2,
             "rank": 4
           },
           {
@@ -2681,6 +2691,18 @@
             "rank": 5
           },
           {
+            "_id": "01975e41-7858-7669-bab1-dfe9dc76229e",
+            "teamName": "Fouesnant 1",
+            "points": 3,
+            "wins": 1,
+            "draws": 0,
+            "losses": 4,
+            "goalsFor": 7,
+            "goalsAgainst": 13,
+            "goalDifference": -6,
+            "rank": 6
+          },
+          {
             "_id": "01975991-2a4c-76c1-91ca-ac89253589ba",
             "teamName": "PLUGUFFAN",
             "points": 0,
@@ -2690,7 +2712,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 6
+            "rank": 7
           },
           {
             "_id": "01975992-8d82-72dd-8d57-e3d15a22e098",
@@ -2702,7 +2724,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 7
+            "rank": 8
           },
           {
             "_id": "01975e15-f0ee-751d-b0ba-b3b8879b0705",
@@ -2714,7 +2736,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 8
+            "rank": 9
           },
           {
             "_id": "01975e42-7a2b-777c-bfbc-154a2438c0fc",
@@ -2726,7 +2748,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 9
+            "rank": 10
           },
           {
             "_id": "01975e4e-5239-7138-ae20-ad0ae27a7a45",
@@ -2738,7 +2760,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 10
+            "rank": 11
           },
           {
             "_id": "01975f28-df01-71f4-9994-812f535882b5",
@@ -2750,7 +2772,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 11
+            "rank": 12
           },
           {
             "_id": "01975f30-aa01-7173-81b7-3bd458a6ebe1",
@@ -2762,7 +2784,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 12
+            "rank": 13
           },
           {
             "_id": "01975f31-8081-71fd-a429-0b8b5e682397",
@@ -2774,7 +2796,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 13
+            "rank": 14
           },
           {
             "_id": "01975f32-2d8c-7325-9047-d9ddfc77a343",
@@ -2786,7 +2808,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 14
+            "rank": 15
           },
           {
             "_id": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
@@ -2798,7 +2820,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 15
+            "rank": 16
           },
           {
             "_id": "01975f37-d18b-769f-bbe4-590556c22841",
@@ -2810,7 +2832,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 16
+            "rank": 17
           },
           {
             "_id": "01975f39-7ada-7748-9eed-ff57d304edd9",
@@ -2822,7 +2844,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 17
+            "rank": 18
           },
           {
             "_id": "01975f3a-4d84-72d9-a967-75165c523495",
@@ -2834,7 +2856,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 18
+            "rank": 19
           },
           {
             "_id": "01975f3a-fb72-70bc-8d9c-3ce8e580811f",
@@ -2846,7 +2868,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 19
+            "rank": 20
           },
           {
             "_id": "01975f3d-1677-725f-976e-6754fc6a5103",
@@ -2858,7 +2880,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 20
+            "rank": 21
           },
           {
             "_id": "01975f3d-c8d9-71a2-9f23-2bb8a9fd2885",
@@ -2870,7 +2892,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 21
+            "rank": 22
           },
           {
             "_id": "01975f3e-55bf-77e9-b6ee-288b2f432cd7",
@@ -2882,7 +2904,7 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 22
+            "rank": 23
           },
           {
             "_id": "01975f3f-7660-703d-84f2-6cf786909070",
@@ -2894,18 +2916,6 @@
             "goalsFor": 0,
             "goalsAgainst": 0,
             "goalDifference": 0,
-            "rank": 23
-          },
-          {
-            "_id": "01975e41-7858-7669-bab1-dfe9dc76229e",
-            "teamName": "Fouesnant 1",
-            "points": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 4,
-            "goalsFor": 4,
-            "goalsAgainst": 12,
-            "goalDifference": -8,
             "rank": 24
           }
         ]
