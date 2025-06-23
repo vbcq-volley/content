@@ -1,6 +1,6 @@
 ---
 title: Équipe Châteaulin 1
-date: 2025-06-20T13:40:00.886Z
+date: 2025-06-23T09:46:55.684Z
 layout: team
 ---
 

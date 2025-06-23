@@ -1,6 +1,6 @@
 ---
 title: Équipe PLONESCAF
-date: 2025-06-20T13:40:00.946Z
+date: 2025-06-23T09:46:55.763Z
 layout: team
 ---
 
