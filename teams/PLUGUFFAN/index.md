@@ -1,6 +1,6 @@
 ---
 title: Équipe PLUGUFFAN
-date: 2025-06-23T11:34:17.182Z
+date: 2025-06-23T11:35:21.514Z
 layout: team
 ---
 
