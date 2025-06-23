@@ -7,7 +7,7 @@
 		<link>http://example.com</link>
 		<description></description>
 		<language>fr</language>
-		<lastBuildDate>2025-06-23T14:07:56.769Z</lastBuildDate>
+		<lastBuildDate>2025-06-23T14:13:21.989Z</lastBuildDate>
 		<pubDate>2025-06-23T13:37:22.308Z</pubDate>
 		<ttl>1800</ttl>
     <image>
@@ -41,6 +41,52 @@
 			<guid>http://example.com/category/</guid>
 		</item>
 		<item>
+			<title>groupe_1</title>
+			<link>http://example.com/groupe-1/</link>
+			<description>groupe_1</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.826Z</pubDate>
+			<guid>http://example.com/groupe-1/</guid>
+		</item>
+		<item>
+			<title>groupe_2</title>
+			<link>http://example.com/groupe-2/</link>
+			<description>groupe_2</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.838Z</pubDate>
+			<guid>http://example.com/groupe-2/</guid>
+		</item>
+		<item>
+			<title>groupe_3</title>
+			<link>http://example.com/groupe-3/</link>
+			<description>groupe_3</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.842Z</pubDate>
+			<guid>http://example.com/groupe-3/</guid>
+		</item>
+		<item>
+			<title>notice d&#x27;usage utilisateur final</title>
+			<link>http://example.com/notice-d-usage-utilisateur-final/</link>
+			<description>notice d&#x26;#x27;usage utilisateur final</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-12T13:13:01.000Z</pubDate>
+			<guid>http://example.com/notice-d-usage-utilisateur-final/</guid>
+		</item>
+		<item>
+			<title>Stades</title>
+			<link>http://example.com/stades/</link>
+			<description>Stades</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-23T10:13:21.856Z</pubDate>
+			<guid>http://example.com/stades/</guid>
+		</item>
+		<item>
 			<title>condition d&#x27;utilisation</title>
 			<link>http://example.com/condition-d-utilisation/</link>
 			<description>condition d&#x26;#x27;utilisation</description>
@@ -57,34 +103,24 @@
 			<guid>http://example.com/contact/</guid>
 		</item>
 		<item>
-			<title>groupe_1</title>
-			<link>http://example.com/groupe-1/</link>
-			<description>groupe_1</description>
+			<title>&#xC9;quipe Cap Sizun</title>
+			<link>http://example.com/teams/Cap-Sizun/</link>
+			<description>&#x26;#xC9;quipe Cap Sizun</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:55.468Z</pubDate>
-			<guid>http://example.com/groupe-1/</guid>
+			<pubDate>2025-06-23T10:13:21.987Z</pubDate>
+			<guid>http://example.com/teams/Cap-Sizun/</guid>
 		</item>
 		<item>
-			<title>groupe_3</title>
-			<link>http://example.com/groupe-3/</link>
-			<description>groupe_3</description>
+			<title>&#xC9;quipe Carhaix</title>
+			<link>http://example.com/teams/Carhaix/</link>
+			<description>&#x26;#xC9;quipe Carhaix</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:55.588Z</pubDate>
-			<guid>http://example.com/groupe-3/</guid>
-		</item>
-		<item>
-			<title>groupe_2</title>
-			<link>http://example.com/groupe-2/</link>
-			<description>groupe_2</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<category></category>
-			<pubDate>2025-06-23T10:07:55.588Z</pubDate>
-			<guid>http://example.com/groupe-2/</guid>
+			<pubDate>2025-06-23T10:13:21.973Z</pubDate>
+			<guid>http://example.com/teams/Carhaix/</guid>
 		</item>
 		<item>
 			<title>mention legale</title>
@@ -95,20 +131,14 @@
 			<guid>http://example.com/mention-legale/</guid>
 		</item>
 		<item>
-			<title>notice d&#x27;usage utilisateur final</title>
-			<link>http://example.com/notice-d-usage-utilisateur-final/</link>
-			<description>notice d&#x26;#x27;usage utilisateur final</description>
+			<title>&#xC9;quipe Ch&#xE2;teaulin 1</title>
+			<link>http://example.com/teams/Ch%C3%A2teaulin-1/</link>
+			<description>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 1</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-12T13:13:01.000Z</pubDate>
-			<guid>http://example.com/notice-d-usage-utilisateur-final/</guid>
-		</item>
-		<item>
-			<title>Stades</title>
-			<link>http://example.com/stades/</link>
-			<description>Stades</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-23T10:07:56.771Z</pubDate>
-			<guid>http://example.com/stades/</guid>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.979Z</pubDate>
+			<guid>http://example.com/teams/Ch%C3%A2teaulin-1/</guid>
 		</item>
 		<item>
 			<title>Tournois</title>
@@ -119,62 +149,13 @@
 			<guid>http://example.com/tournois/</guid>
 		</item>
 		<item>
-			<title>Carhaix</title>
-			<link>http://example.com/stades/Carhaix/</link>
-			<description>Carhaix</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<pubDate>2025-06-23T10:07:56.768Z</pubDate>
-			<guid>http://example.com/stades/Carhaix/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe Cap Sizun</title>
-			<link>http://example.com/teams/Cap-Sizun/</link>
-			<description>&#x26;#xC9;quipe Cap Sizun</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<category></category>
-			<pubDate>2025-06-23T10:07:56.475Z</pubDate>
-			<guid>http://example.com/teams/Cap-Sizun/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe Carhaix</title>
-			<link>http://example.com/teams/Carhaix/</link>
-			<description>&#x26;#xC9;quipe Carhaix</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<category></category>
-			<pubDate>2025-06-23T10:07:55.906Z</pubDate>
-			<guid>http://example.com/teams/Carhaix/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe Ch&#xE2;teaulin 1</title>
-			<link>http://example.com/teams/Ch%C3%A2teaulin-1/</link>
-			<description>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 1</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<category></category>
-			<pubDate>2025-06-23T10:07:56.073Z</pubDate>
-			<guid>http://example.com/teams/Ch%C3%A2teaulin-1/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe Ch&#xE2;teaulin 2</title>
-			<link>http://example.com/teams/Ch%C3%A2teaulin-2/</link>
-			<description>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 2</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<category></category>
-			<pubDate>2025-06-23T10:07:56.558Z</pubDate>
-			<guid>http://example.com/teams/Ch%C3%A2teaulin-2/</guid>
-		</item>
-		<item>
 			<title>&#xC9;quipe Concarneau 1</title>
 			<link>http://example.com/teams/Concarneau-1/</link>
 			<description>&#x26;#xC9;quipe Concarneau 1</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.402Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.984Z</pubDate>
 			<guid>http://example.com/teams/Concarneau-1/</guid>
 		</item>
 		<item>
@@ -184,28 +165,18 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.680Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.993Z</pubDate>
 			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-A/</guid>
 		</item>
 		<item>
-			<title>&#xC9;quipe Ergu&#xE9;-Gab&#xE9;ric B</title>
-			<link>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</link>
-			<description>&#x26;#xC9;quipe Ergu&#x26;#xE9;-Gab&#x26;#xE9;ric B</description>
+			<title>&#xC9;quipe Ch&#xE2;teaulin 2</title>
+			<link>http://example.com/teams/Ch%C3%A2teaulin-2/</link>
+			<description>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 2</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.701Z</pubDate>
-			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe Fouesnant 1</title>
-			<link>http://example.com/teams/Fouesnant-1/</link>
-			<description>&#x26;#xC9;quipe Fouesnant 1</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<category></category>
-			<pubDate>2025-06-23T10:07:55.931Z</pubDate>
-			<guid>http://example.com/teams/Fouesnant-1/</guid>
+			<pubDate>2025-06-23T10:13:21.990Z</pubDate>
+			<guid>http://example.com/teams/Ch%C3%A2teaulin-2/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Fouesnant 2</title>
@@ -214,8 +185,18 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.446Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.986Z</pubDate>
 			<guid>http://example.com/teams/Fouesnant-2/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Fouesnant 1</title>
+			<link>http://example.com/teams/Fouesnant-1/</link>
+			<description>&#x26;#xC9;quipe Fouesnant 1</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.977Z</pubDate>
+			<guid>http://example.com/teams/Fouesnant-1/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Fouesnant 3</title>
@@ -224,18 +205,18 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.606Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.992Z</pubDate>
 			<guid>http://example.com/teams/Fouesnant-3/</guid>
 		</item>
 		<item>
-			<title>&#xC9;quipe Kemperle 1</title>
-			<link>http://example.com/teams/Kemperle-1/</link>
-			<description>&#x26;#xC9;quipe Kemperle 1</description>
+			<title>&#xC9;quipe Ergu&#xE9;-Gab&#xE9;ric B</title>
+			<link>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</link>
+			<description>&#x26;#xC9;quipe Ergu&#x26;#xE9;-Gab&#x26;#xE9;ric B</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.415Z</pubDate>
-			<guid>http://example.com/teams/Kemperle-1/</guid>
+			<pubDate>2025-06-23T10:13:21.994Z</pubDate>
+			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Kemperle 2</title>
@@ -244,8 +225,18 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.380Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.983Z</pubDate>
 			<guid>http://example.com/teams/Kemperle-2/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Kemperle 1</title>
+			<link>http://example.com/teams/Kemperle-1/</link>
+			<description>&#x26;#xC9;quipe Kemperle 1</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.986Z</pubDate>
+			<guid>http://example.com/teams/Kemperle-1/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Kervao Bar</title>
@@ -254,7 +245,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:55.912Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.974Z</pubDate>
 			<guid>http://example.com/teams/Kervao-Bar/</guid>
 		</item>
 		<item>
@@ -264,18 +255,8 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.270Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.981Z</pubDate>
 			<guid>http://example.com/teams/PLONESCAF/</guid>
-		</item>
-		<item>
-			<title>&#xC9;quipe PLUGUFFAN</title>
-			<link>http://example.com/teams/PLUGUFFAN/</link>
-			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<category></category>
-			<category></category>
-			<pubDate>2025-06-23T10:07:55.714Z</pubDate>
-			<guid>http://example.com/teams/PLUGUFFAN/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Penn Sardin 1</title>
@@ -284,7 +265,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:55.938Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.978Z</pubDate>
 			<guid>http://example.com/teams/Penn-Sardin-1/</guid>
 		</item>
 		<item>
@@ -294,7 +275,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.579Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.991Z</pubDate>
 			<guid>http://example.com/teams/Penn-Sardin-2/</guid>
 		</item>
 		<item>
@@ -304,7 +285,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.496Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.988Z</pubDate>
 			<guid>http://example.com/teams/Plon%C3%A9our-/</guid>
 		</item>
 		<item>
@@ -314,7 +295,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.513Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.989Z</pubDate>
 			<guid>http://example.com/teams/Quimper-29-A/</guid>
 		</item>
 		<item>
@@ -324,7 +305,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.535Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.990Z</pubDate>
 			<guid>http://example.com/teams/Quimper-29-B/</guid>
 		</item>
 		<item>
@@ -334,7 +315,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.647Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.993Z</pubDate>
 			<guid>http://example.com/teams/St-Evarzec-/</guid>
 		</item>
 		<item>
@@ -344,7 +325,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:55.923Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.976Z</pubDate>
 			<guid>http://example.com/teams/Th%C3%A9pot/</guid>
 		</item>
 		<item>
@@ -354,8 +335,17 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.372Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.982Z</pubDate>
 			<guid>http://example.com/teams/USB/</guid>
+		</item>
+		<item>
+			<title>Carhaix</title>
+			<link>http://example.com/stades/Carhaix/</link>
+			<description>Carhaix</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.852Z</pubDate>
+			<guid>http://example.com/stades/Carhaix/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Gourin GVB / Sca&#xEB;r</title>
@@ -364,8 +354,18 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-23T10:07:56.720Z</pubDate>
+			<pubDate>2025-06-23T10:13:21.995Z</pubDate>
 			<guid>http://example.com/teams/Gourin-GVB-/-Sca%C3%ABr/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe PLUGUFFAN</title>
+			<link>http://example.com/teams/PLUGUFFAN/</link>
+			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-23T10:13:21.958Z</pubDate>
+			<guid>http://example.com/teams/PLUGUFFAN/</guid>
 		</item>
 	</channel>
 </rss>

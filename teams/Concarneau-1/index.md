@@ -2,7 +2,7 @@
 
 title: Équipe Concarneau 1
 
-date: 2025-06-23T12:12:11.257Z
+date: 2025-06-23T12:13:38.646Z
 
 layout: team
 
