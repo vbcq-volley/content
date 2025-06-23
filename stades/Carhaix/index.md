@@ -1,6 +1,6 @@
 ---
 title: Carhaix
-date: 2025-06-23T11:42:42.068Z
+date: 2025-06-23T11:43:44.805Z
 layout: stade
 categories:
   - stade
