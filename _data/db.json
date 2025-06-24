@@ -105,11 +105,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976852-17b2-77ef-932c-94a53de73214",
         "created_at": "2025-06-13T08:04:59.973Z",
-<<<<<<< HEAD
         "updated_at": "2025-06-24T08:14:54.529Z",
-=======
-        "updated_at": "2025-06-24T07:37:03.328Z",
->>>>>>> Mise à jour automatique des fichiers
         "index": 0
       },
       {
@@ -128,11 +124,7 @@
         "date": "23/06/2025 20:30",
         "_id": "01976852-55e2-753e-91b3-04fcaf80da6f",
         "created_at": "2025-06-13T08:05:15.874Z",
-<<<<<<< HEAD
         "updated_at": "2025-06-24T08:14:54.532Z",
-=======
-        "updated_at": "2025-06-24T07:37:03.343Z",
->>>>>>> Mise à jour automatique des fichiers
         "index": 1
       },
       {
@@ -151,11 +143,7 @@
         "date": "16/06/2025 20:30",
         "_id": "01976864-401d-702a-bce8-12ed878ab69e",
         "created_at": "2025-06-13T08:24:49.951Z",
-<<<<<<< HEAD
         "updated_at": "2025-06-24T08:14:54.553Z",
-=======
-        "updated_at": "2025-06-24T07:37:03.357Z",
->>>>>>> Mise à jour automatique des fichiers
         "index": 2
       },
       {
@@ -174,11 +162,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976864-76d8-777c-ab18-3c8b2426aa40",
         "created_at": "2025-06-13T08:25:03.960Z",
-<<<<<<< HEAD
         "updated_at": "2025-06-24T08:14:54.568Z",
-=======
-        "updated_at": "2025-06-24T07:37:03.362Z",
->>>>>>> Mise à jour automatique des fichiers
         "index": 3
       },
       {
@@ -197,11 +181,7 @@
         "date": "30/06/2025 20:30",
         "_id": "01976988-39e5-76e9-bd59-483b167d8456",
         "created_at": "2025-06-13T13:43:44.871Z",
-<<<<<<< HEAD
         "updated_at": "2025-06-24T08:14:54.584Z",
-=======
-        "updated_at": "2025-06-24T07:37:03.369Z",
->>>>>>> Mise à jour automatique des fichiers
         "index": 4
       },
       {
@@ -220,21 +200,13 @@
         "date": "07/07/2025 20:30",
         "_id": "01976988-fac1-726b-98fb-3f0b4d3a8165",
         "created_at": "2025-06-13T13:44:34.241Z",
-<<<<<<< HEAD
         "updated_at": "2025-06-24T08:14:54.601Z",
-=======
-        "updated_at": "2025-06-24T07:37:03.375Z",
->>>>>>> Mise à jour automatique des fichiers
         "index": 5
       }
     ],
     "metadata": {
       "created_at": "2025-06-10T11:17:35.789Z",
-<<<<<<< HEAD
       "updated_at": "2025-06-24T08:14:54.601Z"
-=======
-      "updated_at": "2025-06-24T07:37:03.375Z"
->>>>>>> Mise à jour automatique des fichiers
     }
   },
   "team": {
@@ -1374,9 +1346,8 @@
         "team2Name": "Kemperle 1",
         "_id": "01978871-5ef4-734a-8d2b-05b461abc05b",
         "created_at": "2025-06-19T13:47:00.724Z",
-        "updated_at": "2025-06-23T09:37:08.814Z",
-        "index": 56,
-        "winner": "Plonéour "
+        "updated_at": "2025-06-19T13:47:00.724Z",
+        "index": 56
       },
       {
         "team1": "01975f37-d18b-769f-bbe4-590556c22841",
@@ -2210,7 +2181,7 @@
     ],
     "metadata": {
       "created_at": "2025-06-19T10:51:49.416Z",
-      "updated_at": "2025-06-23T09:37:06.846Z"
+      "updated_at": "2025-06-23T09:09:31.841Z"
     }
   },
   "tournament_ranking": {
@@ -3148,13 +3119,13 @@
           {
             "_id": "01975f36-ad03-71d2-b721-49ac4b8c3eb5",
             "teamName": "Plonéour ",
-            "points": 9,
-            "wins": 3,
+            "points": 6,
+            "wins": 2,
             "draws": 0,
             "losses": 2,
-            "goalsFor": 11,
-            "goalsAgainst": 11,
-            "goalDifference": 0,
+            "goalsFor": 8,
+            "goalsAgainst": 10,
+            "goalDifference": -2,
             "rank": 3
           },
           {
@@ -3386,6 +3357,18 @@
             "rank": 22
           },
           {
+            "_id": "01975f32-2d8c-7325-9047-d9ddfc77a343",
+            "teamName": "Kemperle 1",
+            "points": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 2,
+            "goalsFor": 2,
+            "goalsAgainst": 6,
+            "goalDifference": -4,
+            "rank": 23
+          },
+          {
             "_id": "01975f37-d18b-769f-bbe4-590556c22841",
             "teamName": "Quimper 29 A",
             "points": 0,
@@ -3394,18 +3377,6 @@
             "losses": 4,
             "goalsFor": 6,
             "goalsAgainst": 12,
-            "goalDifference": -6,
-            "rank": 23
-          },
-          {
-            "_id": "01975f32-2d8c-7325-9047-d9ddfc77a343",
-            "teamName": "Kemperle 1",
-            "points": 0,
-            "wins": 0,
-            "draws": 0,
-            "losses": 3,
-            "goalsFor": 3,
-            "goalsAgainst": 9,
             "goalDifference": -6,
             "rank": 24
           }
