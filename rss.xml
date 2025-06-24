@@ -53,28 +53,21 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.907Z</pubDate>
-<<<<<<< HEAD
-=======
-			<pubDate>2025-06-24T10:48:26.907Z</pubDate>
->>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/groupe-3/</guid>
 		</item>
 		<item>
 			<title>notice d&#x27;usage utilisateur final</title>
 			<link>http://example.com/notice-d-usage-utilisateur-final/</link>
 			<description>notice d&#x26;#x27;usage utilisateur final</description>
-<<<<<<< HEAD
-=======
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-12T13:13:01.000Z</pubDate>
-			<guid>http://example.com/notice-d-usage-utilisateur-final/</guid>
+			<pubDate>2025-06-16T13:05:23.000Z</pubDate>
+			<guid>http://example.com/condition-d-utilisation/</guid>
 		</item>
 		<item>
-			<title>Stades</title>
-			<link>http://example.com/stades/</link>
-			<description>Stades</description>
+			<title>contact</title>
+			<link>http://example.com/contact/</link>
+			<description>contact</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-24T10:48:26.754Z</pubDate>
 			<pubDate>2025-06-24T10:48:26.754Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
@@ -99,61 +92,6 @@
 			<link>http://example.com/mention-legale/</link>
 			<description>mention legale</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-16T07:46:15.000Z</pubDate>
-			<guid>http://example.com/mention-legale/</guid>
-		</item>
-		<item>
-			<title>groupe_2</title>
-			<link>http://example.com/groupe-2/</link>
-			<description>groupe_2</description>
-			<title>condition d&#x27;utilisation</title>
-			<link>http://example.com/condition-d-utilisation/</link>
-			<description>condition d&#x26;#x27;utilisation</description>
->>>>>>> Mise à jour automatique des fichiers
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-16T13:05:23.000Z</pubDate>
-			<guid>http://example.com/condition-d-utilisation/</guid>
-		</item>
-		<item>
-			<title>contact</title>
-			<link>http://example.com/contact/</link>
-			<description>contact</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-<<<<<<< HEAD
-			<pubDate>2025-06-24T10:48:26.754Z</pubDate>
-			<guid>http://example.com/stades/</guid>
-		</item>
-		<item>
-			<title>condition d&#x27;utilisation</title>
-			<link>http://example.com/condition-d-utilisation/</link>
-			<description>condition d&#x26;#x27;utilisation</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-16T13:05:23.000Z</pubDate>
-			<guid>http://example.com/condition-d-utilisation/</guid>
-		</item>
-		<item>
-			<title>contact</title>
-			<link>http://example.com/contact/</link>
-			<description>contact</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-16T12:50:19.000Z</pubDate>
-			<guid>http://example.com/contact/</guid>
-		</item>
-		<item>
-			<title>mention legale</title>
-			<link>http://example.com/mention-legale/</link>
-			<description>mention legale</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-=======
-			<pubDate>2025-06-16T12:50:19.000Z</pubDate>
-			<guid>http://example.com/contact/</guid>
-		</item>
-		<item>
-			<title>mention legale</title>
-			<link>http://example.com/mention-legale/</link>
-			<description>mention legale</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
->>>>>>> Mise à jour automatique des fichiers
 			<pubDate>2025-06-16T07:46:15.000Z</pubDate>
 			<guid>http://example.com/mention-legale/</guid>
 		</item>
