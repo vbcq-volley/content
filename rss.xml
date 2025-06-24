@@ -9,6 +9,11 @@
 		<language>fr</language>
 		<lastBuildDate>2025-06-24T14:48:27.005Z</lastBuildDate>
 		<pubDate>2025-06-24T12:48:27.004Z</pubDate>
+<<<<<<< HEAD
+=======
+		<lastBuildDate>2025-06-24T14:48:27.005Z</lastBuildDate>
+		<pubDate>2025-06-24T12:48:27.004Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
@@ -48,12 +53,18 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.907Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.907Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/groupe-3/</guid>
 		</item>
 		<item>
 			<title>notice d&#x27;usage utilisateur final</title>
 			<link>http://example.com/notice-d-usage-utilisateur-final/</link>
 			<description>notice d&#x26;#x27;usage utilisateur final</description>
+<<<<<<< HEAD
+=======
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<pubDate>2025-06-12T13:13:01.000Z</pubDate>
 			<guid>http://example.com/notice-d-usage-utilisateur-final/</guid>
@@ -63,6 +74,7 @@
 			<link>http://example.com/stades/</link>
 			<description>Stades</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-24T10:48:26.754Z</pubDate>
 			<pubDate>2025-06-24T10:48:26.754Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
@@ -94,11 +106,73 @@
 			<title>groupe_2</title>
 			<link>http://example.com/groupe-2/</link>
 			<description>groupe_2</description>
+			<title>condition d&#x27;utilisation</title>
+			<link>http://example.com/condition-d-utilisation/</link>
+			<description>condition d&#x26;#x27;utilisation</description>
+>>>>>>> Mise à jour automatique des fichiers
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-16T13:05:23.000Z</pubDate>
+			<guid>http://example.com/condition-d-utilisation/</guid>
+		</item>
+		<item>
+			<title>contact</title>
+			<link>http://example.com/contact/</link>
+			<description>contact</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+<<<<<<< HEAD
+			<pubDate>2025-06-24T10:48:26.754Z</pubDate>
+			<guid>http://example.com/stades/</guid>
+		</item>
+		<item>
+			<title>condition d&#x27;utilisation</title>
+			<link>http://example.com/condition-d-utilisation/</link>
+			<description>condition d&#x26;#x27;utilisation</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-16T13:05:23.000Z</pubDate>
+			<guid>http://example.com/condition-d-utilisation/</guid>
+		</item>
+		<item>
+			<title>contact</title>
+			<link>http://example.com/contact/</link>
+			<description>contact</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-16T12:50:19.000Z</pubDate>
+			<guid>http://example.com/contact/</guid>
+		</item>
+		<item>
+			<title>mention legale</title>
+			<link>http://example.com/mention-legale/</link>
+			<description>mention legale</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+=======
+			<pubDate>2025-06-16T12:50:19.000Z</pubDate>
+			<guid>http://example.com/contact/</guid>
+		</item>
+		<item>
+			<title>mention legale</title>
+			<link>http://example.com/mention-legale/</link>
+			<description>mention legale</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+>>>>>>> Mise à jour automatique des fichiers
+			<pubDate>2025-06-16T07:46:15.000Z</pubDate>
+			<guid>http://example.com/mention-legale/</guid>
+		</item>
+		<item>
+			<title>groupe_2</title>
+			<link>http://example.com/groupe-2/</link>
+			<description>groupe_2</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.906Z</pubDate>
 			<guid>http://example.com/groupe-2/</guid>
+<<<<<<< HEAD
+=======
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-24T10:48:26.906Z</pubDate>
+			<guid>http://example.com/groupe-2/</guid>
+>>>>>>> Mise à jour automatique des fichiers
 		</item>
 		<item>
 			<title>Carhaix</title>
@@ -107,6 +181,10 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.744Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.744Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/stades/Carhaix/</guid>
 		</item>
 		<item>
@@ -117,9 +195,25 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.994Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.994Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Cap-Sizun/</guid>
 		</item>
 		<item>
+
+			<title>Carhaix</title>
+			<link>http://example.com/stades/Carhaix/</link>
+			<description>Carhaix</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<pubDate>2025-06-24T10:53:51.936Z</pubDate>
+			<guid>http://example.com/stades/Carhaix/</guid>
+		</item>
+		<item>
+
+
 			<title>&#xC9;quipe Carhaix</title>
 			<link>http://example.com/teams/Carhaix/</link>
 			<description>&#x26;#xC9;quipe Carhaix</description>
@@ -127,16 +221,29 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.923Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.923Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Carhaix/</guid>
 		</item>
 		<item>
+
+
+
+
 			<title>&#xC9;quipe Ch&#xE2;teaulin 1</title>
 			<link>http://example.com/teams/Ch%C3%A2teaulin-1/</link>
 			<description>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 1</description>
+
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.938Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.938Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Ch%C3%A2teaulin-1/</guid>
 		</item>
 		<item>
@@ -158,6 +265,27 @@
 			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
+<<<<<<< HEAD
+=======
+			<title>Tournois</title>
+			<link>http://example.com/tournois/</link>
+			<description>Tournois</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-19T12:24:02.238Z</pubDate>
+			<guid>http://example.com/tournois/</guid>
+		</item>
+		<item>
+			<title>groupe_1</title>
+			<link>http://example.com/groupe-1/</link>
+			<description>groupe_1</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-24T10:48:26.903Z</pubDate>
+			<guid>http://example.com/groupe-1/</guid>
+		</item>
+		<item>
+>>>>>>> Mise à jour automatique des fichiers
 			<title>&#xC9;quipe Ch&#xE2;teaulin 2</title>
 			<link>http://example.com/teams/Ch%C3%A2teaulin-2/</link>
 			<description>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 2</description>
@@ -165,6 +293,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.998Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.998Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Ch%C3%A2teaulin-2/</guid>
 		</item>
 		<item>
@@ -175,6 +307,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.985Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.985Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Concarneau-1/</guid>
 		</item>
 		<item>
@@ -185,6 +321,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:27.002Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:27.002Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-A/</guid>
 		</item>
 		<item>
@@ -195,17 +335,32 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.935Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.935Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Fouesnant-1/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Ergu&#xE9;-Gab&#xE9;ric B</title>
 			<link>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</link>
 			<description>&#x26;#xC9;quipe Ergu&#x26;#xE9;-Gab&#x26;#xE9;ric B</description>
+<<<<<<< HEAD
+=======
+			<title>&#xC9;quipe Ergu&#xE9;-Gab&#xE9;ric B</title>
+			<link>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</link>
+			<description>&#x26;#xC9;quipe Ergu&#x26;#xE9;-Gab&#x26;#xE9;ric B</description>
+>>>>>>> Mise à jour automatique des fichiers
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:27.003Z</pubDate>
 			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</guid>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:27.003Z</pubDate>
+			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</guid>
+>>>>>>> Mise à jour automatique des fichiers
 		</item>
 		<item>
 			<title>&#xC9;quipe Fouesnant 2</title>
@@ -215,6 +370,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.993Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.993Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Fouesnant-2/</guid>
 		</item>
 		<item>
@@ -228,6 +387,19 @@
 			<guid>http://example.com/teams/Fouesnant-3/</guid>
 		</item>
 		<item>
+<<<<<<< HEAD
+=======
+			<title>&#xC9;quipe Fouesnant 3</title>
+			<link>http://example.com/teams/Fouesnant-3/</link>
+			<description>&#x26;#xC9;quipe Fouesnant 3</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-24T10:48:27.000Z</pubDate>
+			<guid>http://example.com/teams/Fouesnant-3/</guid>
+		</item>
+		<item>
+>>>>>>> Mise à jour automatique des fichiers
 			<title>&#xC9;quipe Kemperle 1</title>
 			<link>http://example.com/teams/Kemperle-1/</link>
 			<description>&#x26;#xC9;quipe Kemperle 1</description>
@@ -235,16 +407,32 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.992Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.992Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Kemperle-1/</guid>
 		</item>
 		<item>
-			<title>&#xC9;quipe Kemperle 2</title>
-			<link>http://example.com/teams/Kemperle-2/</link>
-			<description>&#x26;#xC9;quipe Kemperle 2</description>
+			<title>contact</title>
+			<link>http://example.com/contact/</link>
+			<description>contact</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-16T12:50:19.000Z</pubDate>
+			<guid>http://example.com/contact/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Ch&#xE2;teaulin 1</title>
+			<link>http://example.com/teams/Ch%C3%A2teaulin-1/</link>
+			<description>&#x26;#xC9;quipe Ch&#x26;#xE2;teaulin 1</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.965Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.965Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Kemperle-2/</guid>
 		</item>
 		<item>
@@ -255,6 +443,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.926Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.926Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Kervao-Bar/</guid>
 		</item>
 		<item>
@@ -265,6 +457,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.939Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.939Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/PLONESCAF/</guid>
 		</item>
 		<item>
@@ -275,6 +471,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.936Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.936Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Penn-Sardin-1/</guid>
 		</item>
 		<item>
@@ -285,7 +485,21 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:27.000Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:27.000Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Penn-Sardin-2/</guid>
+		</item>
+		<item>
+			<title>&#xC9;quipe Quimper 29 A</title>
+			<link>http://example.com/teams/Quimper-29-A/</link>
+			<description>&#x26;#xC9;quipe Quimper 29 A</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-24T10:53:51.908Z</pubDate>
+			<guid>http://example.com/teams/Quimper-29-A/</guid>
 		</item>
 		<item>
 			<title>&#xC9;quipe Plon&#xE9;our</title>
@@ -295,6 +509,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.995Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.995Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Plon%C3%A9our-/</guid>
 		</item>
 		<item>
@@ -305,6 +523,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.995Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.995Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Quimper-29-A/</guid>
 		</item>
 		<item>
@@ -315,6 +537,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.998Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.998Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Quimper-29-B/</guid>
 		</item>
 		<item>
@@ -325,6 +551,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:27.001Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:27.001Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/St-Evarzec-/</guid>
 		</item>
 		<item>
@@ -335,6 +565,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.931Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.931Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Th%C3%A9pot/</guid>
 		</item>
 		<item>
@@ -345,6 +579,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:26.941Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:26.941Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/USB/</guid>
 		</item>
 		<item>
@@ -355,6 +593,10 @@
 			<category></category>
 			<category></category>
 			<pubDate>2025-06-24T10:48:27.004Z</pubDate>
+<<<<<<< HEAD
+=======
+			<pubDate>2025-06-24T10:48:27.004Z</pubDate>
+>>>>>>> Mise à jour automatique des fichiers
 			<guid>http://example.com/teams/Gourin-GVB-/-Sca%C3%ABr/</guid>
 		</item>
 		<item>
@@ -367,6 +609,19 @@
 			<pubDate>2025-06-24T10:48:26.919Z</pubDate>
 			<guid>http://example.com/teams/PLUGUFFAN/</guid>
 		</item>
+<<<<<<< HEAD
+=======
+		<item>
+			<title>&#xC9;quipe PLUGUFFAN</title>
+			<link>http://example.com/teams/PLUGUFFAN/</link>
+			<description>&#x26;#xC9;quipe PLUGUFFAN</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<category></category>
+			<category></category>
+			<pubDate>2025-06-24T10:48:26.919Z</pubDate>
+			<guid>http://example.com/teams/PLUGUFFAN/</guid>
+		</item>
+>>>>>>> Mise à jour automatique des fichiers
 	</channel>
 </rss>
 <!-- XML RSS 2.0 generated by Dimas Lanjaka -->
