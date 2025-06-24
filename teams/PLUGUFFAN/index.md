@@ -2,7 +2,7 @@
 
 title: Équipe PLUGUFFAN
 
-date: 2025-06-23T12:19:01.863Z
+date: 2025-06-24T12:50:41.193Z
 
 layout: team
 
@@ -31,6 +31,7 @@ rabonne@hotmail.fr
 | Équipe 1 | Score | Équipe 2 | Lieu | Date |
 |----------|-------|----------|------|------|
 | [PLUGUFFAN](/teams/PLUGUFFAN) | 3 - 1 | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
+| [PLUGUFFAN](/teams/PLUGUFFAN) | 1 - 3 | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
 
 #### Matchs à domicile
 
@@ -42,6 +43,5 @@ rabonne@hotmail.fr
 
 | Équipe 1 | Équipe 2 | Lieu | Date |
 |----------|----------|------|------|
-| [PLUGUFFAN](/teams/PLUGUFFAN) | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
 | [PLUGUFFAN](/teams/PLUGUFFAN) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 18 juillet 2025 à 20:30 |
 

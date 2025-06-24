@@ -1,6 +1,6 @@
 ---
 title: groupe_1
-date: 2025-06-23T12:19:02.045Z
+date: 2025-06-24T12:50:41.146Z
 layout: championnat
 group: 1
 categories:
@@ -27,6 +27,7 @@ categories:
 | Équipe 1 | Score | Équipe 2 | Lieu | Date |
 |----------|-------|----------|------|------|
 | [PLUGUFFAN](/teams/PLUGUFFAN) | 3 - 1 | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
+| [PLUGUFFAN](/teams/PLUGUFFAN) | 1 - 3 | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
 | [Kervao-Bar](/teams/Kervao-Bar) | 3 - 0 | [Thépot](/teams/Thépot) | [Carhaix](/stades/Carhaix) | 16 juin 2025 à 20:30 |
 
 #### Matchs à domicile
@@ -41,7 +42,6 @@ categories:
 
 | Équipe 1 | Équipe 2 | Lieu | Date |
 |----------|----------|------|------|
-| [PLUGUFFAN](/teams/PLUGUFFAN) | [Carhaix](/teams/Carhaix) | [Carhaix](/stades/Carhaix) | 23 juin 2025 à 20:30 |
 | [Kervao-Bar](/teams/Kervao-Bar) | [Thépot](/teams/Thépot) | [Carhaix](/stades/Carhaix) | 30 juin 2025 à 20:30 |
 | [Fouesnant-1](/teams/Fouesnant-1) | [Penn-Sardin-1](/teams/Penn-Sardin-1) | [Carhaix](/stades/Carhaix) | 7 juillet 2025 à 20:30 |
 | [Châteaulin-1](/teams/Châteaulin-1) | [PLONESCAF](/teams/PLONESCAF) | [Carhaix](/stades/Carhaix) | 14 juillet 2025 à 20:30 |
