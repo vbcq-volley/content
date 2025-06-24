@@ -1,5 +1,5 @@
 layout: page
-title: contact
+title: Contact
 date: 2025-06-16 14:50:19
 tags:
 ---
