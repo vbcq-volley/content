@@ -10,5 +10,5 @@ t &nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
 
-* [ ]  mettre a jour le championnat
-* [ ]  ajouter tout les stade
+* [ ]  mettre  jour le championnat
+* [ ]  ajouter tout les stades
