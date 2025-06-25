@@ -4,10 +4,10 @@ author: Thomas Iniguez Visioli
 date: 2025-06-25 16:33:25
 tags:
 ---
-t &nbsp;&nbsp;&nbsp;&nbsp;
-
 ![Figure_3.png](/images/Figure_3.png)
 a
+
+t &nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
