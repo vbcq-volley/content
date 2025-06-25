@@ -10,4 +10,5 @@ t &nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 
 
-* [ ]  mettre a jour le
+* [ ]  mettre a jour le championnat
+* [ ]  ajouter
