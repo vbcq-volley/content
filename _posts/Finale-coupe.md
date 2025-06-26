@@ -12,9 +12,3 @@ vendredi 20 juin à kervihan Thepot Pluguffan
 | - | - | - |
 |  |  |  |
 |  |  |  |
-
-
-|  |  |  |
-| - | - | - |
-|  |  |  |
-|  |  |  |
