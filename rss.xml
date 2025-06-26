@@ -7,8 +7,8 @@
 		<link>http://example.com</link>
 		<description></description>
 		<language>fr</language>
-		<lastBuildDate>2025-06-26T15:45:27.654Z</lastBuildDate>
-		<pubDate>2025-06-26T13:45:27.653Z</pubDate>
+		<lastBuildDate>2025-06-26T15:50:14.218Z</lastBuildDate>
+		<pubDate>2025-06-26T13:50:14.216Z</pubDate>
 		<ttl>1800</ttl>
     <image>
       <url>https://w7.pngwing.com/pngs/745/306/png-transparent-gallery-image-images-photo-picture-pictures-set-app-incredibles-icon-thumbnail.png</url>
@@ -33,20 +33,20 @@
 			<guid>http://example.com/2025/06/06/test/</guid>
 		</item>
 		<item>
-			<title>test_interface termin&#xE9;e</title>
-			<link>http://example.com/2025/06/25/test_interface%20termin%C3%A9e/</link>
-			<description>test_interface termin&#x26;#xE9;e</description>
-			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-25T14:33:25.000Z</pubDate>
-			<guid>http://example.com/2025/06/25/test_interface%20termin%C3%A9e/</guid>
-		</item>
-		<item>
 			<title>test_interface 2</title>
 			<link>http://example.com/2025/06/25/test_interface%202/</link>
 			<description>test_interface 2</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<pubDate>2025-06-25T14:33:25.000Z</pubDate>
 			<guid>http://example.com/2025/06/25/test_interface%202/</guid>
+		</item>
+		<item>
+			<title>test_interface termin&#xE9;e</title>
+			<link>http://example.com/2025/06/25/test_interface%20termin%C3%A9e/</link>
+			<description>test_interface termin&#x26;#xE9;e</description>
+			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
+			<pubDate>2025-06-25T14:33:25.000Z</pubDate>
+			<guid>http://example.com/2025/06/25/test_interface%20termin%C3%A9e/</guid>
 		</item>
 		<item>
 			<title>about</title>
@@ -79,7 +79,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.652Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.761Z</pubDate>
 			<guid>http://example.com/groupe-2/</guid>
 		</item>
 		<item>
@@ -89,7 +89,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.648Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.757Z</pubDate>
 			<guid>http://example.com/groupe-1/</guid>
 		</item>
 		<item>
@@ -107,7 +107,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.653Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.763Z</pubDate>
 			<guid>http://example.com/groupe-3/</guid>
 		</item>
 		<item>
@@ -123,7 +123,7 @@
 			<link>http://example.com/stades/</link>
 			<description>Stades</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
-			<pubDate>2025-06-26T11:45:27.418Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.620Z</pubDate>
 			<guid>http://example.com/stades/</guid>
 		</item>
 		<item>
@@ -141,7 +141,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.352Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.997Z</pubDate>
 			<guid>http://example.com/teams/Cap-Sizun/</guid>
 		</item>
 		<item>
@@ -150,7 +150,7 @@
 			<description>Carhaix</description>
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.412Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.614Z</pubDate>
 			<guid>http://example.com/stades/Carhaix/</guid>
 		</item>
 		<item>
@@ -160,7 +160,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.335Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.792Z</pubDate>
 			<guid>http://example.com/teams/Carhaix/</guid>
 		</item>
 		<item>
@@ -170,7 +170,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.355Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.008Z</pubDate>
 			<guid>http://example.com/teams/Ch%C3%A2teaulin-2/</guid>
 		</item>
 		<item>
@@ -180,7 +180,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.344Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.798Z</pubDate>
 			<guid>http://example.com/teams/Ch%C3%A2teaulin-1/</guid>
 		</item>
 		<item>
@@ -190,7 +190,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.358Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.214Z</pubDate>
 			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-A/</guid>
 		</item>
 		<item>
@@ -200,7 +200,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.349Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.944Z</pubDate>
 			<guid>http://example.com/teams/Concarneau-1/</guid>
 		</item>
 		<item>
@@ -210,7 +210,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.359Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.215Z</pubDate>
 			<guid>http://example.com/teams/Ergu%C3%A9-Gab%C3%A9ric-B/</guid>
 		</item>
 		<item>
@@ -220,7 +220,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.351Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.994Z</pubDate>
 			<guid>http://example.com/teams/Fouesnant-2/</guid>
 		</item>
 		<item>
@@ -230,7 +230,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.350Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.993Z</pubDate>
 			<guid>http://example.com/teams/Kemperle-1/</guid>
 		</item>
 		<item>
@@ -240,7 +240,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.357Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.179Z</pubDate>
 			<guid>http://example.com/teams/Fouesnant-3/</guid>
 		</item>
 		<item>
@@ -250,7 +250,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.348Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.836Z</pubDate>
 			<guid>http://example.com/teams/Kemperle-2/</guid>
 		</item>
 		<item>
@@ -260,7 +260,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.336Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.793Z</pubDate>
 			<guid>http://example.com/teams/Kervao-Bar/</guid>
 		</item>
 		<item>
@@ -270,7 +270,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.341Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.795Z</pubDate>
 			<guid>http://example.com/teams/Fouesnant-1/</guid>
 		</item>
 		<item>
@@ -280,7 +280,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.323Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.788Z</pubDate>
 			<guid>http://example.com/teams/PLUGUFFAN/</guid>
 		</item>
 		<item>
@@ -290,7 +290,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.356Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.157Z</pubDate>
 			<guid>http://example.com/teams/Penn-Sardin-2/</guid>
 		</item>
 		<item>
@@ -300,7 +300,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.345Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.802Z</pubDate>
 			<guid>http://example.com/teams/PLONESCAF/</guid>
 		</item>
 		<item>
@@ -310,7 +310,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.353Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.999Z</pubDate>
 			<guid>http://example.com/teams/Plon%C3%A9our-/</guid>
 		</item>
 		<item>
@@ -320,7 +320,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.343Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.797Z</pubDate>
 			<guid>http://example.com/teams/Penn-Sardin-1/</guid>
 		</item>
 		<item>
@@ -330,7 +330,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.354Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.005Z</pubDate>
 			<guid>http://example.com/teams/Quimper-29-A/</guid>
 		</item>
 		<item>
@@ -340,7 +340,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.355Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.006Z</pubDate>
 			<guid>http://example.com/teams/Quimper-29-B/</guid>
 		</item>
 		<item>
@@ -350,7 +350,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.358Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.181Z</pubDate>
 			<guid>http://example.com/teams/St-Evarzec-/</guid>
 		</item>
 		<item>
@@ -360,7 +360,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.338Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.794Z</pubDate>
 			<guid>http://example.com/teams/Th%C3%A9pot/</guid>
 		</item>
 		<item>
@@ -370,7 +370,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.347Z</pubDate>
+			<pubDate>2025-06-26T11:50:13.826Z</pubDate>
 			<guid>http://example.com/teams/USB/</guid>
 		</item>
 		<item>
@@ -380,7 +380,7 @@
 			<author>noreply@blogger.com (Thomas Iniguez Visioli)</author>
 			<category></category>
 			<category></category>
-			<pubDate>2025-06-26T11:45:27.371Z</pubDate>
+			<pubDate>2025-06-26T11:50:14.216Z</pubDate>
 			<guid>http://example.com/teams/Gourin-GVB-/-Sca%C3%ABr/</guid>
 		</item>
 	</channel>
