@@ -2,7 +2,7 @@
 
 title: Équipe Kervao Bar
 
-date: 2025-06-26T14:01:45.187Z
+date: 2025-06-26T14:24:45.564Z
 
 layout: team
 
