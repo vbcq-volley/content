@@ -7,8 +7,6 @@ tags:
 ---
 vendredi 20 juin à kervihan Thepot Pluguffan
 
-| 
-
 
 |  | col2 | col3 |
 | - | ---- | ---- |
