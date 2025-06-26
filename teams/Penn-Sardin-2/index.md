@@ -2,7 +2,7 @@
 
 title: Équipe Penn Sardin 2
 
-date: 2025-06-26T13:51:01.439Z
+date: 2025-06-26T13:57:02.627Z
 
 layout: team
 
