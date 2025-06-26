@@ -5,7 +5,6 @@ date: 2025-06-25 16:33:25
 tags:
 ---
 at &nbsp;&nbsp;&nbsp;&nbsp;
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 * [ ] mettre à jour le championnat
