@@ -1,6 +1,7 @@
 ---
 title: Actualités
-date: '2025-06-06'
+cover: /images/Figure_6.png
+date: 2025-06-06 00:00:00
 tags:
 ---
 les actualités sont ici
